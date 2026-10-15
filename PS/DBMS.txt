@@ -1,0 +1,4575 @@
+# DBMS — Complete MCQ Question Bank 📘
+
+**Source restriction:** The questions below are based **only on your uploaded DBMS notes**. I have not intentionally added outside DBMS concepts. Where the OCR wording is imperfect, I have kept the meaning aligned with the notes.
+
+The bank covers the material under:
+
+1. **Unit I — Introduction to Database System**
+2. **Unit III — Relational Algebra and Calculus**
+3. **Unit II — Database System Architecture**
+4. DBMS components, functions, data models, and database system types
+
+---
+
+# UNIT I — INTRODUCTION TO DATABASE SYSTEM
+
+## 1. Introduction to DBMS
+
+### Q1. What does DBMS stand for?
+
+A. Database Management System
+B. Data Backup Management System
+C. Database Machine System
+D. Data Manipulation System
+
+**Answer: A**
+
+### Q2. A DBMS is primarily a:
+
+A. Hardware device
+B. Software system
+C. Network cable
+D. Programming language
+
+**Answer: B**
+
+### Q3. A DBMS helps users to:
+
+A. Only store data
+B. Only retrieve data
+C. Create, store, organize, retrieve, update and manage data
+D. Only delete data
+
+**Answer: C**
+
+### Q4. A database is:
+
+A. A programming language
+B. An organized collection of related data stored electronically
+C. A computer processor
+D. A network
+
+**Answer: B**
+
+### Q5. DBMS acts as an interface between:
+
+A. Hardware and electricity
+B. Users and database
+C. Network and printer
+D. CPU and RAM
+
+**Answer: B**
+
+### Q6. Which of the following is an example of a DBMS mentioned in the notes?
+
+A. Oracle Database
+B. Windows
+C. HTML
+D. Python
+
+**Answer: A**
+
+### Q7. Which of the following is NOT listed as an example of a DBMS?
+
+A. MySQL
+B. PostgreSQL
+C. Microsoft SQL Server
+D. Photoshop
+
+**Answer: D**
+
+### Q8. One advantage of DBMS is:
+
+A. Increased data redundancy
+B. Reduced data redundancy
+C. Elimination of all data
+D. Reduced security
+
+**Answer: B**
+
+### Q9. DBMS improves:
+
+A. Data inconsistency
+B. Data consistency
+C. Data duplication
+D. Hardware failure
+
+**Answer: B**
+
+### Q10. DBMS provides:
+
+A. Data security
+B. Data destruction
+C. Only offline access
+D. No backup facility
+
+**Answer: A**
+
+### Q11. DBMS supports:
+
+A. Only one user
+B. Multiple users
+C. No users
+D. Only administrators
+
+**Answer: B**
+
+### Q12. DBMS enables:
+
+A. Quick data retrieval
+B. Slower retrieval
+C. Manual retrieval only
+D. No retrieval
+
+**Answer: A**
+
+### Q13. DBMS provides facilities for:
+
+A. Backup and recovery
+B. Only printing
+C. Only networking
+D. Only programming
+
+**Answer: A**
+
+---
+
+# 2. Data
+
+### Q14. Data refers to:
+
+A. Processed facts only
+B. Raw facts and figures that have not yet been processed into meaning
+C. Final reports
+D. Decisions
+
+**Answer: B**
+
+### Q15. Which of the following can be a form of data?
+
+A. Numbers
+B. Text
+C. Images
+D. All of the above
+
+**Answer: D**
+
+### Q16. Which is an example of numeric data?
+
+A. Rahul
+B. Ahmedabad
+C. 100
+D. 15-07-2008
+
+**Answer: C**
+
+### Q17. Student Name is an example of:
+
+A. Character data
+B. Boolean data
+C. Numeric data
+D. Multimedia data
+
+**Answer: A**
+
+### Q18. Which is an example of Date and Time data?
+
+A. Rahul
+B. 15-07-2008
+C. True
+D. 100
+
+**Answer: B**
+
+### Q19. Boolean data consists of:
+
+A. Numbers only
+B. True or False
+C. Images only
+D. Dates only
+
+**Answer: B**
+
+### Q20. Images, audio and video are examples of:
+
+A. Numeric data
+B. Character data
+C. Multimedia data
+D. Boolean data
+
+**Answer: C**
+
+### Q21. Data forms the foundation of:
+
+A. Information
+B. Hardware
+C. Electricity
+D. Networks
+
+**Answer: A**
+
+### Q22. Data supports:
+
+A. Business operations
+B. Only entertainment
+C. Only programming
+D. Only hardware design
+
+**Answer: A**
+
+### Q23. Data is used for decision-making:
+
+A. Before processing
+B. After processing
+C. Without processing
+D. Never
+
+**Answer: B**
+
+---
+
+# 3. Information
+
+### Q24. Information is:
+
+A. Raw data
+B. Processed and organized data that has meaning
+C. Unprocessed facts
+D. Hardware
+
+**Answer: B**
+
+### Q25. Information is useful for:
+
+A. Decision-making
+B. Destroying databases
+C. Increasing redundancy
+D. Removing security
+
+**Answer: A**
+
+### Q26. Which characteristic of good information means it should be correct?
+
+A. Complete
+B. Accurate
+C. Timely
+D. Relevant
+
+**Answer: B**
+
+### Q27. Which is a characteristic of good information?
+
+A. Complete
+B. Relevant
+C. Timely
+D. All of the above
+
+**Answer: D**
+
+### Q28. Good information should be:
+
+A. Difficult to understand
+B. Easy to understand
+C. Always incomplete
+D. Unreliable
+
+**Answer: B**
+
+### Q29. Good information should be:
+
+A. Reliable
+B. Random
+C. Unprocessed
+D. Duplicate
+
+**Answer: A**
+
+### Q30. Information helps managers to:
+
+A. Solve problems
+B. Create hardware
+C. Remove users
+D. Destroy records
+
+**Answer: A**
+
+### Q31. Information reduces:
+
+A. Uncertainty
+B. Accuracy
+C. Security
+D. Consistency
+
+**Answer: A**
+
+### Q32. Which is an example of processed information from the notes?
+
+A. 78, 65, 92
+B. Average Marks = 65
+C. Rahul
+D. Ahmedabad
+
+**Answer: B**
+
+---
+
+# 4. Data vs Information
+
+### Q33. Data is generally:
+
+A. Processed facts
+B. Raw facts
+C. Organized reports
+D. Final decisions
+
+**Answer: B**
+
+### Q34. Information is:
+
+A. Raw data
+B. Processed data
+C. Unorganized facts
+D. Input only
+
+**Answer: B**
+
+### Q35. Data is generally the:
+
+A. Output after processing
+B. Input for processing
+C. Final report
+D. Decision
+
+**Answer: B**
+
+### Q36. Information is generally the:
+
+A. Input before processing
+B. Output after processing
+C. Raw fact
+D. Unorganized value
+
+**Answer: B**
+
+### Q37. Which has direct meaningful use for users?
+
+A. Raw data
+B. Information
+C. Unprocessed values
+D. Isolated facts
+
+**Answer: B**
+
+---
+
+# 5. Data Warehouse
+
+### Q38. A Data Warehouse is a:
+
+A. Centralized repository
+B. Programming language
+C. Network device
+D. Database user
+
+**Answer: A**
+
+### Q39. A Data Warehouse stores large volumes of:
+
+A. Historical data
+B. Only current transactions
+C. Hardware
+D. Programs
+
+**Answer: A**
+
+### Q40. Data in a Data Warehouse is collected from:
+
+A. Other sources
+B. Only one user
+C. Only one table
+D. Only hardware
+
+**Answer: A**
+
+### Q41. A Data Warehouse is mainly used for:
+
+A. Reporting and business analysis
+B. Keyboard input
+C. Hardware repair
+D. Operating-system installation
+
+**Answer: A**
+
+### Q42. A Data Warehouse is primarily intended for:
+
+A. Day-to-day transactions
+B. Reporting, analysis and decision-making
+C. Programming only
+D. Network configuration
+
+**Answer: B**
+
+### Q43. Which is a characteristic of a Data Warehouse?
+
+A. Subject-oriented
+B. Integrated
+C. Time-variant
+D. All of the above
+
+**Answer: D**
+
+### Q44. A Data Warehouse is:
+
+A. Non-volatile
+B. Always volatile
+C. Temporary only
+D. Unstructured only
+
+**Answer: A**
+
+### Q45. ETL stands for:
+
+A. Extract, Transform, Load
+B. Enter, Transfer, Link
+C. Extract, Test, Locate
+D. Execute, Transform, Load
+
+**Answer: A**
+
+### Q46. Which is a component of a Data Warehouse?
+
+A. Data Sources
+B. ETL
+C. Metadata
+D. All of the above
+
+**Answer: D**
+
+### Q47. Which of the following is associated with a Data Warehouse?
+
+A. Reporting tools
+B. Only keyboards
+C. Only printers
+D. Only operating systems
+
+**Answer: A**
+
+### Q48. One advantage of a Data Warehouse is:
+
+A. Supports business intelligence
+B. Increases data inconsistency
+C. Prevents reporting
+D. Eliminates analysis
+
+**Answer: A**
+
+### Q49. A disadvantage of a Data Warehouse is:
+
+A. High implementation cost
+B. Easy implementation
+C. No maintenance
+D. Instant development
+
+**Answer: A**
+
+### Q50. A Data Warehouse may be:
+
+A. Time-consuming to develop
+B. Impossible to develop
+C. Used only for gaming
+D. Used only for programming
+
+**Answer: A**
+
+### Q51. Which is an application of Data Warehouse?
+
+A. Banking
+B. Healthcare
+C. Retail
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 6. Metadata
+
+### Q52. Metadata means:
+
+A. Data about data
+B. Data without meaning
+C. Hardware about data
+D. Backup data
+
+**Answer: A**
+
+### Q53. Metadata describes:
+
+A. Structure and properties of data
+B. Only physical computers
+C. Only users
+D. Only passwords
+
+**Answer: A**
+
+### Q54. In a student database, “Name is VARCHAR(50)” is:
+
+A. Actual student data
+B. Metadata
+C. A transaction
+D. A record
+
+**Answer: B**
+
+### Q55. Metadata helps the DBMS understand:
+
+A. How data is stored and managed
+B. How electricity is supplied
+C. How a monitor works
+D. How a keyboard works
+
+**Answer: A**
+
+### Q56. Which is a characteristic of metadata?
+
+A. Describes database objects
+B. Defines data types
+C. Provides information about relationships
+D. All of the above
+
+**Answer: D**
+
+### Q57. Metadata can define:
+
+A. Data types and field sizes
+B. Only passwords
+C. Only users
+D. Only files
+
+**Answer: A**
+
+### Q58. Metadata helps improve:
+
+A. Database management and maintenance
+B. Hardware manufacturing
+C. Internet speed
+D. Keyboard performance
+
+**Answer: A**
+
+### Q59. Which type of metadata describes the database structure?
+
+A. Structural metadata
+B. Administrative metadata
+C. Descriptive metadata
+D. Transaction metadata
+
+**Answer: A**
+
+### Q60. Structural metadata may contain:
+
+A. Table names
+B. Column names
+C. Data types
+D. All of the above
+
+**Answer: D**
+
+### Q61. Administrative metadata contains information used to:
+
+A. Manage the database
+B. Design keyboards
+C. Edit videos
+D. Browse websites
+
+**Answer: A**
+
+### Q62. Which is an example of administrative metadata?
+
+A. Creation date
+B. Last modified date
+C. User permissions
+D. All of the above
+
+**Answer: D**
+
+### Q63. Descriptive metadata provides information for:
+
+A. Finding and searching data
+B. Formatting hardware
+C. Creating electricity
+D. Network cabling
+
+**Answer: A**
+
+### Q64. Which is an advantage of metadata?
+
+A. Supports data integration
+B. Improves query performance
+C. Helps maintain consistency
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 7. System Catalog
+
+### Q65. A System Catalog is a:
+
+A. Special repository maintained automatically by the DBMS
+B. User application
+C. Hardware device
+D. Programming language
+
+**Answer: A**
+
+### Q66. The System Catalog stores:
+
+A. Metadata
+B. Only actual records
+C. Only images
+D. Only programs
+
+**Answer: A**
+
+### Q67. Another name for System Catalog is:
+
+A. Database Catalog
+B. Data Processor
+C. File Manager
+D. Query Table
+
+**Answer: A**
+
+### Q68. The System Catalog contains information about:
+
+A. Tables
+B. Columns
+C. Indexes
+D. All of the above
+
+**Answer: D**
+
+### Q69. When a new table is created, the DBMS:
+
+A. Automatically updates the System Catalog
+B. Deletes the System Catalog
+C. Ignores it
+D. Creates a new operating system
+
+**Answer: A**
+
+### Q70. Which can be stored in the System Catalog?
+
+A. Primary keys
+B. Foreign keys
+C. Constraints
+D. All of the above
+
+**Answer: D**
+
+### Q71. The System Catalog may contain:
+
+A. User accounts
+B. Access privileges
+C. Views
+D. All of the above
+
+**Answer: D**
+
+### Q72. One function of the System Catalog is:
+
+A. Maintaining metadata
+B. Printing documents
+C. Playing media
+D. Editing images
+
+**Answer: A**
+
+### Q73. The System Catalog helps with:
+
+A. Query optimization
+B. Hardware repair
+C. Video editing
+D. Programming language compilation
+
+**Answer: A**
+
+### Q74. The System Catalog stores:
+
+A. Security information
+B. Only student names
+C. Only transaction records
+D. Only images
+
+**Answer: A**
+
+### Q75. The System Catalog helps keep track of:
+
+A. Database objects
+B. Computer monitors
+C. Network cables
+D. Printers
+
+**Answer: A**
+
+---
+
+# 8. Data Item, Record and File
+
+### Q76. A Data Item or Field is the:
+
+A. Smallest unit of data in a database
+B. Complete database
+C. Collection of records
+D. Collection of tables
+
+**Answer: A**
+
+### Q77. A field represents:
+
+A. A single attribute of an entity
+B. A complete database
+C. Multiple databases
+D. A complete application
+
+**Answer: A**
+
+### Q78. In a student table, Name and Age are examples of:
+
+A. Fields
+B. Files
+C. Databases
+D. Applications
+
+**Answer: A**
+
+### Q79. A field has:
+
+A. A specific data type
+B. No data type
+C. Only numerical values
+D. Only text
+
+**Answer: A**
+
+### Q80. A Record is:
+
+A. A collection of related fields describing one entity
+B. One character
+C. One database
+D. One application
+
+**Answer: A**
+
+### Q81. A record is generally stored as:
+
+A. A row in a table
+B. A database server
+C. A file system
+D. A column only
+
+**Answer: A**
+
+### Q82. A File is:
+
+A. A collection of related records stored together
+B. A single field
+C. A single value
+D. A single column
+
+**Answer: A**
+
+### Q83. Which is a type of file mentioned in the notes?
+
+A. Master File
+B. Transaction File
+C. Reference File
+D. All of the above
+
+**Answer: D**
+
+### Q84. A report file is:
+
+A. A type of file mentioned in the notes
+B. A type of field
+C. A type of key
+D. A type of query
+
+**Answer: A**
+
+### Q85. Which relationship is correct?
+
+A. Field → Record → File
+B. File → Field → Record
+C. Record → Field → File
+D. Database → Field → Record
+
+**Answer: A**
+
+### Q86. A field corresponds most closely to a:
+
+A. Column
+B. Row
+C. Complete data set
+D. Database
+
+**Answer: A**
+
+### Q87. A record corresponds most closely to a:
+
+A. Row
+B. Column
+C. Database
+D. File system
+
+**Answer: A**
+
+### Q88. A file represents:
+
+A. A collection of records
+B. A collection of characters only
+C. One field
+D. One value
+
+**Answer: A**
+
+---
+
+# 9. Data Dictionary
+
+### Q89. A Data Dictionary is a:
+
+A. Centralized repository of metadata
+B. Programming language
+C. Hardware component
+D. Network
+
+**Answer: A**
+
+### Q90. A Data Dictionary stores information about:
+
+A. Tables
+B. Columns
+C. Data types
+D. All of the above
+
+**Answer: D**
+
+### Q91. The DBMS can automatically update the Data Dictionary when:
+
+A. Changes are made
+B. A monitor is changed
+C. A keyboard is disconnected
+D. A program is printed
+
+**Answer: A**
+
+### Q92. An Active Data Dictionary is:
+
+A. Updated automatically by the DBMS
+B. Never updated
+C. Updated only once
+D. Maintained manually only
+
+**Answer: A**
+
+### Q93. A Passive Data Dictionary is:
+
+A. Updated manually
+B. Automatically updated by the DBMS
+C. Always deleted
+D. Not related to metadata
+
+**Answer: A**
+
+### Q94. A disadvantage of a passive Data Dictionary is that it may:
+
+A. Become outdated
+B. Become hardware
+C. Delete the database
+D. Increase processor speed
+
+**Answer: A**
+
+### Q95. Which information can be stored in a Data Dictionary?
+
+A. Table names
+B. Column names
+C. Data types
+D. All of the above
+
+**Answer: D**
+
+### Q96. A Data Dictionary helps with:
+
+A. Database maintenance
+B. Better database management
+C. Faster development
+D. All of the above
+
+**Answer: D**
+
+### Q97. Which is a component of a Data Dictionary?
+
+A. Relationships
+B. Indexes
+C. Views
+D. All of the above
+
+**Answer: D**
+
+### Q98. User information can be stored in:
+
+A. Data Dictionary
+B. CPU only
+C. Monitor only
+D. Keyboard only
+
+**Answer: A**
+
+### Q99. Security information is one component of:
+
+A. Data Dictionary
+B. Keyboard
+C. Monitor
+D. Printer
+
+**Answer: A**
+
+---
+
+# 10. Database Operations
+
+### Q100. CRUD stands for:
+
+A. Create, Read, Update, Delete
+B. Copy, Read, Update, Display
+C. Create, Remove, Use, Delete
+D. Copy, Retrieve, Update, Download
+
+**Answer: A**
+
+### Q101. The Create operation is used to:
+
+A. Create databases and tables and insert new records
+B. Only delete records
+C. Only retrieve records
+D. Only sort records
+
+**Answer: A**
+
+### Q102. Read operation is used to:
+
+A. Fetch information
+B. Delete information
+C. Modify information
+D. Backup information
+
+**Answer: A**
+
+### Q103. Update operation is used to:
+
+A. Modify existing records
+B. Retrieve records
+C. Create databases
+D. Sort records
+
+**Answer: A**
+
+### Q104. Delete operation is used to:
+
+A. Remove unwanted records
+B. Create records
+C. Retrieve records
+D. Sort records
+
+**Answer: A**
+
+### Q105. Search is used to:
+
+A. Find records based on specific conditions
+B. Delete the database
+C. Create hardware
+D. Backup only
+
+**Answer: A**
+
+### Q106. Sort arranges records in:
+
+A. Ascending or descending order
+B. Random order only
+C. Alphabetical order only
+D. No order
+
+**Answer: A**
+
+### Q107. Filter displays:
+
+A. Only records satisfying certain conditions
+B. All records regardless of condition
+C. Only deleted records
+D. Only backup records
+
+**Answer: A**
+
+### Q108. Backup creates:
+
+A. Copies of data to prevent loss
+B. New users
+C. New hardware
+D. New databases only
+
+**Answer: A**
+
+### Q109. Recovery:
+
+A. Restores data after failure
+B. Deletes data after failure
+C. Sorts data
+D. Filters data
+
+**Answer: A**
+
+### Q110. Security protects data from:
+
+A. Unauthorized access
+B. Authorized users
+C. Database administrators
+D. Queries
+
+**Answer: A**
+
+### Q111. Transaction processing ensures:
+
+A. Proper execution of multiple database operations
+B. Only sorting
+C. Only searching
+D. Only backup
+
+**Answer: A**
+
+---
+
+# 11. File-Oriented System vs Database System
+
+### Q112. In a file-oriented system, data is generally stored in:
+
+A. Separate files
+B. One centralized database
+C. Cloud only
+D. Memory only
+
+**Answer: A**
+
+### Q113. In a file-oriented system:
+
+A. Each application may maintain its own files
+B. All applications always share one database
+C. There is no application
+D. There is no data
+
+**Answer: A**
+
+### Q114. A major problem of file-oriented systems is:
+
+A. High data redundancy
+B. No data
+C. Excessive data independence
+D. Automatic security
+
+**Answer: A**
+
+### Q115. File-oriented systems generally have:
+
+A. Poor data sharing
+B. Excellent centralized sharing
+C. No files
+D. Automatic consistency
+
+**Answer: A**
+
+### Q116. Data inconsistency is:
+
+A. Common in file-oriented systems
+B. Impossible in file-oriented systems
+C. Required in DBMS
+D. An advantage of DBMS
+
+**Answer: A**
+
+### Q117. Which is an advantage of a file-oriented system?
+
+A. Easy implementation
+B. High security
+C. Data independence
+D. Centralized control
+
+**Answer: A**
+
+### Q118. File-oriented systems are suitable for:
+
+A. Small applications
+B. All large organizations
+C. Only distributed systems
+D. Only banks
+
+**Answer: A**
+
+### Q119. A file-oriented system:
+
+A. Does not require specialized software
+B. Always requires a DBMS
+C. Requires multiple DBMSs
+D. Requires a data warehouse
+
+**Answer: A**
+
+### Q120. Which is a disadvantage of file-oriented systems?
+
+A. Data redundancy
+B. Data inconsistency
+C. Difficult maintenance
+D. All of the above
+
+**Answer: D**
+
+### Q121. File-oriented systems generally provide:
+
+A. Limited data security
+B. High centralized security
+C. Perfect security
+D. No access
+
+**Answer: A**
+
+### Q122. File-oriented systems have:
+
+A. No centralized control
+B. Complete centralized control
+C. Automatic query optimization
+D. High data independence
+
+**Answer: A**
+
+### Q123. Database systems store related data in:
+
+A. A centralized database
+B. Separate unrelated files
+C. Individual applications only
+D. Temporary memory
+
+**Answer: A**
+
+### Q124. Database systems reduce:
+
+A. Data redundancy
+B. Data consistency
+C. Data security
+D. Data sharing
+
+**Answer: A**
+
+### Q125. Database systems improve:
+
+A. Data consistency
+B. Data redundancy
+C. Data duplication
+D. Manual processing
+
+**Answer: A**
+
+### Q126. Database systems support:
+
+A. Multiple users
+B. Only one user
+C. No users
+D. Only programmers
+
+**Answer: A**
+
+### Q127. Database systems provide:
+
+A. Data independence
+B. Program-data dependence
+C. No security
+D. Poor backup
+
+**Answer: A**
+
+### Q128. Database systems are particularly suitable for:
+
+A. Medium and large organizations
+B. Only very small programs
+C. Only personal files
+D. Only offline applications
+
+**Answer: A**
+
+### Q129. One disadvantage of a database system is:
+
+A. High installation cost
+B. No security
+C. High redundancy
+D. Poor retrieval
+
+**Answer: A**
+
+### Q130. Database systems require:
+
+A. Trained personnel
+B. No personnel
+C. Only hardware technicians
+D. Only end users
+
+**Answer: A**
+
+### Q131. A failure of the centralized database may:
+
+A. Affect all users
+B. Affect nobody
+C. Affect only the keyboard
+D. Improve performance
+
+**Answer: A**
+
+---
+
+# 12. Database Approach
+
+### Q132. The Database Approach manages data using:
+
+A. A centralized database
+B. Separate files only
+C. Individual spreadsheets only
+D. Paper records only
+
+**Answer: A**
+
+### Q133. In the Database Approach, DBMS controls:
+
+A. Data storage
+B. Data retrieval
+C. Security and maintenance
+D. All of the above
+
+**Answer: D**
+
+### Q134. The Database Approach allows:
+
+A. Multiple users to access the same data
+B. Only one user
+C. No data sharing
+D. Only administrators
+
+**Answer: A**
+
+### Q135. Which is a characteristic of the Database Approach?
+
+A. Self-describing database
+B. Data abstraction
+C. Data independence
+D. All of the above
+
+**Answer: D**
+
+### Q136. The Database Approach provides:
+
+A. Controlled redundancy
+B. Unlimited redundancy
+C. No security
+D. No backup
+
+**Answer: A**
+
+### Q137. The Database Approach supports:
+
+A. Multiple users
+B. Only one user
+C. No concurrent access
+D. Only programmers
+
+**Answer: A**
+
+### Q138. Database Approach includes:
+
+A. Security and authorization
+B. Data integrity
+C. Backup and recovery
+D. All of the above
+
+**Answer: D**
+
+### Q139. A limitation of the Database Approach is:
+
+A. High implementation cost
+B. Easy design
+C. No trained administrators required
+D. No security
+
+**Answer: A**
+
+### Q140. Database Approach requires:
+
+A. Skilled database administrators
+B. No administrators
+C. Only end users
+D. Only hardware
+
+**Answer: A**
+
+---
+
+# 13. Database System Environment
+
+### Q141. A Database System Environment consists of:
+
+A. Hardware
+B. Software
+C. Data
+D. All of the above
+
+**Answer: D**
+
+### Q142. Which is NOT listed as a component of the Database System Environment?
+
+A. Hardware
+B. Software
+C. Data
+D. Weather
+
+**Answer: D**
+
+### Q143. Hardware includes:
+
+A. Computers
+B. Servers
+C. Hard disks
+D. All of the above
+
+**Answer: D**
+
+### Q144. Software includes:
+
+A. DBMS
+B. Operating System
+C. Application Software
+D. All of the above
+
+**Answer: D**
+
+### Q145. Data in a database environment may include:
+
+A. Student records
+B. Employee information
+C. Customer details
+D. All of the above
+
+**Answer: D**
+
+### Q146. Procedures are:
+
+A. Rules and instructions for using and maintaining the database
+B. Hardware devices
+C. Database tables
+D. User records
+
+**Answer: A**
+
+### Q147. Which is an example of a database procedure?
+
+A. Backup procedure
+B. Recovery procedure
+C. Security policy
+D. All of the above
+
+**Answer: D**
+
+### Q148. A DBA is responsible for:
+
+A. Database installation
+B. Security management
+C. Backup and recovery
+D. All of the above
+
+**Answer: D**
+
+### Q149. Database designers:
+
+A. Design database structure and relationships
+B. Only use applications
+C. Only retrieve records
+D. Only perform backups
+
+**Answer: A**
+
+### Q150. Application programmers:
+
+A. Develop applications that access the database
+B. Only maintain hardware
+C. Only design networks
+D. Only manage users
+
+**Answer: A**
+
+### Q151. End users:
+
+A. Use applications to retrieve and update data
+B. Design schemas
+C. Install servers
+D. Tune databases
+
+**Answer: A**
+
+---
+
+# 14. Applications of DBMS
+
+### Q152. DBMS is used in:
+
+A. Banking
+B. Education
+C. Healthcare
+D. All of the above
+
+**Answer: D**
+
+### Q153. Banking DBMS applications include:
+
+A. ATM transactions
+B. Internet banking
+C. Customer account information
+D. All of the above
+
+**Answer: D**
+
+### Q154. Educational institutions use DBMS for:
+
+A. Student records
+B. Attendance
+C. Examination results
+D. All of the above
+
+**Answer: D**
+
+### Q155. Healthcare DBMS can manage:
+
+A. Patient records
+B. Doctor information
+C. Appointments
+D. All of the above
+
+**Answer: D**
+
+### Q156. Railway and airline reservation systems use DBMS for:
+
+A. Ticket booking
+B. Seat availability
+C. Passenger details
+D. All of the above
+
+**Answer: D**
+
+### Q157. E-commerce DBMS applications include:
+
+A. Product catalog
+B. Customer information
+C. Orders
+D. All of the above
+
+**Answer: D**
+
+### Q158. E-commerce systems may also manage:
+
+A. Payments
+B. Delivery tracking
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q159. Library Management systems store:
+
+A. Books
+B. Members
+C. Issue and return records
+D. All of the above
+
+**Answer: D**
+
+### Q160. Telecommunications DBMS applications include:
+
+A. Customer accounts
+B. Recharge history
+C. Call records
+D. All of the above
+
+**Answer: D**
+
+### Q161. Government organizations may use DBMS for:
+
+A. Aadhaar records
+B. Passport management
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q162. Manufacturing DBMS applications include:
+
+A. Inventory
+B. Suppliers
+C. Production details
+D. All of the above
+
+**Answer: D**
+
+### Q163. Social media platforms manage:
+
+A. User profiles
+B. Posts
+C. Messages
+D. All of the above
+
+**Answer: D**
+
+---
+
+# UNIT III — RELATIONAL ALGEBRA AND CALCULUS
+
+# 15. Relational Model
+
+### Q164. The Relational Model was proposed by:
+
+A. Edgar F. Codd
+B. Charles Babbage
+C. Dennis Ritchie
+D. James Gosling
+
+**Answer: A**
+
+### Q165. The Relational Model was introduced in:
+
+A. 1970
+B. 1980
+C. 1990
+D. 2000
+
+**Answer: A**
+
+### Q166. In the Relational Model, data is stored in:
+
+A. Tables
+B. Trees only
+C. Graphs only
+D. Files only
+
+**Answer: A**
+
+### Q167. A relation in the relational model is represented as:
+
+A. A table
+B. A program
+C. A processor
+D. A network
+
+**Answer: A**
+
+### Q168. Relationships between tables are established using:
+
+A. Keys
+B. Images
+C. Passwords only
+D. Files only
+
+**Answer: A**
+
+### Q169. The Relational Model is described in the notes as:
+
+A. Simple and flexible
+B. Difficult and inflexible
+C. Hardware-dependent
+D. Non-tabular
+
+**Answer: A**
+
+### Q170. One feature of the Relational Model is:
+
+A. Data consistency
+B. No data consistency
+C. No relationships
+D. No query support
+
+**Answer: A**
+
+### Q171. The Relational Model supports query languages such as:
+
+A. SQL
+B. HTML
+C. CSS
+D. JavaScript
+
+**Answer: A**
+
+### Q172. Earlier database models mentioned in the notes include:
+
+A. Hierarchical Model
+B. Network Model
+C. Both A and B
+D. Object Model only
+
+**Answer: C**
+
+### Q173. The Relational Model simplified database design by organizing data into:
+
+A. Tables
+B. Trees
+C. Graphs
+D. Images
+
+**Answer: A**
+
+---
+
+# 16. Relation, Attribute, Tuple, Degree and Cardinality
+
+### Q174. A relation is:
+
+A. A table in a relational database
+B. A single value
+C. A key only
+D. A query only
+
+**Answer: A**
+
+### Q175. An attribute is:
+
+A. A column in a table
+B. A row
+C. A database
+D. A file
+
+**Answer: A**
+
+### Q176. A tuple is:
+
+A. A row in a table
+B. A column
+C. A database
+D. A key only
+
+**Answer: A**
+
+### Q177. Degree represents:
+
+A. Number of attributes/columns
+B. Number of rows
+C. Number of databases
+D. Number of keys
+
+**Answer: A**
+
+### Q178. Cardinality represents:
+
+A. Number of tuples/rows
+B. Number of columns
+C. Number of tables
+D. Number of keys
+
+**Answer: A**
+
+### Q179. A Student table containing four columns has degree:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+**Answer: C**
+
+### Q180. A table containing three rows has cardinality:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+**Answer: B**
+
+### Q181. Which represents a property of an entity?
+
+A. Attribute
+B. Tuple
+C. Relation
+D. File
+
+**Answer: A**
+
+### Q182. Which represents one complete record?
+
+A. Tuple
+B. Attribute
+C. Domain
+D. Degree
+
+**Answer: A**
+
+---
+
+# 17. Domain
+
+### Q183. A domain is:
+
+A. The set of valid values that can be stored in an attribute
+B. A database
+C. A record
+D. A file
+
+**Answer: A**
+
+### Q184. Each attribute has:
+
+A. Its own domain
+B. No domain
+C. The same domain always
+D. A database
+
+**Answer: A**
+
+### Q185. A domain depends on:
+
+A. Data type and constraints
+B. Monitor size
+C. Keyboard type
+D. Network speed
+
+**Answer: A**
+
+### Q186. The domain for Age in the notes is:
+
+A. 18–60
+B. 0–10
+C. 100–200
+D. Any value
+
+**Answer: A**
+
+### Q187. Domain helps prevent:
+
+A. Invalid data entry
+B. Data retrieval
+C. Data storage
+D. Query processing
+
+**Answer: A**
+
+### Q188. Domain improves:
+
+A. Data integrity
+B. Hardware speed
+C. Network speed
+D. File size
+
+**Answer: A**
+
+### Q189. Domain helps maintain:
+
+A. Consistency
+B. Redundancy
+C. Errors
+D. Duplication
+
+**Answer: A**
+
+---
+
+# 18. Keys
+
+### Q190. A key is used to:
+
+A. Uniquely identify records
+B. Format tables
+C. Delete databases
+D. Create hardware
+
+**Answer: A**
+
+### Q191. Keys can also establish:
+
+A. Relationships between tables
+B. Network connections only
+C. Hardware connections
+D. File compression
+
+**Answer: A**
+
+### Q192. A Super Key is:
+
+A. One or more attributes that uniquely identify each tuple
+B. Only one attribute always
+C. A foreign table
+D. A database
+
+**Answer: A**
+
+### Q193. Which can be a Super Key?
+
+A. Student_ID
+B. Email
+C. Student_ID + Name
+D. All of the above
+
+**Answer: D**
+
+### Q194. A Candidate Key is:
+
+A. A minimal Super Key
+B. Any non-unique attribute
+C. A foreign key only
+D. A composite key only
+
+**Answer: A**
+
+### Q195. A table may have:
+
+A. Multiple Candidate Keys
+B. No Candidate Keys ever
+C. Only Foreign Keys
+D. Only one possible Candidate Key
+
+**Answer: A**
+
+### Q196. A Primary Key is:
+
+A. The Candidate Key selected to uniquely identify records
+B. Any attribute
+C. A non-unique field
+D. A foreign table
+
+**Answer: A**
+
+### Q197. A Primary Key:
+
+A. Cannot be NULL
+B. Must always be NULL
+C. Is never unique
+D. Is always a foreign key
+
+**Answer: A**
+
+### Q198. An Alternate Key is:
+
+A. A Candidate Key not selected as Primary Key
+B. A foreign key
+C. A composite key only
+D. A Super Key that is not unique
+
+**Answer: A**
+
+### Q199. A Composite Key is:
+
+A. A key formed by combining two or more attributes
+B. A single attribute
+C. A database
+D. A relation
+
+**Answer: A**
+
+### Q200. Student_ID + Course_ID is an example of:
+
+A. Composite Key
+B. Alternate Key
+C. Foreign Key only
+D. Domain
+
+**Answer: A**
+
+### Q201. A Foreign Key:
+
+A. Refers to the Primary Key of another table
+B. Is always a Candidate Key
+C. Is never used for relationships
+D. Is always NULL
+
+**Answer: A**
+
+### Q202. Foreign Keys establish:
+
+A. Relationships between tables
+B. Hardware connections
+C. Network connections
+D. File compression
+
+**Answer: A**
+
+### Q203. Which key is the main identifier selected from Candidate Keys?
+
+A. Primary Key
+B. Alternate Key
+C. Foreign Key
+D. Composite Key
+
+**Answer: A**
+
+### Q204. Which key connects two tables?
+
+A. Foreign Key
+B. Candidate Key
+C. Super Key
+D. Domain
+
+**Answer: A**
+
+---
+
+# 19. Relational Algebra
+
+### Q205. Relational Algebra is a:
+
+A. Procedural query language
+B. Non-procedural query language
+C. Programming language
+D. Database system
+
+**Answer: A**
+
+### Q206. Relational Algebra is used to:
+
+A. Retrieve and manipulate data
+B. Design hardware
+C. Manage networks
+D. Create operating systems
+
+**Answer: A**
+
+### Q207. Relational Algebra operates on:
+
+A. Relations
+B. Hardware
+C. Files only
+D. Programs
+
+**Answer: A**
+
+### Q208. Relational Algebra produces:
+
+A. Another relation as output
+B. Hardware
+C. A network
+D. An operating system
+
+**Answer: A**
+
+### Q209. Relational Algebra uses:
+
+A. Mathematical symbols
+B. Only English sentences
+C. Only programming code
+D. Images
+
+**Answer: A**
+
+---
+
+# 20. Selection
+
+### Q210. Selection operation is represented by:
+
+A. σ
+B. π
+C. ×
+D. ∪
+
+**Answer: A**
+
+### Q211. Selection retrieves:
+
+A. Rows satisfying a condition
+B. Columns only
+C. Tables only
+D. Keys only
+
+**Answer: A**
+
+### Q212. Selection operates primarily on:
+
+A. Tuples/rows
+B. Attributes/columns
+C. Databases
+D. Files
+
+**Answer: A**
+
+### Q213. Selection uses:
+
+A. Conditions
+B. Attribute lists only
+C. Keys only
+D. Domains only
+
+**Answer: A**
+
+### Q214. Which operation would retrieve students whose Age > 18?
+
+A. Selection
+B. Projection
+C. Rename
+D. Union
+
+**Answer: A**
+
+---
+
+# 21. Projection
+
+### Q215. Projection operation is represented by:
+
+A. π
+B. σ
+C. ×
+D. −
+
+**Answer: A**
+
+### Q216. Projection selects:
+
+A. Columns
+B. Rows
+C. Tables
+D. Databases
+
+**Answer: A**
+
+### Q217. Projection uses:
+
+A. Attribute names
+B. Conditions only
+C. Tuples only
+D. Keys only
+
+**Answer: A**
+
+### Q218. Which operation can reduce the number of columns?
+
+A. Projection
+B. Selection
+C. Union
+D. Difference
+
+**Answer: A**
+
+### Q219. Selection and Projection differ because:
+
+A. Selection selects rows, Projection selects columns
+B. Selection selects columns, Projection selects rows
+C. Both select only rows
+D. Both select only columns
+
+**Answer: A**
+
+---
+
+# 22. Fundamental Relational Algebra Operations
+
+### Q220. Which is a fundamental operation?
+
+A. Selection
+B. Projection
+C. Union
+D. All of the above
+
+**Answer: D**
+
+### Q221. Which operation combines tuples from two compatible relations?
+
+A. Union
+B. Selection
+C. Projection
+D. Rename
+
+**Answer: A**
+
+### Q222. Which operation returns tuples present in the first relation but not the second?
+
+A. Set Difference
+B. Union
+C. Projection
+D. Rename
+
+**Answer: A**
+
+### Q223. Cartesian Product is represented by:
+
+A. ×
+B. ∪
+C. −
+D. σ
+
+**Answer: A**
+
+### Q224. Rename operation changes:
+
+A. The name of a relation or its attributes
+B. The values of every record
+C. The database server
+D. The domain
+
+**Answer: A**
+
+---
+
+# 23. Union
+
+### Q225. Union combines:
+
+A. Tuples from two compatible relations
+B. Columns from one relation
+C. Only keys
+D. Only databases
+
+**Answer: A**
+
+### Q226. For Union, relations must have:
+
+A. Same number of attributes
+B. Different number of attributes
+C. No attributes
+D. Same number of rows only
+
+**Answer: A**
+
+### Q227. Corresponding attributes in Union must have:
+
+A. Same data type
+B. Different data types
+C. No data type
+D. Different names only
+
+**Answer: A**
+
+### Q228. Duplicate tuples in Union are:
+
+A. Removed
+B. Always duplicated
+C. Converted into keys
+D. Deleted from the database
+
+**Answer: A**
+
+### Q229. Union can be used for:
+
+A. Combining student lists from two classes
+B. Calculating age
+C. Renaming a table
+D. Sorting records
+
+**Answer: A**
+
+---
+
+# 24. Set Difference
+
+### Q230. Set Difference returns tuples:
+
+A. Present in the first relation but not the second
+B. Present in both relations only
+C. Present only in the second
+D. Present in neither
+
+**Answer: A**
+
+### Q231. Set Difference is represented by:
+
+A. −
+B. ∪
+C. ×
+D. π
+
+**Answer: A**
+
+### Q232. Set Difference can be used to find:
+
+A. Students who have not paid fees
+B. Students present in both classes
+C. All possible combinations
+D. Column names
+
+**Answer: A**
+
+---
+
+# 25. Cartesian Product
+
+### Q233. Cartesian Product combines:
+
+A. Every tuple of one relation with every tuple of another
+B. Only matching tuples
+C. Only unique columns
+D. Only keys
+
+**Answer: A**
+
+### Q234. If one relation has m rows and another has n rows, the Cartesian Product contains:
+
+A. m × n rows
+B. m + n rows
+C. m − n rows
+D. m/n rows
+
+**Answer: A**
+
+### Q235. Cartesian Product is useful for:
+
+A. Generating all possible combinations
+B. Selecting one row
+C. Renaming a table
+D. Selecting one column
+
+**Answer: A**
+
+### Q236. Cartesian Product may be used before:
+
+A. Join operations
+B. Backup
+C. Recovery
+D. Security
+
+**Answer: A**
+
+---
+
+# 26. Rename
+
+### Q237. Rename operation changes:
+
+A. Relation or attribute names
+B. Record values only
+C. Data types only
+D. Database location
+
+**Answer: A**
+
+### Q238. Rename improves:
+
+A. Readability
+B. Hardware speed
+C. Storage capacity
+D. Backup size
+
+**Answer: A**
+
+### Q239. Rename can help avoid:
+
+A. Ambiguity in complex queries
+B. Data storage
+C. Data retrieval
+D. Data integrity
+
+**Answer: A**
+
+---
+
+# 27. Derived Operations
+
+### Q240. Derived operations are created using:
+
+A. Combinations of fundamental operations
+B. Hardware devices
+C. Operating systems
+D. Data files only
+
+**Answer: A**
+
+### Q241. Which is a derived operation?
+
+A. Intersection
+B. Division
+C. Join
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 28. Intersection
+
+### Q242. Intersection returns:
+
+A. Tuples common to both relations
+B. Tuples only in the first relation
+C. Tuples only in the second relation
+D. All possible tuples
+
+**Answer: A**
+
+### Q243. Intersection can be used to find:
+
+A. Students enrolled in different courses
+B. All students in only one course
+C. All possible combinations
+D. Table names
+
+**Answer: A**
+
+### Q244. Intersection is useful for identifying:
+
+A. Employees working on multiple projects
+B. Employees with no projects
+C. Database administrators
+D. Database servers
+
+**Answer: A**
+
+---
+
+# 29. Join
+
+### Q245. A Join combines tuples from:
+
+A. Two or more relations
+B. Only one field
+C. Only one tuple
+D. Only one database
+
+**Answer: A**
+
+### Q246. Join is generally based on:
+
+A. A common attribute
+B. A monitor
+C. A password
+D. A file name
+
+**Answer: A**
+
+### Q247. Which is a type of Join?
+
+A. Inner Join
+B. Left Outer Join
+C. Right Outer Join
+D. All of the above
+
+**Answer: D**
+
+### Q248. Inner Join returns:
+
+A. Matching records from both tables
+B. All records from the left table
+C. All records from the right table
+D. All records from both tables
+
+**Answer: A**
+
+### Q249. Left Outer Join returns:
+
+A. All records from the left table and matching records from the right
+B. All records from the right only
+C. Only matching records
+D. No records
+
+**Answer: A**
+
+### Q250. Right Outer Join returns:
+
+A. All records from the right table and matching records from the left
+B. Only left records
+C. Only matching records
+D. No records
+
+**Answer: A**
+
+### Q251. Full Outer Join returns:
+
+A. All records from both tables
+B. Only matching records
+C. Only left records
+D. Only right records
+
+**Answer: A**
+
+### Q252. In a Full Outer Join, non-matching values are filled with:
+
+A. NULL
+B. Zero
+C. Blank text only
+D. −1
+
+**Answer: A**
+
+### Q253. Which Join returns matching records only?
+
+A. Inner Join
+B. Full Outer Join
+C. Left Outer Join
+D. Right Outer Join
+
+**Answer: A**
+
+---
+
+# 30. Division
+
+### Q254. Division operation is used for queries associated with:
+
+A. All values/conditions in another relation
+B. Only one row
+C. Only one column
+D. Renaming tables
+
+**Answer: A**
+
+### Q255. The notes describe Division as important mainly from:
+
+A. An academic perspective
+B. A hardware perspective
+C. A networking perspective
+D. An operating-system perspective
+
+**Answer: A**
+
+### Q256. Division can be used to find students who have completed:
+
+A. All compulsory subjects
+B. No subjects
+C. One subject only
+D. No records
+
+**Answer: A**
+
+---
+
+# 31. Relational Calculus
+
+### Q257. Relational Calculus is:
+
+A. Non-procedural
+B. Procedural
+C. Hardware-based
+D. File-oriented
+
+**Answer: A**
+
+### Q258. Relational Calculus specifies:
+
+A. What data is required
+B. Exactly how to retrieve it
+C. Hardware configuration
+D. Database location
+
+**Answer: A**
+
+### Q259. In Relational Calculus, the DBMS determines:
+
+A. The best method for retrieving required data
+B. The user's password
+C. The hardware type
+D. The file name
+
+**Answer: A**
+
+### Q260. Relational Calculus is based on:
+
+A. Predicate logic
+B. Hardware logic
+C. File logic
+D. Network logic
+
+**Answer: A**
+
+### Q261. Relational Calculus focuses on:
+
+A. Desired results
+B. Physical storage
+C. Hardware
+D. File names
+
+**Answer: A**
+
+### Q262. Which is a type of Relational Calculus?
+
+A. Tuple Relational Calculus
+B. Domain Relational Calculus
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+---
+
+# 32. Tuple Relational Calculus
+
+### Q263. In Tuple Relational Calculus, variables represent:
+
+A. Tuples/rows
+B. Attributes only
+C. Databases
+D. Files
+
+**Answer: A**
+
+### Q264. TRC stands for:
+
+A. Tuple Relational Calculus
+B. Table Retrieval Command
+C. Transaction Relational Control
+D. Tuple Record Calculation
+
+**Answer: A**
+
+### Q265. Tuple Relational Calculus can retrieve:
+
+A. Students whose age is greater than 18
+B. Only column names
+C. Only database names
+D. Only keys
+
+**Answer: A**
+
+---
+
+# 33. Domain Relational Calculus
+
+### Q266. In Domain Relational Calculus, variables represent:
+
+A. Attribute values
+B. Complete tuples
+C. Tables only
+D. Files only
+
+**Answer: A**
+
+### Q267. DRC stands for:
+
+A. Domain Relational Calculus
+B. Data Retrieval Control
+C. Database Relation Command
+D. Domain Record Calculation
+
+**Answer: A**
+
+### Q268. Domain Relational Calculus can retrieve:
+
+A. Names and ages satisfying a condition
+B. Only tables
+C. Only keys
+D. Only databases
+
+**Answer: A**
+
+---
+
+# 34. Relational Algebra vs Relational Calculus
+
+### Q269. Relational Algebra is:
+
+A. Procedural
+B. Non-procedural
+C. Hardware-based
+D. File-based
+
+**Answer: A**
+
+### Q270. Relational Calculus is:
+
+A. Non-procedural
+B. Procedural
+C. Hardware-based
+D. File-based
+
+**Answer: A**
+
+### Q271. Relational Algebra specifies:
+
+A. How to retrieve data
+B. What data is required
+C. Only physical storage
+D. Only database users
+
+**Answer: A**
+
+### Q272. Relational Calculus specifies:
+
+A. What data is required
+B. How to retrieve it
+C. Physical storage
+D. Hardware requirements
+
+**Answer: A**
+
+### Q273. Relational Algebra uses:
+
+A. Algebraic operations
+B. Logical expressions only
+C. Hardware commands
+D. File operations
+
+**Answer: A**
+
+### Q274. Relational Calculus uses:
+
+A. Logical expressions
+B. Algebraic operations only
+C. Hardware commands
+D. File operations
+
+**Answer: A**
+
+### Q275. Relational Algebra is described as useful for:
+
+A. Query processing
+B. Hardware manufacturing
+C. Network installation
+D. File compression
+
+**Answer: A**
+
+### Q276. Relational Calculus is useful for:
+
+A. Expressing conditions/queries
+B. Hardware management
+C. Backup hardware
+D. Operating-system management
+
+**Answer: A**
+
+---
+
+# 35. Applications of Relational Algebra and Calculus
+
+### Q277. Relational Algebra and Calculus form the:
+
+A. Theoretical foundation of modern relational databases
+B. Hardware foundation of computers
+C. Network foundation
+D. Operating-system foundation
+
+**Answer: A**
+
+### Q278. Relational Algebra and Calculus are used in:
+
+A. SQL query processing
+B. Database optimization
+C. Query execution planning
+D. All of the above
+
+**Answer: D**
+
+### Q279. They are also applied in:
+
+A. Database design
+B. Development of DBMS
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q280. One advantage of Relational Algebra is:
+
+A. Simple mathematical foundation
+B. No query optimization
+C. No predictable results
+D. No data manipulation
+
+**Answer: A**
+
+### Q281. Relational Algebra supports:
+
+A. Query optimization
+B. Efficient data manipulation
+C. Predictable results
+D. All of the above
+
+**Answer: D**
+
+### Q282. Relational Calculus:
+
+A. Makes complex queries easier to express
+B. Focuses on required results
+C. Provides high-level query representation
+D. All of the above
+
+**Answer: D**
+
+### Q283. Relational Algebra forms a basis for:
+
+A. SQL implementation
+B. Hardware implementation
+C. Operating systems
+D. Networks
+
+**Answer: A**
+
+### Q284. Relational Calculus forms a basis for:
+
+A. SQL query formulation
+B. Hardware design
+C. Network configuration
+D. File compression
+
+**Answer: A**
+
+---
+
+# UNIT II — DATABASE SYSTEM ARCHITECTURE
+
+# 36. Database Architecture
+
+### Q285. Database System Architecture defines:
+
+A. Overall structure of a database system
+B. Only hardware design
+C. Only networking
+D. Only user interfaces
+
+**Answer: A**
+
+### Q286. Database architecture explains how data is:
+
+A. Organized, stored, accessed and managed
+B. Printed only
+C. Deleted only
+D. Encrypted only
+
+**Answer: A**
+
+### Q287. A major purpose of database architecture is to separate:
+
+A. Physical storage from the way users view data
+B. Users from computers
+C. Software from electricity
+D. Tables from columns
+
+**Answer: A**
+
+### Q288. Separation of physical storage and user views improves:
+
+A. Security and flexibility
+B. Redundancy
+C. Inconsistency
+D. Complexity only
+
+**Answer: A**
+
+### Q289. Database architecture supports:
+
+A. Multiple users accessing the same database
+B. Only one user
+C. No concurrent access
+D. Only administrators
+
+**Answer: A**
+
+### Q290. One objective of database architecture is:
+
+A. Reduce data redundancy
+B. Increase redundancy
+C. Remove data independence
+D. Reduce security
+
+**Answer: A**
+
+### Q291. Database architecture aims to provide:
+
+A. Data independence
+B. Poor performance
+C. Data duplication
+D. No security
+
+**Answer: A**
+
+---
+
+# 37. Schema
+
+### Q292. A Schema is:
+
+A. The overall logical design of a database
+B. Actual data at a particular moment
+C. A single record
+D. A query result
+
+**Answer: A**
+
+### Q293. Schema defines:
+
+A. Tables
+B. Columns
+C. Relationships
+D. All of the above
+
+**Answer: D**
+
+### Q294. Schema may also define:
+
+A. Constraints and data types
+B. Only records
+C. Only users
+D. Only hardware
+
+**Answer: A**
+
+### Q295. A schema is created during:
+
+A. Database design
+B. Data retrieval
+C. Backup
+D. Recovery
+
+**Answer: A**
+
+### Q296. Schema generally:
+
+A. Changes very rarely
+B. Changes after every record insertion
+C. Changes every second
+D. Is deleted after use
+
+**Answer: A**
+
+### Q297. Schema represents:
+
+A. Logical structure of the database
+B. Current records only
+C. Physical hardware
+D. User passwords
+
+**Answer: A**
+
+### Q298. Schema does NOT represent:
+
+A. Actual current data
+B. Database structure
+C. Database objects
+D. Relationships
+
+**Answer: A**
+
+---
+
+# 38. Sub-schema
+
+### Q299. A Sub-schema is:
+
+A. A subset of the main schema
+B. A complete database
+C. A hardware device
+D. A backup file
+
+**Answer: A**
+
+### Q300. A Sub-schema provides:
+
+A. A customized view of the database
+B. Physical storage
+C. A database server
+D. A new DBMS
+
+**Answer: A**
+
+### Q301. Different users may require:
+
+A. Different parts of the same database
+B. Completely separate databases always
+C. No database access
+D. Only physical access
+
+**Answer: A**
+
+### Q302. In a college database, students may view:
+
+A. Marks and attendance
+B. Complete administrative records
+C. Database hardware
+D. Server configuration
+
+**Answer: A**
+
+### Q303. Faculty may manage:
+
+A. Attendance and marks
+B. Hardware
+C. Network cables
+D. All administrative records
+
+**Answer: A**
+
+### Q304. Administration may access:
+
+A. Complete student records
+B. Only attendance
+C. Only marks
+D. Only one table
+
+**Answer: A**
+
+### Q305. Sub-schemas improve:
+
+A. Security
+B. Unauthorized access
+C. Data redundancy
+D. Hardware performance
+
+**Answer: A**
+
+### Q306. Sub-schema helps:
+
+A. Restrict unauthorized access
+B. Increase unauthorized access
+C. Remove all users
+D. Delete data
+
+**Answer: A**
+
+### Q307. Sub-schema simplifies:
+
+A. User interaction
+B. Hardware installation
+C. Network configuration
+D. Backup hardware
+
+**Answer: A**
+
+---
+
+# 39. Instance
+
+### Q308. An Instance refers to:
+
+A. Actual data stored in a database at a particular moment
+B. Database structure
+C. Hardware
+D. User role
+
+**Answer: A**
+
+### Q309. Unlike a schema, an instance:
+
+A. Changes when records are inserted, updated or deleted
+B. Rarely changes
+C. Never changes
+D. Is created only once
+
+**Answer: A**
+
+### Q310. If a new student is added, the:
+
+A. Instance changes
+B. Schema must necessarily change
+C. Database architecture disappears
+D. DBMS changes
+
+**Answer: A**
+
+### Q311. The difference between Schema and Instance is:
+
+A. Schema is structure; Instance is current data
+B. Schema is data; Instance is structure
+C. Both are exactly the same
+D. Neither relates to databases
+
+**Answer: A**
+
+### Q312. Schema is defined during:
+
+A. Database design
+B. Every transaction
+C. Every query
+D. Every backup
+
+**Answer: A**
+
+### Q313. Instance is updated during:
+
+A. Database operations
+B. Database design only
+C. Hardware installation
+D. Network installation
+
+**Answer: A**
+
+---
+
+# 40. ANSI-SPARC Three-Level Architecture
+
+### Q314. ANSI-SPARC architecture has:
+
+A. Three levels
+B. Two levels
+C. Four levels
+D. Five levels
+
+**Answer: A**
+
+### Q315. The three levels are:
+
+A. External, Conceptual, Internal
+B. Physical, Logical, Network
+C. User, Server, Client
+D. Data, File, Hardware
+
+**Answer: A**
+
+### Q316. The highest level is:
+
+A. External Level
+B. Conceptual Level
+C. Internal Level
+D. Physical Level
+
+**Answer: A**
+
+### Q317. The middle level is:
+
+A. Conceptual Level
+B. External Level
+C. Internal Level
+D. User Level
+
+**Answer: A**
+
+### Q318. The lowest level is:
+
+A. Internal Level
+B. External Level
+C. Conceptual Level
+D. User Level
+
+**Answer: A**
+
+---
+
+# 41. External Level
+
+### Q319. External Level is also called:
+
+A. View Level
+B. Physical Level
+C. Storage Level
+D. Hardware Level
+
+**Answer: A**
+
+### Q320. External Level describes:
+
+A. How users view the database
+B. Physical storage
+C. File organization
+D. Storage allocation
+
+**Answer: A**
+
+### Q321. Different users can have:
+
+A. Different views
+B. Only one view
+C. No view
+D. Only physical views
+
+**Answer: A**
+
+### Q322. One advantage of External Level is:
+
+A. Security
+B. Increased redundancy
+C. Reduced data independence
+D. Physical storage control
+
+**Answer: A**
+
+### Q323. External Level hides:
+
+A. Unnecessary information
+B. All data
+C. All users
+D. All tables
+
+**Answer: A**
+
+---
+
+# 42. Conceptual Level
+
+### Q324. Conceptual Level is also called:
+
+A. Logical Level
+B. Physical Level
+C. View Level
+D. Hardware Level
+
+**Answer: A**
+
+### Q325. Conceptual Level describes:
+
+A. Complete logical structure of the database
+B. Physical storage only
+C. User interface only
+D. Hardware configuration
+
+**Answer: A**
+
+### Q326. Conceptual Level includes:
+
+A. Tables
+B. Relationships
+C. Constraints
+D. All of the above
+
+**Answer: D**
+
+### Q327. Conceptual Level also includes:
+
+A. Data types
+B. Only hardware
+C. Only users
+D. Only passwords
+
+**Answer: A**
+
+### Q328. Physical storage details are:
+
+A. Hidden at the conceptual level
+B. Always exposed
+C. The only concern
+D. Not related to databases
+
+**Answer: A**
+
+### Q329. One advantage of the Conceptual Level is:
+
+A. Centralized view of the database
+B. Physical storage control
+C. Hardware management
+D. File compression
+
+**Answer: A**
+
+### Q330. Conceptual Level makes database design:
+
+A. Easier
+B. Impossible
+C. Unnecessary
+D. Hardware-dependent
+
+**Answer: A**
+
+---
+
+# 43. Internal Level
+
+### Q331. Internal Level is:
+
+A. The lowest level
+B. The highest level
+C. The user level
+D. The application level
+
+**Answer: A**
+
+### Q332. Internal Level describes:
+
+A. How data is physically stored
+B. How students view marks
+C. How users log in
+D. How queries are written
+
+**Answer: A**
+
+### Q333. Internal Level includes:
+
+A. File organization
+B. Storage allocation
+C. Access methods
+D. All of the above
+
+**Answer: D**
+
+### Q334. One advantage of Internal Level is:
+
+A. Efficient storage
+B. User customization
+C. Multiple views
+D. User interaction
+
+**Answer: A**
+
+### Q335. Internal Level helps provide:
+
+A. Better performance
+B. Poor performance
+C. More redundancy
+D. Less storage efficiency
+
+**Answer: A**
+
+---
+
+# 44. Data Independence
+
+### Q336. Data Independence means:
+
+A. Changes at one level do not affect another level
+B. Data cannot be changed
+C. Users cannot access data
+D. Data is independent of databases
+
+**Answer: A**
+
+### Q337. There are:
+
+A. Two types of Data Independence
+B. Three types
+C. Four types
+D. No types
+
+**Answer: A**
+
+### Q338. The two types are:
+
+A. Physical and Logical
+B. External and Internal
+C. Hardware and Software
+D. Centralized and Distributed
+
+**Answer: A**
+
+### Q339. Physical Data Independence means changing:
+
+A. Physical storage without affecting logical structure
+B. Logical structure without affecting users
+C. User views only
+D. Database users
+
+**Answer: A**
+
+### Q340. Changing storage from HDD to SSD is an example of:
+
+A. Physical Data Independence
+B. Logical Data Independence
+C. Data redundancy
+D. Data integrity
+
+**Answer: A**
+
+### Q341. Physical Data Independence generally does not affect:
+
+A. Application programs
+B. Physical storage
+C. Storage devices
+D. Internal level
+
+**Answer: A**
+
+### Q342. Logical Data Independence means changing:
+
+A. Logical structure without affecting user applications
+B. Physical storage only
+C. Hardware only
+D. Network only
+
+**Answer: A**
+
+### Q343. Adding a new column without changing existing application programs is:
+
+A. Logical Data Independence
+B. Physical Data Independence
+C. Data redundancy
+D. Backup
+
+**Answer: A**
+
+### Q344. Which is generally easier to achieve?
+
+A. Physical Data Independence
+B. Logical Data Independence
+C. Both are equally difficult according to the notes
+D. Neither
+
+**Answer: A**
+
+### Q345. Physical Data Independence does not affect:
+
+A. Conceptual level
+B. Physical storage
+C. Internal level
+D. Hardware
+
+**Answer: A**
+
+### Q346. Logical Data Independence does not affect:
+
+A. External level
+B. Logical structure
+C. Database design
+D. Tables
+
+**Answer: A**
+
+---
+
+# 45. Components of DBMS
+
+### Q347. Which is a DBMS component?
+
+A. Hardware
+B. Software
+C. Data
+D. All of the above
+
+**Answer: D**
+
+### Q348. Database hardware includes:
+
+A. Computers
+B. Database servers
+C. Hard disks
+D. All of the above
+
+**Answer: D**
+
+### Q349. DBMS software examples include:
+
+A. Oracle Database
+B. MySQL
+C. Microsoft SQL Server
+D. All of the above
+
+**Answer: D**
+
+### Q350. Database Access Language is used to:
+
+A. Communicate with the database
+B. Repair hardware
+C. Manage electricity
+D. Design networks
+
+**Answer: A**
+
+### Q351. The database access language mentioned in the notes is:
+
+A. SQL
+B. HTML
+C. CSS
+D. Java
+
+**Answer: A**
+
+### Q352. SQL allows users to:
+
+A. Create tables
+B. Insert records
+C. Retrieve data
+D. All of the above
+
+**Answer: D**
+
+### Q353. SQL also allows users to:
+
+A. Update data
+B. Delete records
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q354. Procedures include:
+
+A. Backup procedures
+B. Recovery procedures
+C. Security procedures
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 46. DBMS Users
+
+### Q355. DBA stands for:
+
+A. Database Administrator
+B. Database Application
+C. Data Backup Administrator
+D. Database Architecture
+
+**Answer: A**
+
+### Q356. A DBA:
+
+A. Controls the database
+B. Manages security
+C. Performs backup and recovery
+D. All of the above
+
+**Answer: D**
+
+### Q357. DBA also:
+
+A. Monitors performance
+B. Designs keyboards
+C. Creates networks only
+D. Develops operating systems
+
+**Answer: A**
+
+### Q358. A Database Designer:
+
+A. Designs database structure
+B. Defines relationships
+C. Creates schema
+D. All of the above
+
+**Answer: D**
+
+### Q359. An Application Programmer:
+
+A. Develops software applications
+B. Writes SQL queries
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q360. End Users:
+
+A. Use applications to access data
+B. Always design schemas
+C. Always manage security
+D. Always perform backup
+
+**Answer: A**
+
+### Q361. Which can be an End User?
+
+A. Student
+B. Teacher
+C. Bank employee
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 47. Functions of DBMS
+
+### Q362. DBMS performs:
+
+A. Data storage
+B. Data retrieval
+C. Data manipulation
+D. All of the above
+
+**Answer: D**
+
+### Q363. Data Storage means:
+
+A. Storing large amounts of data in an organized manner
+B. Deleting all data
+C. Printing records
+D. Sorting hardware
+
+**Answer: A**
+
+### Q364. Data Retrieval means:
+
+A. Retrieving information using queries
+B. Deleting records
+C. Creating users
+D. Installing hardware
+
+**Answer: A**
+
+### Q365. Data Manipulation allows users to:
+
+A. Insert data
+B. Update data
+C. Delete data
+D. All of the above
+
+**Answer: D**
+
+### Q366. Security Management protects data from:
+
+A. Unauthorized access
+B. Authorized access
+C. Database administrators
+D. Queries
+
+**Answer: A**
+
+### Q367. Security Management can use:
+
+A. Passwords
+B. Roles
+C. Permissions
+D. All of the above
+
+**Answer: D**
+
+### Q368. Backup and Recovery:
+
+A. Creates backups and restores data after failures
+B. Only retrieves data
+C. Only sorts data
+D. Only creates tables
+
+**Answer: A**
+
+### Q369. Transaction Management ensures:
+
+A. Transactions are completed correctly and consistently
+B. Hardware is repaired
+C. Users are deleted
+D. Files are printed
+
+**Answer: A**
+
+### Q370. Concurrency Control allows:
+
+A. Multiple users to access the database simultaneously without conflicts
+B. Only one user to access data
+C. No users to access data
+D. Only administrators to access data
+
+**Answer: A**
+
+### Q371. Data Integrity maintains:
+
+A. Accuracy and consistency of data
+B. Hardware speed
+C. Network speed
+D. File compression
+
+**Answer: A**
+
+### Q372. Data Integrity is maintained by enforcing:
+
+A. Constraints
+B. Passwords only
+C. Hardware rules
+D. Network cables
+
+**Answer: A**
+
+### Q373. Data Sharing allows:
+
+A. Different users and applications to access the same database
+B. Only one user to access the database
+C. No applications to access data
+D. Only administrators to access data
+
+**Answer: A**
+
+---
+
+# 48. Structure and Working of DBMS
+
+### Q374. When a user submits a query, the DBMS:
+
+A. Processes the request
+B. Ignores it
+C. Deletes the database
+D. Shuts down
+
+**Answer: A**
+
+### Q375. The Query Processor:
+
+A. Analyzes the SQL query
+B. Stores hardware
+C. Manages users only
+D. Creates backups only
+
+**Answer: A**
+
+### Q376. The Storage Manager:
+
+A. Accesses the database
+B. Writes applications
+C. Creates users
+D. Designs schemas only
+
+**Answer: A**
+
+### Q377. Correct sequence of DBMS working is:
+
+A. User request → DBMS → Query Processor → Storage Manager → Data retrieval → Result
+B. Storage Manager → User → DBMS → Query Processor
+C. Database → User → Hardware → Query Processor
+D. User → Hardware → Printer → Database
+
+**Answer: A**
+
+### Q378. The result of a database request is:
+
+A. Displayed to the user
+B. Always deleted
+C. Stored only in hardware
+D. Sent to a printer automatically
+
+**Answer: A**
+
+---
+
+# 49. Data Models
+
+### Q379. A Data Model is:
+
+A. A collection of concepts used to describe database structure and relationships
+B. A hardware device
+C. A backup
+D. A database user
+
+**Answer: A**
+
+### Q380. A Data Model acts as a:
+
+A. Blueprint for designing databases
+B. Network cable
+C. Backup file
+D. Security password
+
+**Answer: A**
+
+### Q381. Which is a Data Model mentioned in the notes?
+
+A. Hierarchical
+B. Network
+C. Relational
+D. All of the above
+
+**Answer: D**
+
+### Q382. The Hierarchical Data Model organizes data as:
+
+A. A tree structure
+B. A graph
+C. Tables only
+D. Objects only
+
+**Answer: A**
+
+### Q383. In the Hierarchical Model, each child has:
+
+A. Only one parent
+B. Multiple parents
+C. No parent
+D. Unlimited parents
+
+**Answer: A**
+
+### Q384. An advantage of Hierarchical Model is:
+
+A. Simple structure
+B. Fast access
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q385. A disadvantage of Hierarchical Model is:
+
+A. Limited flexibility
+B. Poor querying
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q386. Hierarchical Model applications include:
+
+A. Organization charts
+B. File systems
+C. Both A and B
+D. Social media only
+
+**Answer: C**
+
+### Q387. Network Data Model organizes data as:
+
+A. A graph
+B. A tree only
+C. A table only
+D. Objects only
+
+**Answer: A**
+
+### Q388. In the Network Model, a child can have:
+
+A. Multiple parents
+B. Only one parent
+C. No parent
+D. Exactly two parents
+
+**Answer: A**
+
+### Q389. An advantage of Network Model is:
+
+A. Flexibility
+B. Reduced redundancy
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q390. A disadvantage of Network Model is:
+
+A. Complex design
+B. Simple design
+C. No relationships
+D. No data
+
+**Answer: A**
+
+### Q391. Relational Data Model stores data in:
+
+A. Tables
+B. Trees
+C. Graphs only
+D. Objects only
+
+**Answer: A**
+
+### Q392. According to the notes, the Relational Model is:
+
+A. The most widely used data model
+B. The least used model
+C. No longer used
+D. Hardware-based
+
+**Answer: A**
+
+### Q393. An advantage of the Relational Model is:
+
+A. Easy understanding
+B. Simple querying
+C. Better data management
+D. All of the above
+
+**Answer: D**
+
+### Q394. Which examples are listed for the Relational Model?
+
+A. MySQL
+B. Oracle
+C. SQL Server
+D. All of the above
+
+**Answer: D**
+
+### Q395. Object-Oriented Data Model stores data as:
+
+A. Objects
+B. Trees only
+C. Tables only
+D. Graphs only
+
+**Answer: A**
+
+### Q396. Object-Oriented Data Model is related to:
+
+A. Object-oriented programming
+B. File-oriented programming
+C. Hardware programming
+D. Network programming only
+
+**Answer: A**
+
+### Q397. Object-Oriented Data Model supports:
+
+A. Multimedia data
+B. Complex applications
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+---
+
+# 50. Types of Database Systems
+
+### Q398. A Centralized Database System stores the database:
+
+A. At a single central location
+B. At multiple locations
+C. Only on clients
+D. Only on mobile devices
+
+**Answer: A**
+
+### Q399. In a centralized database system, users access:
+
+A. The same central database through a network
+B. Separate databases only
+C. No database
+D. Only local files
+
+**Answer: A**
+
+### Q400. An advantage of Centralized Database System is:
+
+A. Easy maintenance
+B. Better security
+C. Simple backup
+D. All of the above
+
+**Answer: D**
+
+### Q401. A disadvantage of Centralized Database System is:
+
+A. Single point of failure
+B. No consistency
+C. No security
+D. No maintenance
+
+**Answer: A**
+
+### Q402. Centralized database systems may be used in:
+
+A. Schools
+B. Small organizations
+C. Libraries
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 51. Parallel Database System
+
+### Q403. A Parallel Database System uses:
+
+A. Multiple processors
+B. One processor only
+C. No processors
+D. Only clients
+
+**Answer: A**
+
+### Q404. Multiple processors are used to:
+
+A. Execute database operations simultaneously
+B. Delete databases
+C. Manage passwords only
+D. Print reports only
+
+**Answer: A**
+
+### Q405. An advantage of Parallel Database System is:
+
+A. High speed
+B. Better performance
+C. Ability to handle large databases
+D. All of the above
+
+**Answer: D**
+
+### Q406. A disadvantage of Parallel Database System is:
+
+A. Expensive
+B. Complex implementation
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q407. Parallel Database Systems may be used in:
+
+A. Banking
+B. Data analytics
+C. Scientific research
+D. All of the above
+
+**Answer: D**
+
+---
+
+# 52. Client/Server Database System
+
+### Q408. In a Client/Server Database System, clients:
+
+A. Send requests to a central database server
+B. Store all database data independently
+C. Never communicate with the server
+D. Manage the DBMS hardware
+
+**Answer: A**
+
+### Q409. The server:
+
+A. Stores the database
+B. Processes SQL queries
+C. Returns results
+D. All of the above
+
+**Answer: D**
+
+### Q410. The client:
+
+A. Sends requests
+B. Displays results
+C. Both A and B
+D. Neither
+
+**Answer: C**
+
+### Q411. An advantage of Client/Server architecture is:
+
+A. Easy maintenance
+B. Better security
+C. Centralized data management
+D. All of the above
+
+**Answer: D**
+
+### Q412. Client/Server systems support:
+
+A. Multiple users
+B. Only one user
+C. No users
+D. Only administrators
+
+**Answer: A**
+
+### Q413. A disadvantage is:
+
+A. Server failure can affect all clients
+B. No central management
+C. No security
+D. No network dependence
+
+**Answer: A**
+
+### Q414. Client/Server performance may be affected by:
+
+A. Network performance
+B. Keyboard size
+C. Monitor resolution
+D. Printer speed
+
+**Answer: A**
+
+---
+
+# 53. Distributed Database System
+
+### Q415. A Distributed Database System stores data:
+
+A. At multiple locations connected through a network
+B. At one location only
+C. Only on clients
+D. Only in memory
+
+**Answer: A**
+
+### Q416. Although data is distributed, users can access it:
+
+A. As if it were a single database
+B. Only as separate files
+C. Only through hardware
+D. Never
+
+**Answer: A**
+
+### Q417. An advantage of Distributed Database System is:
+
+A. High availability
+B. Better reliability
+C. Faster local access
+D. All of the above
+
+**Answer: D**
+
+### Q418. Distributed databases provide:
+
+A. Fault tolerance
+B. No fault tolerance
+C. No availability
+D. No access
+
+**Answer: A**
+
+### Q419. A disadvantage of Distributed Database System is:
+
+A. Complex design
+B. Higher maintenance cost
+C. Difficult synchronization
+D. All of the above
+
+**Answer: D**
+
+### Q420. Distributed Database Systems may be used by:
+
+A. Banks with multiple branches
+B. Airline reservation systems
+C. Multinational companies
+D. All of the above
+
+**Answer: D**
+
+### Q421. Online shopping platforms may use:
+
+A. Distributed Database Systems
+B. Only file-oriented systems
+C. Only hierarchical systems
+D. No database system
+
+**Answer: A**
+
+---
+
+# MIXED REVISION — HIGH-VALUE MCQs 🔥
+
+### Q422. Which DBMS feature reduces duplicate data?
+
+A. Data redundancy reduction
+B. Data destruction
+C. Data isolation
+D. File separation
+
+**Answer: A**
+
+### Q423. Which operation retrieves records?
+
+A. Read
+B. Delete
+C. Update
+D. Create
+
+**Answer: A**
+
+### Q424. Which operation modifies existing records?
+
+A. Update
+B. Read
+C. Create
+D. Search
+
+**Answer: A**
+
+### Q425. Which operation removes unwanted records?
+
+A. Delete
+B. Read
+C. Sort
+D. Filter
+
+**Answer: A**
+
+### Q426. Which operation displays only records satisfying conditions?
+
+A. Filter
+B. Sort
+C. Backup
+D. Recovery
+
+**Answer: A**
+
+### Q427. Which operation restores data after failure?
+
+A. Recovery
+B. Backup
+C. Filter
+D. Sort
+
+**Answer: A**
+
+### Q428. Which term means “data about data”?
+
+A. Metadata
+B. Instance
+C. Schema
+D. Tuple
+
+**Answer: A**
+
+### Q429. Which automatically maintains metadata about database objects?
+
+A. System Catalog
+B. End User
+C. Application Programmer
+D. File
+
+**Answer: A**
+
+### Q430. Which is the smallest unit of data?
+
+A. Field
+B. Record
+C. File
+D. Database
+
+**Answer: A**
+
+### Q431. Which is a collection of related fields?
+
+A. Record
+B. File
+C. Database
+D. Domain
+
+**Answer: A**
+
+### Q432. Which is a collection of related records?
+
+A. File
+B. Field
+C. Attribute
+D. Tuple
+
+**Answer: A**
+
+### Q433. Which key cannot be NULL according to the notes?
+
+A. Primary Key
+B. Foreign Key
+C. Super Key
+D. Alternate Key
+
+**Answer: A**
+
+### Q434. Which key is a minimal Super Key?
+
+A. Candidate Key
+B. Foreign Key
+C. Composite Key
+D. Alternate Key
+
+**Answer: A**
+
+### Q435. Which key is selected from Candidate Keys?
+
+A. Primary Key
+B. Foreign Key
+C. Super Key
+D. Domain Key
+
+**Answer: A**
+
+### Q436. Which key is not selected as Primary Key?
+
+A. Alternate Key
+B. Foreign Key
+C. Composite Key
+D. Super Key
+
+**Answer: A**
+
+### Q437. Which key combines two or more attributes?
+
+A. Composite Key
+B. Candidate Key
+C. Foreign Key
+D. Alternate Key
+
+**Answer: A**
+
+### Q438. Which key references another table's Primary Key?
+
+A. Foreign Key
+B. Candidate Key
+C. Alternate Key
+D. Super Key
+
+**Answer: A**
+
+### Q439. Which relational algebra operation selects rows?
+
+A. Selection
+B. Projection
+C. Rename
+D. Union
+
+**Answer: A**
+
+### Q440. Which relational algebra operation selects columns?
+
+A. Projection
+B. Selection
+C. Difference
+D. Join
+
+**Answer: A**
+
+### Q441. Which operation returns common tuples?
+
+A. Intersection
+B. Difference
+C. Union
+D. Cartesian Product
+
+**Answer: A**
+
+### Q442. Which operation returns tuples in the first relation but not the second?
+
+A. Set Difference
+B. Union
+C. Intersection
+D. Join
+
+**Answer: A**
+
+### Q443. Which operation creates every combination of tuples?
+
+A. Cartesian Product
+B. Selection
+C. Projection
+D. Intersection
+
+**Answer: A**
+
+### Q444. Which operation changes relation or attribute names?
+
+A. Rename
+B. Selection
+C. Projection
+D. Division
+
+**Answer: A**
+
+### Q445. Which Join returns only matching records?
+
+A. Inner Join
+B. Full Outer Join
+C. Left Outer Join
+D. Right Outer Join
+
+**Answer: A**
+
+### Q446. Which Join returns all left records plus matching right records?
+
+A. Left Outer Join
+B. Right Outer Join
+C. Inner Join
+D. Full Outer Join
+
+**Answer: A**
+
+### Q447. Which Join returns all right records plus matching left records?
+
+A. Right Outer Join
+B. Left Outer Join
+C. Inner Join
+D. Full Outer Join
+
+**Answer: A**
+
+### Q448. Which Join returns all records from both tables?
+
+A. Full Outer Join
+B. Inner Join
+C. Left Join
+D. Right Join
+
+**Answer: A**
+
+### Q449. Which relational language is procedural?
+
+A. Relational Algebra
+B. Relational Calculus
+C. Both
+D. Neither
+
+**Answer: A**
+
+### Q450. Which relational language is non-procedural?
+
+A. Relational Calculus
+B. Relational Algebra
+C. Both
+D. Neither
+
+**Answer: A**
+
+### Q451. In TRC, variables represent:
+
+A. Tuples
+B. Attribute values
+C. Tables
+D. Domains
+
+**Answer: A**
+
+### Q452. In DRC, variables represent:
+
+A. Attribute values
+B. Tuples
+C. Tables
+D. Relations
+
+**Answer: A**
+
+### Q453. Which level is highest in ANSI-SPARC?
+
+A. External
+B. Conceptual
+C. Internal
+D. Physical
+
+**Answer: A**
+
+### Q454. Which level represents the complete logical structure?
+
+A. Conceptual
+B. External
+C. Internal
+D. Physical
+
+**Answer: A**
+
+### Q455. Which level describes physical storage?
+
+A. Internal
+B. External
+C. Conceptual
+D. View
+
+**Answer: A**
+
+### Q456. Which level provides customized user views?
+
+A. External
+B. Internal
+C. Conceptual
+D. Physical
+
+**Answer: A**
+
+### Q457. Which type of Data Independence concerns storage changes?
+
+A. Physical
+B. Logical
+C. External
+D. Conceptual
+
+**Answer: A**
+
+### Q458. Which type concerns changes to logical structure?
+
+A. Logical
+B. Physical
+C. Internal
+D. External
+
+**Answer: A**
+
+### Q459. Which DBMS component analyzes SQL queries?
+
+A. Query Processor
+B. Storage Manager
+C. End User
+D. Database Server
+
+**Answer: A**
+
+### Q460. Which DBMS component accesses the database?
+
+A. Storage Manager
+B. Query Processor
+C. Application Programmer
+D. End User
+
+**Answer: A**
+
+### Q461. Who manages database security?
+
+A. DBA
+B. End User
+C. Student
+D. Customer
+
+**Answer: A**
+
+### Q462. Who creates the database schema?
+
+A. Database Designer
+B. End User
+C. Customer
+D. Student
+
+**Answer: A**
+
+### Q463. Who writes SQL queries as part of application development?
+
+A. Application Programmer
+B. End User only
+C. Database User only
+D. Customer
+
+**Answer: A**
+
+### Q464. Which data model uses a tree structure?
+
+A. Hierarchical
+B. Network
+C. Relational
+D. Object-Oriented
+
+**Answer: A**
+
+### Q465. Which data model uses a graph structure?
+
+A. Network
+B. Hierarchical
+C. Relational
+D. Object-Oriented
+
+**Answer: A**
+
+### Q466. Which data model stores data in tables?
+
+A. Relational
+B. Hierarchical
+C. Network
+D. Object-Oriented
+
+**Answer: A**
+
+### Q467. Which data model stores data as objects?
+
+A. Object-Oriented
+B. Relational
+C. Network
+D. Hierarchical
+
+**Answer: A**
+
+### Q468. Which database system uses multiple processors?
+
+A. Parallel
+B. Centralized
+C. Client/Server
+D. Distributed
+
+**Answer: A**
+
+### Q469. Which database system stores data at one central location?
+
+A. Centralized
+B. Distributed
+C. Parallel
+D. Client/Server
+
+**Answer: A**
+
+### Q470. Which database system stores data at multiple network-connected locations?
+
+A. Distributed
+B. Centralized
+C. Parallel
+D. Hierarchical
+
+**Answer: A**
+
+### Q471. Which system has clients sending requests to a database server?
+
+A. Client/Server
+B. Centralized only
+C. Hierarchical
+D. File-oriented
+
+**Answer: A**
+
+### Q472. Which system has a single point of failure as a noted disadvantage?
+
+A. Centralized Database System
+B. Distributed Database System
+C. Parallel Database System
+D. Object-Oriented System
+
+**Answer: A**
+
+### Q473. Which system has complex synchronization as a disadvantage?
+
+A. Distributed Database System
+B. Centralized Database System
+C. File-Oriented System
+D. Hierarchical Model
+
+**Answer: A**
+
+### Q474. Which system is expensive and complex to implement due to multiple processors?
+
+A. Parallel Database System
+B. Centralized Database System
+C. File-Oriented System
+D. Client-only system
+
+**Answer: A**
+
+### Q475. Which approach supports controlled redundancy and data independence?
+
+A. Database Approach
+B. File-Oriented Approach
+C. Manual Approach
+D. Paper-based approach
+
+**Answer: A**
+
+---
+
+# ⚡ Ultra-Important DBMS One-Line Revision
+
+| Topic                      | Remember                                                      |
+| -------------------------- | ------------------------------------------------------------- |
+| DBMS                       | Software for creating, maintaining and manipulating databases |
+| Database                   | Organized collection of related data                          |
+| Data                       | Raw facts                                                     |
+| Information                | Processed meaningful data                                     |
+| Data Warehouse             | Centralized repository of historical data                     |
+| Metadata                   | Data about data                                               |
+| System Catalog             | Repository of metadata maintained by DBMS                     |
+| Field                      | Smallest unit of data                                         |
+| Record                     | Collection of related fields                                  |
+| File                       | Collection of related records                                 |
+| CRUD                       | Create, Read, Update, Delete                                  |
+| Schema                     | Overall logical database structure                            |
+| Sub-schema                 | Customized subset/view                                        |
+| Instance                   | Actual data at a particular moment                            |
+| External Level             | User view                                                     |
+| Conceptual Level           | Complete logical structure                                    |
+| Internal Level             | Physical storage                                              |
+| Physical Data Independence | Change physical storage without affecting logical structure   |
+| Logical Data Independence  | Change logical structure without affecting applications       |
+| Attribute                  | Column                                                        |
+| Tuple                      | Row                                                           |
+| Degree                     | Number of columns                                             |
+| Cardinality                | Number of rows                                                |
+| Domain                     | Set of valid values                                           |
+| Super Key                  | Uniquely identifies tuple                                     |
+| Candidate Key              | Minimal Super Key                                             |
+| Primary Key                | Selected Candidate Key                                        |
+| Alternate Key              | Candidate Key not selected                                    |
+| Composite Key              | Two or more attributes                                        |
+| Foreign Key                | References another table's Primary Key                        |
+| Selection                  | Selects rows                                                  |
+| Projection                 | Selects columns                                               |
+| Union                      | Combines compatible relations                                 |
+| Difference                 | First − second                                                |
+| Cartesian Product          | Every tuple × every tuple                                     |
+| Rename                     | Changes relation/attribute name                               |
+| Intersection               | Common tuples                                                 |
+| Join                       | Combines relations using common attribute                     |
+| Inner Join                 | Matching records                                              |
+| Left Join                  | All left + matching right                                     |
+| Right Join                 | All right + matching left                                     |
+| Full Join                  | All records from both                                         |
+| Division                   | Queries involving all associated values                       |
+| Relational Algebra         | Procedural                                                    |
+| Relational Calculus        | Non-procedural                                                |
+| TRC                        | Variables represent tuples                                    |
+| DRC                        | Variables represent attribute values                          |
+| Hierarchical Model         | Tree                                                          |
+| Network Model              | Graph                                                         |
+| Relational Model           | Tables                                                        |
+| Object-Oriented Model      | Objects                                                       |
+| Centralized DB             | One location                                                  |
+| Parallel DB                | Multiple processors                                           |
+| Client/Server DB           | Clients + central server                                      |
+| Distributed DB             | Multiple network-connected locations                          |
+| DBA                        | Controls/manages database                                     |
+| Query Processor            | Analyzes SQL query                                            |
+| Storage Manager            | Accesses database                                             |
+| SQL                        | Database access language                                      |
+
+**Total: 475 MCQs.** This is intentionally kept within the scope of the uploaded DBMS material rather than padding the bank with outside SQL, normalization, transaction, or other DBMS topics that are not supported by these notes.

@@ -1,0 +1,33 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.pytest_cache/
+*.cache
+
+# Large files
+*.pptx
+*.png
+*.ipynb_checkpoints/
+
+# Data (regenerated via generate_starter_dataset.py)
+data/
+# Keep norm_stats.json (required for normalization)
+!norm_stats.json
+# Keep test_metrics.json for presentation
+!test_metrics.json
+
+# Model checkpoints & weights
+*.pt
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

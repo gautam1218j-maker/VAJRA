@@ -1,0 +1,3418 @@
+# 📘 Workplace Communication — Exhaustive MCQ Question Bank
+
+**Based only on your uploaded `workplace communication.pdf` notes.** I have not added outside topics or general knowledge. The questions follow the terminology, examples, classifications, and points in your material. 
+
+I’ve structured this as a **300-MCQ revision bank**, similar to the Java set.
+
+---
+
+# UNIT 1 — SOCIAL COMMUNICATION SKILLS
+
+## A. Social Communication Basics
+
+### Q1. What do Social Communication Skills refer to?
+
+A. Ability to write technical reports
+B. Ability to effectively convey and interpret messages in social interactions
+C. Ability to use presentation software
+D. Ability to memorize information
+
+**Answer: B**
+
+### Q2. Social communication uses:
+
+A. Only verbal means
+B. Only written means
+C. Both verbal and non-verbal means
+D. Only technological means
+
+**Answer: C**
+
+### Q3. Which of the following is a social communication skill?
+
+A. Active listening
+B. Programming
+C. Data encryption
+D. Database design
+
+**Answer: A**
+
+### Q4. Which of the following is included in social communication skills?
+
+A. Appropriate body language
+B. File compression
+C. Spreadsheet calculation
+D. Coding
+
+**Answer: A**
+
+### Q5. Empathy in social communication helps individuals:
+
+A. Ignore others' emotions
+B. Understand and relate to others' emotions
+C. Avoid communication
+D. End conversations quickly
+
+**Answer: B**
+
+### Q6. Social communication involves adaptation based on:
+
+A. Social and professional contexts
+B. Computer hardware
+C. Weather conditions
+D. Financial conditions
+
+**Answer: A**
+
+### Q7. Which is an example of verbal communication?
+
+A. Eye contact
+B. Facial expression
+C. Speaking confidently
+D. Posture
+
+**Answer: C**
+
+### Q8. Which is a non-verbal cue?
+
+A. Email
+B. Eye contact
+C. Report
+D. Speech
+
+**Answer: B**
+
+### Q9. Active listening involves:
+
+A. Ignoring the speaker
+B. Giving full attention and responding appropriately
+C. Interrupting frequently
+D. Preparing only your reply
+
+**Answer: B**
+
+### Q10. Social communication helps people:
+
+A. Express themselves clearly
+B. Avoid relationships
+C. Avoid teamwork
+D. Eliminate all disagreements
+
+**Answer: A**
+
+### Q11. Social communication skills help individuals understand:
+
+A. Only words
+B. Emotions, tone and body language
+C. Only written text
+D. Only numbers
+
+**Answer: B**
+
+### Q12. Social communication is especially important for:
+
+A. Teamwork and collaboration
+B. Computer installation
+C. File storage
+D. Hardware repair
+
+**Answer: A**
+
+### Q13. Which activity requires social communication?
+
+A. Conflict resolution
+B. Formatting a hard disk
+C. Installing software
+D. Calculating percentages
+
+**Answer: A**
+
+### Q14. In the workplace, effective communication can reduce:
+
+A. Understanding
+B. Misunderstandings
+C. Cooperation
+D. Respect
+
+**Answer: B**
+
+### Q15. Clear communication during meetings ensures:
+
+A. Everyone is on the same page
+B. Everyone avoids responsibilities
+C. Goals remain unclear
+D. Tasks are ignored
+
+**Answer: A**
+
+### Q16. Social communication helps create a culture of:
+
+A. Competition only
+B. Mutual respect
+C. Silence
+D. Isolation
+
+**Answer: B**
+
+### Q17. Strong social communication helps managers:
+
+A. Avoid employees
+B. Motivate teams and provide constructive feedback
+C. Stop teamwork
+D. Avoid leadership
+
+**Answer: B**
+
+### Q18. Social communication contributes to:
+
+A. Individual performance and organizational growth
+B. Only individual entertainment
+C. Hardware development
+D. Financial accounting
+
+**Answer: A**
+
+### Q19. Effective social communication contributes to a workplace that is:
+
+A. Supportive and high-performing
+B. Isolated
+C. Uncooperative
+D. Confusing
+
+**Answer: A**
+
+### Q20. Which of the following is NOT mentioned as a social communication skill?
+
+A. Active listening
+B. Appropriate body language
+C. Empathy
+D. Database normalization
+
+**Answer: D**
+
+---
+
+## B. Building Rapport
+
+### Q21. Building rapport refers to developing:
+
+A. Competition and authority
+B. Mutual understanding, trust and emotional connection
+C. Technical knowledge
+D. Financial independence
+
+**Answer: B**
+
+### Q22. Rapport is important in:
+
+A. Only personal settings
+B. Only professional settings
+C. Both personal and professional settings
+D. Neither
+
+**Answer: C**
+
+### Q23. Building rapport creates an environment that encourages:
+
+A. Honest dialogue
+B. Silence
+C. Avoidance
+D. Competition
+
+**Answer: A**
+
+### Q24. Which is important for building rapport?
+
+A. Active listening
+B. Interrupting
+C. Ignoring viewpoints
+D. Avoiding eye contact
+
+**Answer: A**
+
+### Q25. Showing genuine interest helps:
+
+A. Damage relationships
+B. Build rapport
+C. Prevent communication
+D. Increase misunderstandings
+
+**Answer: B**
+
+### Q26. Which gesture demonstrates active listening?
+
+A. Nodding
+B. Looking away constantly
+C. Interrupting
+D. Checking the phone
+
+**Answer: A**
+
+### Q27. Which body language supports rapport?
+
+A. Crossed arms
+B. Relaxed posture
+C. Avoiding eye contact
+D. Turning away
+
+**Answer: B**
+
+### Q28. Genuine smiling can convey:
+
+A. Warmth and openness
+B. Anger
+C. Confusion
+D. Disinterest
+
+**Answer: A**
+
+### Q29. Empathy helps build:
+
+A. Trust
+B. Confusion
+C. Distance
+D. Competition
+
+**Answer: A**
+
+### Q30. Finding common ground involves talking about:
+
+A. Shared interests or experiences
+B. Personal conflicts only
+C. Technical errors
+D. Unrelated subjects
+
+**Answer: A**
+
+### Q31. Being respectful and authentic helps build:
+
+A. Long-term rapport
+B. Workplace conflict
+C. Distrust
+D. Isolation
+
+**Answer: A**
+
+### Q32. Adapting communication style involves tailoring:
+
+A. Tone, pace and language
+B. Computer hardware
+C. Office furniture
+D. Salary
+
+**Answer: A**
+
+### Q33. Rapport-building promotes:
+
+A. Collaborative relationships
+B. Misunderstandings
+C. Workplace isolation
+D. Conflict
+
+**Answer: A**
+
+---
+
+## C. Components of Social Communication
+
+### Q34. Social communication allows individuals to interact within a:
+
+A. Societal framework
+B. Computer framework
+C. Financial framework
+D. Mechanical framework
+
+**Answer: A**
+
+### Q35. Social communication encompasses:
+
+A. Social interaction, social cognition, pragmatics and language processing
+B. Only grammar
+C. Only speaking
+D. Only writing
+
+**Answer: A**
+
+### Q36. Social interaction occurs between:
+
+A. At least two individuals
+B. Only one person
+C. Only computers
+D. No individuals
+
+**Answer: A**
+
+### Q37. Rules of social interaction may vary across:
+
+A. Cultures and communities
+B. Only workplaces
+C. Only schools
+D. Only families
+
+**Answer: A**
+
+### Q38. Which can vary across cultures?
+
+A. Speech style and context
+B. Computer memory
+C. File size
+D. Keyboard layout
+
+**Answer: A**
+
+### Q39. Language transfer refers to:
+
+A. Influence of one language on another
+B. Translation software
+C. Writing an email
+D. Public speaking
+
+**Answer: A**
+
+### Q40. Power relationships may involve:
+
+A. Dominance or deference
+B. Grammar or spelling
+C. Reading or writing
+D. Listening or silence
+
+**Answer: A**
+
+### Q41. Non-verbal communication includes:
+
+A. Gestures, tone, facial expression and posture
+B. Only written words
+C. Only emails
+D. Only reports
+
+**Answer: A**
+
+### Q42. Which is a necessary ability for successful social interaction?
+
+A. Emotion understanding and regulation
+B. Avoiding emotions
+C. Avoiding communication
+D. Ignoring others
+
+**Answer: A**
+
+### Q43. Code-switching is listed as an ability related to:
+
+A. Successful social interaction
+B. Database management
+C. Presentation software
+D. Reading newspapers
+
+**Answer: A**
+
+### Q44. Social reasoning is related to:
+
+A. Social interaction
+B. Computer programming
+C. Financial accounting
+D. File management
+
+**Answer: A**
+
+### Q45. Conflict resolution is a necessary ability for:
+
+A. Successful social interaction
+B. Data entry
+C. File sharing
+D. Hardware installation
+
+**Answer: A**
+
+### Q46. Social understanding involves acquiring knowledge about:
+
+A. One's and others' mental actions
+B. Computer systems
+C. Financial systems
+D. Office equipment
+
+**Answer: A**
+
+### Q47. Social cognition refers to understanding:
+
+A. Mental actions of oneself and others
+B. Computer operations
+C. Financial calculations
+D. Physical equipment
+
+**Answer: A**
+
+### Q48. Executive functioning includes:
+
+A. Organization and planning
+B. Only speaking
+C. Only listening
+D. Only writing
+
+**Answer: A**
+
+### Q49. Which is an element of executive functioning?
+
+A. Self-monitoring
+B. File deletion
+C. Software installation
+D. Keyboard typing
+
+**Answer: A**
+
+### Q50. Theory of Mind is abbreviated as:
+
+A. ToM
+B. TOML
+C. TMS
+D. TMI
+
+**Answer: A**
+
+### Q51. Theory of Mind involves understanding:
+
+A. Mental states of others
+B. Computer states
+C. Financial states
+D. Physical states only
+
+**Answer: A**
+
+### Q52. Theory of Mind includes understanding others':
+
+A. Knowledge, desires and intentions
+B. Salary and position only
+C. Technical skills only
+D. Office timings only
+
+**Answer: A**
+
+### Q53. Joint attention includes:
+
+A. Social orienting and shared attention
+B. Individual isolation
+C. Avoiding eye contact
+D. Ignoring intentions
+
+**Answer: A**
+
+### Q54. Which is related to social cognition?
+
+A. Inference
+B. Programming
+C. Database design
+D. File compression
+
+**Answer: A**
+
+### Q55. Which memory types are mentioned under social understanding?
+
+A. Semantic, episodic and autobiographical
+B. RAM and ROM
+C. Cache and virtual memory
+D. Primary and secondary memory
+
+**Answer: A**
+
+---
+
+## D. Workplace Importance
+
+### Q56. Social communication enhances:
+
+A. Teamwork
+B. Isolation
+C. Misunderstanding
+D. Workplace stress
+
+**Answer: A**
+
+### Q57. Effective teamwork depends heavily on:
+
+A. Clear communication, active listening and mutual understanding
+B. Competition and silence
+C. Avoidance and assumptions
+D. Technical knowledge only
+
+**Answer: A**
+
+### Q58. Strong social communication strengthens:
+
+A. Leadership
+B. Isolation
+C. Confusion
+D. Miscommunication
+
+**Answer: A**
+
+### Q59. A good leader should:
+
+A. Listen attentively
+B. Avoid listening
+C. Interrupt constantly
+D. Ignore employee concerns
+
+**Answer: A**
+
+### Q60. Social communication helps resolve conflicts through:
+
+A. Active listening, empathy and assertiveness
+B. Arguments
+C. Ignoring concerns
+D. Avoidance
+
+**Answer: A**
+
+### Q61. Healthy social communication makes employees feel:
+
+A. Valued and included
+B. Ignored
+C. Isolated
+D. Unwanted
+
+**Answer: A**
+
+### Q62. Social communication can enhance employee:
+
+A. Satisfaction and retention
+B. Isolation
+C. Confusion
+D. Stress only
+
+**Answer: A**
+
+### Q63. Good communication can facilitate:
+
+A. Career advancement
+B. Workplace isolation
+C. Misunderstanding
+D. Reduced networking
+
+**Answer: A**
+
+### Q64. Professionals who communicate well build better relationships with:
+
+A. Colleagues, clients and superiors
+B. Only themselves
+C. Only competitors
+D. Nobody
+
+**Answer: A**
+
+### Q65. Social communication contributes to:
+
+A. Teamwork, leadership and conflict resolution
+B. Only speaking
+C. Only writing
+D. Only entertainment
+
+**Answer: A**
+
+---
+
+## E. Verbal and Non-Verbal Communication
+
+### Q66. Communication is the process of exchanging:
+
+A. Information, ideas, thoughts and emotions
+B. Only data
+C. Only emotions
+D. Only instructions
+
+**Answer: A**
+
+### Q67. Communication is broadly classified into:
+
+A. Verbal and non-verbal communication
+B. Written and digital only
+C. Formal and informal only
+D. Social and technical only
+
+**Answer: A**
+
+### Q68. Verbal communication uses:
+
+A. Spoken or written words
+B. Only gestures
+C. Only facial expressions
+D. Only posture
+
+**Answer: A**
+
+### Q69. Which is verbal communication?
+
+A. Telephone call
+B. Eye contact
+C. Facial expression
+D. Posture
+
+**Answer: A**
+
+### Q70. Which is an example of written verbal communication?
+
+A. Email
+B. Smile
+C. Gesture
+D. Eye contact
+
+**Answer: A**
+
+### Q71. Which is a feature of verbal communication?
+
+A. Clarity of language
+B. Posture
+C. Proximity
+D. Facial expression
+
+**Answer: A**
+
+### Q72. Tone and pitch relate to:
+
+A. Verbal communication
+B. Database management
+C. Reading skills
+D. Book reviews
+
+**Answer: A**
+
+### Q73. Speed and fluency of speech are features of:
+
+A. Verbal communication
+B. Non-verbal communication only
+C. Reading
+D. Writing review
+
+**Answer: A**
+
+### Q74. Grammar and vocabulary are associated with:
+
+A. Verbal communication
+B. Posture
+C. Eye contact
+D. Gestures
+
+**Answer: A**
+
+### Q75. Non-verbal communication transmits messages:
+
+A. Without the use of words
+B. Only through written words
+C. Only through emails
+D. Only through reports
+
+**Answer: A**
+
+### Q76. Which is an example of non-verbal communication?
+
+A. Nodding
+B. Emailing
+C. Writing
+D. Speaking
+
+**Answer: A**
+
+### Q77. Nodding can show:
+
+A. Agreement
+B. Anger
+C. Confusion
+D. Disinterest
+
+**Answer: A**
+
+### Q78. Crossing arms may indicate:
+
+A. Defensiveness
+B. Agreement
+C. Confidence always
+D. Happiness
+
+**Answer: A**
+
+### Q79. Smiling may express:
+
+A. Friendliness
+B. Defensiveness
+C. Anger
+D. Confusion
+
+**Answer: A**
+
+### Q80. Eye contact may show:
+
+A. Attention or confidence
+B. Anger only
+C. Disinterest
+D. Confusion
+
+**Answer: A**
+
+### Q81. Silence may communicate:
+
+A. Discomfort or reflection
+B. Agreement always
+C. Happiness always
+D. Confidence always
+
+**Answer: A**
+
+### Q82. Physical distance in communication is called:
+
+A. Proxemics
+B. Pragmatics
+C. Semantics
+D. Syntax
+
+**Answer: A**
+
+### Q83. Non-verbal cues can:
+
+A. Complement, reinforce or contradict verbal messages
+B. Only contradict messages
+C. Only repeat messages
+D. Never affect communication
+
+**Answer: A**
+
+### Q84. Non-verbal communication is particularly useful for expressing:
+
+A. Emotions and attitudes
+B. Only numbers
+C. Only written instructions
+D. Only data
+
+**Answer: A**
+
+### Q85. Verbal communication primarily provides:
+
+A. Content of the message
+B. Emotional depth only
+C. Physical distance
+D. Facial expression
+
+**Answer: A**
+
+### Q86. Non-verbal communication adds:
+
+A. Emotional depth and clarity
+B. Only vocabulary
+C. Grammar
+D. Written content
+
+**Answer: A**
+
+---
+
+# UNIT 2 — EFFECTIVE LISTENING SKILLS
+
+## A. Hearing vs Listening
+
+### Q87. Effective listening is the ability to:
+
+A. Receive, understand, evaluate and respond to a spoken message
+B. Hear sounds without understanding
+C. Ignore emotions
+D. Speak continuously
+
+**Answer: A**
+
+### Q88. Effective listening pays attention to:
+
+A. Words and feelings behind them
+B. Words only
+C. Feelings only
+D. Background noise only
+
+**Answer: A**
+
+### Q89. Hearing is:
+
+A. Physical and involuntary
+B. Conscious and analytical
+C. Always active
+D. A form of evaluation
+
+**Answer: A**
+
+### Q90. Listening is:
+
+A. A conscious mental process
+B. An involuntary process
+C. Only physical
+D. Passive hearing
+
+**Answer: A**
+
+### Q91. Hearing requires:
+
+A. No effort
+B. Full attention
+C. Note-taking
+D. Evaluation
+
+**Answer: A**
+
+### Q92. Listening requires:
+
+A. Attention, interest and effort
+B. No effort
+C. No understanding
+D. No response
+
+**Answer: A**
+
+### Q93. Hearing does not guarantee:
+
+A. Understanding
+B. Sound perception
+C. Hearing
+D. Physical reception
+
+**Answer: A**
+
+### Q94. Listening aims at:
+
+A. Understanding, remembering and responding
+B. Hearing only
+C. Ignoring the speaker
+D. Interrupting
+
+**Answer: A**
+
+### Q95. Hearing is generally:
+
+A. Passive
+B. Analytical
+C. Evaluative
+D. Interactive
+
+**Answer: A**
+
+### Q96. Listening involves:
+
+A. Interpreting, evaluating and giving feedback
+B. Only hearing
+C. Ignoring the speaker
+D. Avoiding response
+
+**Answer: A**
+
+---
+
+## B. Importance of Effective Listening
+
+### Q97. Effective listening is the foundation of:
+
+A. Workplace communication
+B. Computer programming
+C. Database design
+D. Graphic design
+
+**Answer: A**
+
+### Q98. Effective listening reduces:
+
+A. Errors
+B. Trust
+C. Teamwork
+D. Customer satisfaction
+
+**Answer: A**
+
+### Q99. Listening correctly helps reduce:
+
+A. Mistakes and rework
+B. Understanding
+C. Cooperation
+D. Learning
+
+**Answer: A**
+
+### Q100. Listening shows the speaker that:
+
+A. Their opinion matters
+B. Their opinion is irrelevant
+C. They should stop talking
+D. They are being judged
+
+**Answer: A**
+
+### Q101. Effective listening improves:
+
+A. Teamwork
+B. Misunderstandings
+C. Conflict
+D. Workplace stress
+
+**Answer: A**
+
+### Q102. Effective listening contributes to:
+
+A. Conflict resolution
+B. Conflict escalation
+C. Workplace isolation
+D. Miscommunication
+
+**Answer: A**
+
+### Q103. In customer interactions, listening helps identify:
+
+A. Real needs and complaints
+B. Only customer names
+C. Only prices
+D. Employee opinions
+
+**Answer: A**
+
+### Q104. Complete information helps lead to:
+
+A. Sound judgement
+B. Poor judgement
+C. Confusion
+D. Conflict
+
+**Answer: A**
+
+### Q105. Leaders who listen gain:
+
+A. Honest feedback and higher employee engagement
+B. Less information
+C. Less trust
+D. More conflict
+
+**Answer: A**
+
+---
+
+## C. Types of Listening
+
+### Q106. Discriminative listening involves distinguishing:
+
+A. Sounds, words, tone and accents
+B. Arguments only
+C. Emotions only
+D. Written information
+
+**Answer: A**
+
+### Q107. Discriminative listening is:
+
+A. The most basic type
+B. The most advanced type
+C. Only written listening
+D. Only critical listening
+
+**Answer: A**
+
+### Q108. Recognising an unfamiliar accent is an example of:
+
+A. Discriminative listening
+B. Appreciative listening
+C. Critical listening
+D. Empathic listening
+
+**Answer: A**
+
+### Q109. Comprehensive listening focuses on:
+
+A. Understanding the message and facts
+B. Enjoyment
+C. Emotional support
+D. Judging evidence
+
+**Answer: A**
+
+### Q110. Lectures and instructions require:
+
+A. Comprehensive listening
+B. Appreciative listening
+C. Discriminative listening only
+D. Empathic listening only
+
+**Answer: A**
+
+### Q111. Critical listening involves:
+
+A. Analysing arguments and judging evidence
+B. Listening for enjoyment
+C. Identifying accents only
+D. Supporting feelings only
+
+**Answer: A**
+
+### Q112. Assessing a sales pitch is an example of:
+
+A. Critical listening
+B. Appreciative listening
+C. Empathic listening
+D. Discriminative listening
+
+**Answer: A**
+
+### Q113. Appreciative listening is listening for:
+
+A. Enjoyment
+B. Evidence
+C. Instructions
+D. Conflict resolution
+
+**Answer: A**
+
+### Q114. Listening to music is an example of:
+
+A. Appreciative listening
+B. Critical listening
+C. Comprehensive listening
+D. Discriminative listening
+
+**Answer: A**
+
+### Q115. Empathic listening focuses on:
+
+A. Understanding and supporting feelings
+B. Judging arguments
+C. Identifying accents
+D. Memorizing facts
+
+**Answer: A**
+
+### Q116. Listening to a stressed colleague is:
+
+A. Empathic listening
+B. Critical listening
+C. Appreciative listening
+D. Discriminative listening
+
+**Answer: A**
+
+### Q117. Skilled communicators should:
+
+A. Shift between listening types as the situation demands
+B. Always use only one type
+C. Avoid active listening
+D. Never evaluate information
+
+**Answer: A**
+
+### Q118. Listening can also be classified as:
+
+A. Active or passive
+B. Formal or informal only
+C. Written or spoken only
+D. Digital or physical
+
+**Answer: A**
+
+### Q119. Active listening involves:
+
+A. Full engagement and responsiveness
+B. Limited involvement
+C. Ignoring feedback
+D. No attention
+
+**Answer: A**
+
+---
+
+## D. Listening Barriers
+
+### Q120. Listening barriers are:
+
+A. Obstacles that prevent messages from being received, understood or remembered correctly
+B. Communication skills
+C. Presentation techniques
+D. Reading techniques
+
+**Answer: A**
+
+### Q121. Noise is a:
+
+A. Physical barrier
+B. Psychological barrier
+C. Attitudinal barrier
+D. Semantic barrier
+
+**Answer: A**
+
+### Q122. Poor acoustics are:
+
+A. Physical barriers
+B. Physiological barriers
+C. Cultural barriers
+D. Attitudinal barriers
+
+**Answer: A**
+
+### Q123. Uncomfortable seating can cause:
+
+A. Physical listening barriers
+B. Semantic barriers
+C. Cultural barriers
+D. Ethical dilemmas
+
+**Answer: A**
+
+### Q124. Hearing problems are:
+
+A. Physiological barriers
+B. Physical barriers
+C. Semantic barriers
+D. Attitudinal barriers
+
+**Answer: A**
+
+### Q125. Fatigue is a:
+
+A. Physiological barrier
+B. Semantic barrier
+C. Cultural barrier
+D. Technological barrier
+
+**Answer: A**
+
+### Q126. Hunger can interfere with:
+
+A. Listening
+B. Reading only
+C. Presentation design only
+D. Book reviewing only
+
+**Answer: A**
+
+### Q127. Stress is a:
+
+A. Psychological barrier
+B. Physical barrier
+C. Semantic barrier
+D. Technological barrier
+
+**Answer: A**
+
+### Q128. Daydreaming is a:
+
+A. Psychological barrier
+B. Physical barrier
+C. Cultural barrier
+D. Semantic barrier
+
+**Answer: A**
+
+### Q129. Difficult vocabulary creates a:
+
+A. Semantic/language barrier
+B. Physical barrier
+C. Physiological barrier
+D. Technological barrier
+
+**Answer: A**
+
+### Q130. Unfamiliar accents can be:
+
+A. Semantic/language barriers
+B. Physical barriers
+C. Ethical barriers
+D. Professional values
+
+**Answer: A**
+
+### Q131. Prejudice is an:
+
+A. Attitudinal barrier
+B. Physical barrier
+C. Physiological barrier
+D. Technological barrier
+
+**Answer: A**
+
+### Q132. Pre-judging the speaker is:
+
+A. An attitudinal barrier
+B. A physical barrier
+C. A reading technique
+D. Active listening
+
+**Answer: A**
+
+### Q133. Information overload can reduce:
+
+A. Retention
+B. Attention problems
+C. Communication barriers
+D. Vocabulary
+
+**Answer: A**
+
+### Q134. People generally think:
+
+A. Faster than people speak
+B. Slower than people speak
+C. At exactly the same speed
+D. Only when listening
+
+**Answer: A**
+
+### Q135. A poor network in an online meeting is a:
+
+A. Technological barrier
+B. Semantic barrier
+C. Physiological barrier
+D. Attitudinal barrier
+
+**Answer: A**
+
+### Q136. Phone notifications can cause:
+
+A. Technological distraction
+B. Better listening
+C. Active listening
+D. Critical listening
+
+**Answer: A**
+
+### Q137. Cultural differences in eye contact can create:
+
+A. Cultural barriers
+B. Physical barriers
+C. Physiological barriers
+D. Information overload
+
+**Answer: A**
+
+### Q138. Which is a way to overcome listening barriers?
+
+A. Choose a quiet place
+B. Increase distractions
+C. Pre-judge the speaker
+D. Interrupt frequently
+
+**Answer: A**
+
+### Q139. Switching off phones helps reduce:
+
+A. Distractions
+B. Empathy
+C. Vocabulary
+D. Cultural awareness
+
+**Answer: A**
+
+### Q140. Taking brief notes helps:
+
+A. Remember key points
+B. Create distractions
+C. Avoid understanding
+D. Increase prejudice
+
+**Answer: A**
+
+### Q141. Asking for clarification helps overcome:
+
+A. Language barriers
+B. Physical barriers only
+C. Hunger
+D. Fatigue
+
+**Answer: A**
+
+### Q142. An open mind helps overcome:
+
+A. Attitudinal barriers
+B. Hearing problems
+C. Poor acoustics
+D. Network problems
+
+**Answer: A**
+
+---
+
+## E. Listening to Observe
+
+### Q143. Listening to observe means paying attention to:
+
+A. More than spoken words
+B. Words only
+C. Written material only
+D. Grammar only
+
+**Answer: A**
+
+### Q144. Tone can indicate whether a speaker is:
+
+A. Calm, nervous, angry or excited
+B. Only happy
+C. Only sad
+D. Only confident
+
+**Answer: A**
+
+### Q145. Long pauses may indicate:
+
+A. Doubt or discomfort
+B. Confidence always
+C. Agreement always
+D. Happiness always
+
+**Answer: A**
+
+### Q146. Word emphasis can reveal:
+
+A. Important ideas
+B. Computer errors
+C. Reading speed
+D. Financial data
+
+**Answer: A**
+
+### Q147. A mismatch between words and tone may reveal:
+
+A. Hidden concerns
+B. Better grammar
+C. Reading ability
+D. Technical knowledge
+
+**Answer: A**
+
+### Q148. Listening to observe is particularly useful in:
+
+A. Interviews and negotiations
+B. File management
+C. Database design
+D. Coding
+
+**Answer: A**
+
+### Q149. Listening to observe considers:
+
+A. Context
+B. Only vocabulary
+C. Only grammar
+D. Only written words
+
+**Answer: A**
+
+---
+
+## F. Listening to Understand
+
+### Q150. Listening to understand focuses on:
+
+A. Meaning and intention
+B. Preparing a reply
+C. Judging appearance
+D. Ignoring context
+
+**Answer: A**
+
+### Q151. According to the notes, most people listen with the intent to:
+
+A. Reply rather than understand
+B. Understand rather than reply
+C. Avoid speaking
+D. Take notes
+
+**Answer: A**
+
+### Q152. In listening to understand, the listener should:
+
+A. Give full attention
+B. Interrupt
+C. Judge immediately
+D. Prepare a reply immediately
+
+**Answer: A**
+
+### Q153. Judgement should be:
+
+A. Suspended until the speaker finishes
+B. Made immediately
+C. Based on appearance
+D. Based on accent
+
+**Answer: A**
+
+### Q154. Paraphrasing means:
+
+A. Restating the message in your own words
+B. Ignoring the message
+C. Changing the topic
+D. Repeating every word exactly
+
+**Answer: A**
+
+### Q155. Open-ended questions help:
+
+A. Clarify meaning
+B. End communication
+C. Avoid understanding
+D. Create prejudice
+
+**Answer: A**
+
+### Q156. Listening to understand considers:
+
+A. Context, feelings and purpose
+B. Only words
+C. Only tone
+D. Only appearance
+
+**Answer: A**
+
+### Q157. The response should be given:
+
+A. After understanding the whole message
+B. Before the speaker finishes
+C. Before hearing the message
+D. Without listening
+
+**Answer: A**
+
+### Q158. Listening to understand helps reduce:
+
+A. Misunderstandings
+B. Trust
+C. Teamwork
+D. Empathy
+
+**Answer: A**
+
+---
+
+## G. Points of View
+
+### Q159. A Point of View is:
+
+A. The position or perspective from which a person interprets a situation
+B. A presentation technique
+C. A reading method
+D. A listening barrier
+
+**Answer: A**
+
+### Q160. A person's PoV may be influenced by:
+
+A. Experience, culture, values, role and emotions
+B. Only age
+C. Only education
+D. Only profession
+
+**Answer: A**
+
+### Q161. The speaker's PoV concerns:
+
+A. What the speaker means, feels and wants to achieve
+B. The listener's assumptions
+C. An objective third party
+D. Group norms only
+
+**Answer: A**
+
+### Q162. The listener's PoV concerns:
+
+A. Their own beliefs, assumptions and mood
+B. Speaker's intentions only
+C. A mediator's view
+D. Organizational rules only
+
+**Answer: A**
+
+### Q163. Neutral PoV represents:
+
+A. An objective view
+B. Speaker's emotions
+C. Listener's prejudice
+D. Cultural assumptions
+
+**Answer: A**
+
+### Q164. A mediator may use:
+
+A. Neutral PoV
+B. Speaker's PoV only
+C. Listener's PoV only
+D. No PoV
+
+**Answer: A**
+
+### Q165. Cultural or organisational PoV is influenced by:
+
+A. Group norms and expectations
+B. Individual emotions only
+C. Physical distance
+D. Grammar
+
+**Answer: A**
+
+### Q166. Perspective-taking means:
+
+A. Putting yourself in the speaker's position
+B. Ignoring the speaker
+C. Judging the speaker
+D. Interrupting the speaker
+
+**Answer: A**
+
+### Q167. Effective listeners should recognise their own:
+
+A. Bias
+B. Salary
+C. Technical skills
+D. Job title
+
+**Answer: A**
+
+### Q168. Acknowledging a view means:
+
+A. Recognising it even when you disagree
+B. Agreeing with everything
+C. Ignoring disagreement
+D. Rejecting the speaker
+
+**Answer: A**
+
+### Q169. Understanding multiple PoVs makes listening:
+
+A. Fairer and more empathetic
+B. More biased
+C. Less effective
+D. More argumentative
+
+**Answer: A**
+
+---
+
+## H. Active Listening
+
+### Q170. Active listening involves:
+
+A. Fully concentrating, understanding, responding and remembering
+B. Hearing without effort
+C. Ignoring the speaker
+D. Planning your reply only
+
+**Answer: A**
+
+### Q171. Active listening is associated with:
+
+A. Carl Rogers and Richard Farson
+B. Julian Treasure only
+C. Stephen Hawking
+D. No psychologists
+
+**Answer: A**
+
+### Q172. Active listening was associated with Rogers and Farson in:
+
+A. 1957
+B. 1967
+C. 1977
+D. 1987
+
+**Answer: A**
+
+### Q173. An active listener should:
+
+A. Put away distractions
+B. Check the phone
+C. Interrupt
+D. Judge immediately
+
+**Answer: A**
+
+### Q174. Minimal encouragers include:
+
+A. “I see” and “Go on”
+B. “Stop talking”
+C. “You're wrong”
+D. “Never mind”
+
+**Answer: A**
+
+### Q175. Paraphrasing means:
+
+A. Restating the message in your own words
+B. Changing the speaker's message
+C. Ignoring the message
+D. Ending the discussion
+
+**Answer: A**
+
+### Q176. Reflecting feelings involves:
+
+A. Identifying the speaker's emotional state
+B. Ignoring emotions
+C. Criticising the speaker
+D. Changing the subject
+
+**Answer: A**
+
+### Q177. Summarising means:
+
+A. Recapping the main points
+B. Adding unrelated information
+C. Ignoring the message
+D. Repeating only one word
+
+**Answer: A**
+
+### Q178. Deferring judgement means:
+
+A. Not interrupting or arguing prematurely
+B. Judging immediately
+C. Rejecting the speaker
+D. Avoiding listening
+
+**Answer: A**
+
+### Q179. Appropriate responses should be:
+
+A. Honest and respectful
+B. Aggressive
+C. Dismissive
+D. Unrelated
+
+**Answer: A**
+
+---
+
+## I. SOLER Model
+
+### Q180. In SOLER, “S” stands for:
+
+A. Squarely face the speaker
+B. Speak loudly
+C. Summarise
+D. Scan
+
+**Answer: A**
+
+### Q181. In SOLER, “O” stands for:
+
+A. Open posture
+B. Observe
+C. Organise
+D. Opinion
+
+**Answer: A**
+
+### Q182. In SOLER, “L” stands for:
+
+A. Lean slightly forward
+B. Listen silently
+C. Look away
+D. Learn
+
+**Answer: A**
+
+### Q183. In SOLER, “E” stands for:
+
+A. Eye contact
+B. Empathy
+C. Evaluate
+D. Explain
+
+**Answer: A**
+
+### Q184. In SOLER, “R” stands for:
+
+A. Relax
+B. Respond
+C. Review
+D. Recall
+
+**Answer: A**
+
+### Q185. SOLER is associated with:
+
+A. Gerard Egan
+B. Carl Rogers
+C. Richard Farson
+D. Julian Treasure
+
+**Answer: A**
+
+### Q186. Open posture means:
+
+A. Avoiding crossed arms
+B. Crossing arms
+C. Turning away
+D. Closing eyes
+
+**Answer: A**
+
+### Q187. Eye contact should be:
+
+A. Natural, not staring
+B. Completely avoided
+C. Constantly intense
+D. Unnecessary
+
+**Answer: A**
+
+### Q188. “Relax” in SOLER means:
+
+A. Appear comfortable
+B. Ignore the speaker
+C. Stop listening
+D. Change posture constantly
+
+**Answer: A**
+
+---
+
+## J. Active Listening Benefits and Mistakes
+
+### Q189. Active listening improves:
+
+A. Accuracy of information
+B. Misunderstanding
+C. Workplace errors
+D. Disinterest
+
+**Answer: A**
+
+### Q190. Active listening strengthens:
+
+A. Relationships and trust
+B. Conflict
+C. Isolation
+D. Distrust
+
+**Answer: A**
+
+### Q191. Active listening helps with:
+
+A. Difficult customers
+B. Workplace avoidance
+C. Ignoring concerns
+D. Increasing mistakes
+
+**Answer: A**
+
+### Q192. Active listening encourages employees to:
+
+A. Share ideas and concerns
+B. Remain silent
+C. Avoid managers
+D. Hide problems
+
+**Answer: A**
+
+### Q193. Active listening enhances:
+
+A. Leadership, negotiation and interviewing
+B. Only typing
+C. Only reading
+D. Only programming
+
+**Answer: A**
+
+### Q194. Which is an active listening mistake?
+
+A. Interrupting
+B. Paraphrasing
+C. Summarising
+D. Clarifying
+
+**Answer: A**
+
+### Q195. Planning your reply while someone is speaking is:
+
+A. A listening mistake
+B. Active listening
+C. Empathic listening
+D. Comprehensive listening
+
+**Answer: A**
+
+### Q196. Giving advice too early is:
+
+A. A common active listening mistake
+B. A listening technique
+C. A reading technique
+D. A presentation skill
+
+**Answer: A**
+
+### Q197. Checking your phone during conversation:
+
+A. Reduces active listening
+B. Improves active listening
+C. Shows full attention
+D. Builds trust
+
+**Answer: A**
+
+---
+
+## K. TED Talks
+
+### Q198. TED stands for:
+
+A. Technology, Entertainment, Design
+B. Training, Education, Development
+C. Technology, Education, Discussion
+D. Teaching, Entertainment, Development
+
+**Answer: A**
+
+### Q199. TED is described in the notes as a:
+
+A. Non-profit organisation
+B. Government department
+C. University
+D. Corporation
+
+**Answer: A**
+
+### Q200. TED's slogan is:
+
+A. Ideas worth spreading
+B. Ideas worth selling
+C. Knowledge through books
+D. Learn through work
+
+**Answer: A**
+
+### Q201. TED Talks are usually:
+
+A. Under 18 minutes
+B. Over 2 hours
+C. Exactly 60 minutes
+D. Exactly 5 minutes
+
+**Answer: A**
+
+### Q202. TED Talks are:
+
+A. Short, prepared presentations
+B. Unstructured conversations only
+C. Written reports
+D. Podcasts only
+
+**Answer: A**
+
+### Q203. TED Talks help listening through:
+
+A. Variety of speakers, accents and topics
+B. Only one speaker
+C. No structure
+D. No spoken language
+
+**Answer: A**
+
+### Q204. Subtitles and transcripts help:
+
+A. Check understanding and vocabulary
+B. Reduce concentration
+C. Avoid listening
+D. Eliminate speech
+
+**Answer: A**
+
+### Q205. TED Talks have a:
+
+A. Clear structure
+B. Completely random structure
+C. No conclusion
+D. No main points
+
+**Answer: A**
+
+### Q206. Short duration helps:
+
+A. Maintain concentration
+B. Reduce listening
+C. Increase distraction
+D. Avoid comprehension
+
+**Answer: A**
+
+### Q207. TED Talks can support:
+
+A. Appreciative and critical listening
+B. Only passive listening
+C. Only discriminative listening
+D. Only empathic listening
+
+**Answer: A**
+
+### Q208. Julian Treasure's suggested talk is:
+
+A. “5 ways to listen better”
+B. “How to Present Better”
+C. “Leadership at Work”
+D. “Reading Better”
+
+**Answer: A**
+
+### Q209. Celeste Headlee's suggested talk is:
+
+A. “10 ways to have a better conversation”
+B. “5 ways to listen better”
+C. “Effective Reading Skills”
+D. “Leadership and Values”
+
+**Answer: A**
+
+---
+
+## L. Podcasts
+
+### Q210. A podcast is:
+
+A. A digital audio programme released in episodes
+B. A printed newspaper
+C. A presentation slide
+D. A book review
+
+**Answer: A**
+
+### Q211. Podcasts can be:
+
+A. Streamed or downloaded
+B. Only printed
+C. Only watched in theatres
+D. Only read
+
+**Answer: A**
+
+### Q212. A common podcast format is:
+
+A. Interview
+B. Spreadsheet
+C. Database
+D. Presentation slide
+
+**Answer: A**
+
+### Q213. Podcasts provide:
+
+A. Flexible listening practice
+B. Only classroom learning
+C. No flexibility
+D. Only visual information
+
+**Answer: A**
+
+### Q214. Podcasts expose listeners to:
+
+A. Natural speech, accents and speaking speeds
+B. Only written language
+C. Only formal speeches
+D. Only one accent
+
+**Answer: A**
+
+### Q215. Podcasts allow listeners to:
+
+A. Pause, replay and change speed
+B. Change the speaker
+C. Rewrite the episode
+D. Remove the audio
+
+**Answer: A**
+
+### Q216. Audio-only podcasts require focus on:
+
+A. Voice, tone and meaning
+B. Visual graphics
+C. Slides
+D. Body posture
+
+**Answer: A**
+
+### Q217. An effective podcast practice method includes noting:
+
+A. Three key points
+B. Ten unrelated points
+C. Only the title
+D. Nothing
+
+**Answer: A**
+
+### Q218. After listening to a podcast, the notes recommend summarising in:
+
+A. Two or three sentences
+B. Ten pages
+C. One word
+D. No sentences
+
+**Answer: A**
+
+---
+
+# UNIT 3 — VALUES IN PROFESSION, ETHICS & REVIEWS
+
+## A. Professional Values
+
+### Q219. Values in Profession refer to:
+
+A. Ethical principles, moral beliefs and standards of behaviour
+B. Technical skills only
+C. Personal hobbies
+D. Presentation techniques
+
+**Answer: A**
+
+### Q220. Professional values guide:
+
+A. Professional responsibilities
+B. Entertainment choices
+C. Reading speed
+D. Presentation slides only
+
+**Answer: A**
+
+### Q221. Integrity means:
+
+A. Being honest and adhering to strong moral principles
+B. Avoiding responsibility
+C. Hiding mistakes
+D. Ignoring ethics
+
+**Answer: A**
+
+### Q222. Accountability means:
+
+A. Taking responsibility for actions and decisions
+B. Blaming others
+C. Avoiding decisions
+D. Hiding information
+
+**Answer: A**
+
+### Q223. Respect means:
+
+A. Treating colleagues, clients and stakeholders with dignity
+B. Ignoring others
+C. Judging others
+D. Avoiding communication
+
+**Answer: A**
+
+### Q224. Commitment means:
+
+A. Dedication to organizational goals and personal duties
+B. Avoiding work
+C. Rejecting responsibility
+D. Ignoring goals
+
+**Answer: A**
+
+### Q225. Fairness means:
+
+A. Being just and impartial
+B. Favouring friends
+C. Ignoring rules
+D. Avoiding decisions
+
+**Answer: A**
+
+### Q226. Confidentiality means:
+
+A. Protecting sensitive information from misuse
+B. Sharing all information publicly
+C. Ignoring information
+D. Hiding all communication
+
+**Answer: A**
+
+### Q227. Professional values help:
+
+A. Build trust and reputation
+B. Create distrust
+C. Increase conflict
+D. Reduce responsibility
+
+**Answer: A**
+
+### Q228. Shared professional values promote:
+
+A. Teamwork and respect
+B. Conflict
+C. Isolation
+D. Competition only
+
+**Answer: A**
+
+---
+
+## B. Ethical Dilemmas
+
+### Q229. An ethical dilemma involves:
+
+A. Two or more conflicting moral choices
+B. A simple decision
+C. A technical problem
+D. A reading problem
+
+**Answer: A**
+
+### Q230. An ethical dilemma is described as a choice between:
+
+A. Two rights that conflict
+B. Right and completely wrong
+C. Two technical systems
+D. Two presentation formats
+
+**Answer: A**
+
+### Q231. Ethical dilemmas often involve conflict between:
+
+A. Values
+B. Computer systems
+C. Reading styles
+D. Presentation aids
+
+**Answer: A**
+
+### Q232. Which is an example of conflicting values?
+
+A. Honesty vs loyalty
+B. Reading vs writing
+C. Speaking vs listening
+D. Slides vs charts
+
+**Answer: A**
+
+### Q233. Ethical dilemmas generally:
+
+A. Require critical thinking and ethical reasoning
+B. Require no thought
+C. Have an obvious answer
+D. Are always technical
+
+**Answer: A**
+
+### Q234. An employee discovering falsified reports faces a conflict between:
+
+A. Reporting misconduct and loyalty/silence
+B. Reading and writing
+C. Speaking and listening
+D. Presentation and discussion
+
+**Answer: A**
+
+### Q235. The first step in dealing with an ethical dilemma is to:
+
+A. Identify the conflict
+B. Immediately decide
+C. Ignore it
+D. Blame someone
+
+**Answer: A**
+
+### Q236. Gathering information involves:
+
+A. Collecting facts and assessing impacts
+B. Ignoring evidence
+C. Making assumptions
+D. Avoiding consequences
+
+**Answer: A**
+
+### Q237. Professionals should consider:
+
+A. Short- and long-term consequences
+B. Only immediate consequences
+C. Only personal benefit
+D. Only financial gain
+
+**Answer: A**
+
+### Q238. Ethical dilemmas may be addressed using:
+
+A. Codes of ethics
+B. Presentation slides
+C. Reading newspapers
+D. Podcasts
+
+**Answer: A**
+
+### Q239. Guidance may be sought from:
+
+A. Mentors, supervisors or ethics committees
+B. Random strangers only
+C. Customers only
+D. No one
+
+**Answer: A**
+
+### Q240. A final ethical decision should:
+
+A. Align best with ethical standards
+B. Ignore ethical standards
+C. Always benefit oneself
+D. Avoid justification
+
+**Answer: A**
+
+---
+
+## C. Ethics and Values
+
+### Q241. Ethics refers to:
+
+A. A system of moral principles governing behaviour
+B. Personal hobbies
+C. Communication technology
+D. Reading habits
+
+**Answer: A**
+
+### Q242. Ethics provides a framework for:
+
+A. What is right and wrong
+B. Presentation design only
+C. Reading speed
+D. Listening types
+
+**Answer: A**
+
+### Q243. Values are:
+
+A. Core beliefs or standards guiding behaviour and decision-making
+B. Workplace punishments
+C. Technical instructions
+D. Communication barriers
+
+**Answer: A**
+
+### Q244. Which is an example of a value?
+
+A. Honesty
+B. Database
+C. PowerPoint
+D. Podcast
+
+**Answer: A**
+
+### Q245. Values are generally more:
+
+A. Personal and internal
+B. External and imposed
+C. Technical
+D. Mechanical
+
+**Answer: A**
+
+### Q246. Ethics and values together influence:
+
+A. Professional behaviour
+B. Reading speed
+C. Computer processing
+D. Presentation length
+
+**Answer: A**
+
+### Q247. Ethical professionals take:
+
+A. Responsibility for their actions
+B. No responsibility
+C. Responsibility for others only
+D. No decisions
+
+**Answer: A**
+
+### Q248. Shared values such as respect and fairness promote:
+
+A. Workplace harmony
+B. Workplace conflict
+C. Isolation
+D. Miscommunication
+
+**Answer: A**
+
+---
+
+## D. Book and Journal Reviews
+
+### Q249. A book or journal review is a:
+
+A. Critical evaluation and analysis of published work
+B. Simple summary only
+C. Presentation
+D. Listening exercise
+
+**Answer: A**
+
+### Q250. A review should assess:
+
+A. Strengths and weaknesses
+B. Only the title
+C. Only the author
+D. Only publication year
+
+**Answer: A**
+
+### Q251. Bibliographic information includes:
+
+A. Title, author, publisher and year
+B. Only title
+C. Only author
+D. Only publisher
+
+**Answer: A**
+
+### Q252. Purpose and scope ask:
+
+A. What is the main aim and intended audience?
+B. Who printed it?
+C. How long is it?
+D. What font is used?
+
+**Answer: A**
+
+### Q253. A summary of content provides:
+
+A. Main ideas, arguments or findings
+B. Only weaknesses
+C. Only the author's name
+D. Only publication details
+
+**Answer: A**
+
+### Q254. Critical analysis evaluates:
+
+A. Methodology, argument strength, evidence and originality
+B. Only grammar
+C. Only page numbers
+D. Only the title
+
+**Answer: A**
+
+### Q255. A review should identify:
+
+A. Gaps, limitations or biases
+B. Only strengths
+C. Only author details
+D. Only publication year
+
+**Answer: A**
+
+### Q256. Relevance and contribution consider:
+
+A. Usefulness for study or professional practice
+B. Only book length
+C. Only price
+D. Only publisher
+
+**Answer: A**
+
+### Q257. The conclusion of a review may include:
+
+A. Recommendation
+B. Database schema
+C. Listening type
+D. Presentation aid
+
+**Answer: A**
+
+### Q258. Reviewing helps develop:
+
+A. Critical thinking
+B. Only typing
+C. Only speaking
+D. Only listening
+
+**Answer: A**
+
+### Q259. Writing a review improves:
+
+A. Writing and communication skills
+B. Hardware skills
+C. Programming skills
+D. Database skills
+
+**Answer: A**
+
+### Q260. Reviews support:
+
+A. Research and learning
+B. Workplace isolation
+C. Avoidance of information
+D. Reduced knowledge
+
+**Answer: A**
+
+### Q261. Journal reviews help professionals stay updated with:
+
+A. Trends, theories and practices
+B. Computer passwords
+C. Presentation slides
+D. Office furniture
+
+**Answer: A**
+
+---
+
+# UNIT 4 — EFFECTIVE READING SKILLS
+
+## A. Reading Basics
+
+### Q262. Effective reading involves reading with:
+
+A. Purpose, comprehension and critical understanding
+B. Speed only
+C. Memory only
+D. No purpose
+
+**Answer: A**
+
+### Q263. Effective readers should distinguish:
+
+A. Facts from opinions
+B. Books from newspapers
+C. Speakers from listeners
+D. Managers from employees
+
+**Answer: A**
+
+### Q264. Effective reading helps build:
+
+A. Vocabulary and awareness
+B. Only handwriting
+C. Only speaking speed
+D. Only presentation skills
+
+**Answer: A**
+
+### Q265. Newspapers and magazines help enhance:
+
+A. General knowledge
+B. Database skills
+C. Programming skills
+D. Listening barriers
+
+**Answer: A**
+
+### Q266. Reading newspapers keeps individuals informed about:
+
+A. Current affairs and economic trends
+B. Only literature
+C. Only entertainment
+D. Only office rules
+
+**Answer: A**
+
+### Q267. Reading articles improves:
+
+A. Vocabulary and language skills
+B. Only memory
+C. Only typing
+D. Only presentation software skills
+
+**Answer: A**
+
+### Q268. Reading editorials promotes:
+
+A. Critical thinking
+B. Passive thinking
+C. Avoidance
+D. Silence
+
+**Answer: A**
+
+### Q269. Reading helps individuals:
+
+A. Form independent opinions
+B. Avoid opinions
+C. Avoid analysis
+D. Ignore arguments
+
+**Answer: A**
+
+---
+
+## B. Articles and Case Studies
+
+### Q270. Articles and case studies contribute to:
+
+A. Knowledge enhancement and critical thinking
+B. Only entertainment
+C. Only memorization
+D. Only pronunciation
+
+**Answer: A**
+
+### Q271. Case studies present:
+
+A. Practical situations
+B. Only definitions
+C. Only theories
+D. Only opinions
+
+**Answer: A**
+
+### Q272. Case studies help readers understand:
+
+A. How theoretical knowledge is applied in real scenarios
+B. Only vocabulary
+C. Only grammar
+D. Only presentation design
+
+**Answer: A**
+
+### Q273. Articles provide insights into:
+
+A. Current issues, innovations and expert opinions
+B. Only historical events
+C. Only grammar
+D. Only presentation techniques
+
+**Answer: A**
+
+### Q274. Reading case studies improves:
+
+A. Analytical thinking
+B. Only handwriting
+C. Only pronunciation
+D. Only listening
+
+**Answer: A**
+
+### Q275. Case studies encourage readers to:
+
+A. Identify problems and possible solutions
+B. Avoid problems
+C. Ignore situations
+D. Avoid decision-making
+
+**Answer: A**
+
+### Q276. Articles and case studies can improve:
+
+A. Presentation and communication skills
+B. Database design
+C. Programming
+D. Hardware maintenance
+
+**Answer: A**
+
+---
+
+## C. Reading Strategies
+
+### Q277. Skimming is:
+
+A. Quick reading to get the general idea
+B. Searching for one exact number
+C. Reading every word slowly
+D. Memorizing the text
+
+**Answer: A**
+
+### Q278. During skimming, readers focus on:
+
+A. Headings, subheadings and introductory/concluding paragraphs
+B. Every sentence equally
+C. Only footnotes
+D. Only references
+
+**Answer: A**
+
+### Q279. Scanning is used to:
+
+A. Locate specific information quickly
+B. Understand the entire text deeply
+C. Read for enjoyment
+D. Memorize every sentence
+
+**Answer: A**
+
+### Q280. Scanning searches for:
+
+A. Keywords, numbers or specific facts
+B. Only opinions
+C. Only conclusions
+D. Only titles
+
+**Answer: A**
+
+### Q281. Active reading involves:
+
+A. Asking questions, making notes and underlining key points
+B. Reading without thinking
+C. Avoiding notes
+D. Ignoring key points
+
+**Answer: A**
+
+### Q282. Previewing involves looking at:
+
+A. Headings, subheadings and summaries before reading
+B. Only the last paragraph
+C. Only references
+D. Only images
+
+**Answer: A**
+
+### Q283. Previewing helps create:
+
+A. A mental structure
+B. A presentation
+C. A podcast
+D. An ethical dilemma
+
+**Answer: A**
+
+### Q284. SQ3R stands for:
+
+A. Survey, Question, Read, Recite, Review
+B. Scan, Question, Read, Rewrite, Repeat
+C. Survey, Read, Review, Recite, Research
+D. Scan, Read, Recall, Review, Repeat
+
+**Answer: A**
+
+### Q285. SQ3R is:
+
+A. A systematic approach to improve understanding and memory
+B. A presentation format
+C. A listening model
+D. A professional value
+
+**Answer: A**
+
+### Q286. Reading aloud is especially useful for:
+
+A. Difficult content
+B. Only easy content
+C. Only newspapers
+D. Only presentations
+
+**Answer: A**
+
+### Q287. Reading aloud can enhance:
+
+A. Focus and pronunciation
+B. Database skills
+C. Presentation slides
+D. Ethical reasoning
+
+**Answer: A**
+
+### Q288. Summarizing means:
+
+A. Writing the material in condensed form in one's own words
+B. Copying everything
+C. Ignoring the material
+D. Changing the topic
+
+**Answer: A**
+
+### Q289. Paraphrasing helps ensure:
+
+A. Understanding and retention
+B. Confusion
+C. Distraction
+D. Forgetfulness
+
+**Answer: A**
+
+### Q290. Building vocabulary improves:
+
+A. Comprehension
+B. Workplace conflict
+C. Listening barriers
+D. Presentation length
+
+**Answer: A**
+
+---
+
+## D. Newspapers, Magazines and Personality Development
+
+### Q291. Regular reading of newspapers helps improve:
+
+A. General awareness
+B. Technical programming
+C. Database design
+D. Computer networking
+
+**Answer: A**
+
+### Q292. Exposure to different viewpoints and cultures broadens:
+
+A. Perspective
+B. Vocabulary only
+C. Memory only
+D. Presentation slides
+
+**Answer: A**
+
+### Q293. Regular reading develops:
+
+A. Discipline and consistency
+B. Workplace conflict
+C. Avoidance
+D. Disinterest
+
+**Answer: A**
+
+### Q294. Being informed can boost:
+
+A. Confidence
+B. Confusion
+C. Isolation
+D. Anxiety
+
+**Answer: A**
+
+### Q295. Editorials and opinion columns help improve:
+
+A. Vocabulary and sentence structures
+B. Computer skills
+C. Database skills
+D. Presentation software
+
+**Answer: A**
+
+### Q296. Reading current topics helps individuals:
+
+A. Speak effectively in discussions and interviews
+B. Avoid speaking
+C. Avoid presentations
+D. Avoid communication
+
+**Answer: A**
+
+### Q297. Structured articles promote:
+
+A. Clarity of thought
+B. Confusion
+C. Poor organization
+D. Passive communication
+
+**Answer: A**
+
+### Q298. Reading differing views helps develop:
+
+A. Arguments and counterarguments
+B. Only memorization
+C. Only pronunciation
+D. Only handwriting
+
+**Answer: A**
+
+### Q299. A student who regularly reads newspaper editorials may participate more confidently in:
+
+A. Debates and presentations
+B. Database programming
+C. Hardware repair
+D. Software installation
+
+**Answer: A**
+
+### Q300. Reading newspapers and magazines contributes to:
+
+A. Knowledge, confidence and linguistic skills
+B. Only entertainment
+C. Only vocabulary
+D. Only current affairs
+
+**Answer: A**
+
+---
+
+# UNIT 5 — PRESENTATION
+
+The presentation portion of your notes contains enough material for a separate focused revision set. Here are the key MCQs continuing from the full bank:
+
+### Q301. Audience Analysis means understanding:
+
+A. Characteristics, expectations and needs of the audience
+B. Only the speaker
+C. Only the topic
+D. Only the presentation software
+
+**Answer: A**
+
+### Q302. Audience demographics include:
+
+A. Age, gender, education, cultural background and profession
+B. Only age
+C. Only profession
+D. Only education
+
+**Answer: A**
+
+### Q303. Knowing the audience's knowledge level helps avoid:
+
+A. Oversimplification or unnecessary complexity
+B. Eye contact
+C. Rehearsal
+D. Interaction
+
+**Answer: A**
+
+### Q304. Audience interest and attitude help the speaker create:
+
+A. Engaging content
+B. More complex slides
+C. Longer presentations
+D. Less relevant content
+
+**Answer: A**
+
+### Q305. Audience expectations may include:
+
+A. Information, persuasion or entertainment
+B. Only information
+C. Only entertainment
+D. Only persuasion
+
+**Answer: A**
+
+### Q306. Audience analysis improves:
+
+A. Relevance and engagement
+B. Confusion
+C. Misunderstanding
+D. Disinterest
+
+**Answer: A**
+
+### Q307. Audience analysis helps the speaker anticipate:
+
+A. Questions
+B. Computer failures only
+C. Reading difficulties
+D. Ethical dilemmas
+
+**Answer: A**
+
+### Q308. An aided presentation uses:
+
+A. Visual or audio-visual tools
+B. No external aids
+C. Only voice
+D. Only body language
+
+**Answer: A**
+
+### Q309. Which is an example of an aid?
+
+A. PowerPoint slides
+B. Silence
+C. Eye contact
+D. Posture
+
+**Answer: A**
+
+### Q310. Charts and graphs can help:
+
+A. Visualize complex data
+B. Eliminate the speaker
+C. Reduce understanding
+D. Avoid engagement
+
+**Answer: A**
+
+### Q311. An unaided presentation uses:
+
+A. No external aids
+B. PowerPoint slides
+C. Charts
+D. Videos
+
+**Answer: A**
+
+### Q312. An unaided presentation depends heavily on:
+
+A. Communication skills, voice modulation and body language
+B. Slides only
+C. Videos only
+D. Handouts only
+
+**Answer: A**
+
+### Q313. Unaided presentations are suitable for:
+
+A. Storytelling and motivational talks
+B. Only statistical data
+C. Only technical charts
+D. Only research papers
+
+**Answer: A**
+
+### Q314. An individual presentation is delivered by:
+
+A. A single speaker
+B. Two speakers
+C. A committee
+D. An audience
+
+**Answer: A**
+
+### Q315. In an individual presentation, responsibility for research and delivery lies with:
+
+A. One person
+B. The audience
+C. A group
+D. The manager
+
+**Answer: A**
+
+### Q316. A group presentation is delivered by:
+
+A. Two or more speakers
+B. Only one speaker
+C. The audience
+D. No speaker
+
+**Answer: A**
+
+### Q317. Group presentations require:
+
+A. Coordination and division of work
+B. Individual isolation
+C. No rehearsal
+D. No role distribution
+
+**Answer: A**
+
+### Q318. Individual presentations commonly occur in:
+
+A. Classroom settings, interviews and solo business pitches
+B. Only conferences
+C. Only meetings
+D. Only negotiations
+
+**Answer: A**
+
+### Q319. Group presentations require:
+
+A. Uniformity in delivery
+B. Different unrelated styles
+C. No coordination
+D. No practice
+
+**Answer: A**
+
+### Q320. An effective individual presentation begins with:
+
+A. Planning and research
+B. Conclusion
+C. Questions
+D. Entertainment
+
+**Answer: A**
+
+### Q321. Effective presentation content should include:
+
+A. Introduction, body and conclusion
+B. Only introduction
+C. Only conclusion
+D. Only examples
+
+**Answer: A**
+
+### Q322. Good presentation delivery includes:
+
+A. Eye contact and clear voice
+B. Reading everything from notes
+C. Avoiding the audience
+D. Speaking without structure
+
+**Answer: A**
+
+### Q323. Group presentation members should have:
+
+A. Clearly distributed roles
+B. No assigned parts
+C. Identical responsibilities only
+D. No coordination
+
+**Answer: A**
+
+### Q324. Consistency in group delivery includes:
+
+A. Tone, style and pace
+B. Only clothing
+C. Only slides
+D. Only content
+
+**Answer: A**
+
+### Q325. Group members should support one another during:
+
+A. Q&A and technical/audience interactions
+B. Only preparation
+C. Only research
+D. Only conclusion
+
+**Answer: A**
+
+### Q326. Rehearsal helps:
+
+A. Improve timing and eliminate overlaps
+B. Increase nervousness
+C. Create confusion
+D. Avoid teamwork
+
+**Answer: A**
+
+---
+
+# TIPS PRESENTATION METHOD
+
+### Q327. TIPS stands for:
+
+A. Target, Information, Process, Style
+B. Topic, Ideas, Presentation, Speech
+C. Target, Ideas, Planning, Speaking
+D. Topic, Information, Process, Speech
+
+**Answer: A**
+
+### Q328. The first component of TIPS is:
+
+A. Target
+B. Information
+C. Process
+D. Style
+
+**Answer: A**
+
+### Q329. Target means:
+
+A. Know your audience
+B. Design slides
+C. Practice delivery
+D. Choose fonts
+
+**Answer: A**
+
+### Q330. Target audience analysis includes:
+
+A. Age, profession, background and knowledge level
+B. Only age
+C. Only profession
+D. Only gender
+
+**Answer: A**
+
+### Q331. Audience expectations may determine whether the presentation should:
+
+A. Inform, persuade or entertain
+B. Only inform
+C. Only persuade
+D. Only entertain
+
+**Answer: A**
+
+### Q332. Information in TIPS refers to:
+
+A. Organizing content properly
+B. Choosing clothing
+C. Eye contact
+D. Rehearsing
+
+**Answer: A**
+
+### Q333. Presentation information should be:
+
+A. Well-researched, accurate and logically structured
+B. Random
+C. Unverified
+D. Excessively complicated
+
+**Answer: A**
+
+### Q334. A presentation should begin with:
+
+A. A strong introduction
+B. A random example
+C. The final answer
+D. Questions only
+
+**Answer: A**
+
+### Q335. The conclusion should:
+
+A. Summarize key points and provide takeaways
+B. Introduce a new unrelated topic
+C. Ignore the main points
+D. Remove the purpose
+
+**Answer: A**
+
+### Q336. Slides should avoid:
+
+A. Being overloaded with text
+B. Bullet points
+C. Charts
+D. Visuals
+
+**Answer: A**
+
+### Q337. Process in TIPS refers to:
+
+A. Planning and practising delivery
+B. Audience demographics
+C. Slide colours only
+D. Topic selection only
+
+**Answer: A**
+
+### Q338. Rehearsal helps manage:
+
+A. Time, flow and transitions
+B. Audience demographics
+C. Ethical dilemmas
+D. Reading speed
+
+**Answer: A**
+
+### Q339. One recommended rehearsal method is:
+
+A. Practice in front of a mirror or peer
+B. Avoid practising
+C. Read silently only
+D. Change the topic repeatedly
+
+**Answer: A**
+
+### Q340. Recording yourself helps observe:
+
+A. Voice modulation and body language
+B. Audience demographics
+C. Publication details
+D. Listening barriers
+
+**Answer: A**
+
+### Q341. Style in TIPS refers to:
+
+A. Personal way of presenting content
+B. Research methodology
+C. Audience demographics
+D. Information accuracy
+
+**Answer: A**
+
+### Q342. Style includes:
+
+A. Voice, body language and interaction
+B. Only clothing
+C. Only slides
+D. Only vocabulary
+
+**Answer: A**
+
+### Q343. Varying tone and pace helps:
+
+A. Maintain interest
+B. Reduce engagement
+C. Increase monotony
+D. Avoid interaction
+
+**Answer: A**
+
+### Q344. Interaction may involve:
+
+A. Questions, anecdotes or appropriate humour
+B. Ignoring the audience
+C. Avoiding questions
+D. Reading continuously
+
+**Answer: A**
+
+### Q345. Style can also include:
+
+A. Consistent slide design
+B. Database design
+C. Listening barriers
+D. Book reviews
+
+**Answer: A**
+
+### Q346. Appropriate dressing is part of:
+
+A. Style
+B. Information
+C. Target
+D. Process
+
+**Answer: A**
+
+### Q347. TIPS helps a speaker:
+
+A. Communicate effectively and leave a memorable impact
+B. Avoid preparation
+C. Avoid the audience
+D. Eliminate presentation structure
+
+**Answer: A**
+
+---
+
+# 🔥 HIGH-PRIORITY REVISION MCQs
+
+### Q348. Which skill combines attention, understanding, response and memory?
+
+A. Active listening
+B. Hearing
+C. Skimming
+D. Scanning
+
+**Answer: A**
+
+### Q349. Which listening type evaluates evidence and arguments?
+
+A. Critical
+B. Appreciative
+C. Discriminative
+D. Empathic
+
+**Answer: A**
+
+### Q350. Which listening type focuses on supporting feelings?
+
+A. Empathic
+B. Critical
+C. Comprehensive
+D. Discriminative
+
+**Answer: A**
+
+### Q351. Which reading technique searches for specific facts?
+
+A. Scanning
+B. Skimming
+C. Previewing
+D. Reading aloud
+
+**Answer: A**
+
+### Q352. Which reading technique provides a general overview?
+
+A. Skimming
+B. Scanning
+C. SQ3R
+D. Summarizing
+
+**Answer: A**
+
+### Q353. Which framework is used for systematic reading?
+
+A. SQ3R
+B. SOLER
+C. TIPS
+D. PoV
+
+**Answer: A**
+
+### Q354. Which framework is associated with active listening?
+
+A. SOLER
+B. SQ3R
+C. TIPS
+D. PoV
+
+**Answer: A**
+
+### Q355. Which framework is associated with presentation preparation?
+
+A. TIPS
+B. SOLER
+C. SQ3R
+D. ToM
+
+**Answer: A**
+
+### Q356. Which concept concerns different perspectives in listening?
+
+A. Points of View
+B. SQ3R
+C. TIPS
+D. Proxemics
+
+**Answer: A**
+
+### Q357. Which concept concerns understanding others' mental states?
+
+A. Theory of Mind
+B. TIPS
+C. SOLER
+D. Skimming
+
+**Answer: A**
+
+### Q358. Which communication type uses gestures and facial expressions?
+
+A. Non-verbal communication
+B. Verbal communication
+C. Written communication
+D. Book review
+
+**Answer: A**
+
+### Q359. Which professional value means taking responsibility?
+
+A. Accountability
+B. Integrity
+C. Fairness
+D. Confidentiality
+
+**Answer: A**
+
+### Q360. Which professional value means protecting sensitive information?
+
+A. Confidentiality
+B. Commitment
+C. Respect
+D. Fairness
+
+**Answer: A**
+
+---
+
+# 📌 Ultra-Important One-Line Revision
+
+| Topic                    | Must remember                                        |
+| ------------------------ | ---------------------------------------------------- |
+| Social Communication     | Verbal + non-verbal interaction                      |
+| Rapport                  | Mutual understanding, trust and emotional connection |
+| Social Interaction       | Communication between at least two individuals       |
+| Social Cognition         | Understanding mental actions of self and others      |
+| Theory of Mind           | Understanding others' mental states                  |
+| Verbal Communication     | Spoken/written words                                 |
+| Non-verbal Communication | Messages without words                               |
+| Hearing                  | Physical and involuntary                             |
+| Listening                | Conscious mental process                             |
+| Discriminative           | Sounds, words, tone, accents                         |
+| Comprehensive            | Message and facts                                    |
+| Critical                 | Arguments and evidence                               |
+| Appreciative             | Enjoyment                                            |
+| Empathic                 | Feelings and support                                 |
+| Listening to Observe     | How something is said                                |
+| Listening to Understand  | Meaning and intention                                |
+| PoV                      | Perspective from which information is interpreted    |
+| Active Listening         | Concentrate + understand + respond + remember        |
+| SOLER                    | Squarely, Open, Lean, Eye contact, Relax             |
+| TED                      | Technology, Entertainment, Design                    |
+| Podcast                  | Episodic digital audio programme                     |
+| Integrity                | Honesty and moral principles                         |
+| Accountability           | Responsibility for actions                           |
+| Respect                  | Treating others with dignity                         |
+| Commitment               | Dedication to goals/duties                           |
+| Fairness                 | Just and impartial                                   |
+| Confidentiality          | Protecting sensitive information                     |
+| Ethical Dilemma          | Conflicting moral choices                            |
+| Ethics                   | Moral principles governing behaviour                 |
+| Values                   | Core beliefs/standards                               |
+| Book/Journal Review      | Critical evaluation and analysis                     |
+| Effective Reading        | Purpose + comprehension + critical understanding     |
+| Skimming                 | General idea                                         |
+| Scanning                 | Specific information                                 |
+| Active Reading           | Questions + notes + key points                       |
+| SQ3R                     | Survey, Question, Read, Recite, Review               |
+| Audience Analysis        | Understand audience characteristics/needs            |
+| Aided Presentation       | Uses external visual/audio-visual aids               |
+| Unaided Presentation     | No external aids                                     |
+| Individual Presentation  | One speaker                                          |
+| Group Presentation       | Two or more speakers                                 |
+| TIPS                     | Target, Information, Process, Style                  |
+
+**Source boundary:** This question bank is based exclusively on the uploaded **Workplace Communication** notes; I have intentionally not expanded it with external communication theory or additional syllabus material. 

@@ -1,0 +1,4767 @@
+﻿# 🐍 Python Programming — Maximum-coverage MCQ Bank
+
+This time I’m using the **newly uploaded `pythonmaterial.pdf` as the only source**. The PDF contains **Unit 1: Introduction to Python, Unit 2: Control Structures and Functions, and Unit 3: Data Structures**. I’m not adding external Python topics beyond what the material covers. 
+
+Below is a **500-MCQ bank** designed for exam preparation. I’ve deliberately included direct facts, distinctions, syntax concepts, output-based questions, examples, and small traps.
+
+---
+
+# UNIT 1 — INTRODUCTION TO PYTHON
+
+## 1. History & Features
+
+### Q1. Who created Python?
+
+A. James Gosling
+B. Guido van Rossum
+C. Dennis Ritchie
+D. Bjarne Stroustrup
+
+**Ans: B**
+
+### Q2. Python was created in:
+
+A. USA
+B. Germany
+C. Netherlands
+D. UK
+
+**Ans: C**
+
+### Q3. Python was first released in:
+
+A. 1989
+B. 1991
+C. 1994
+D. 2000
+
+**Ans: B**
+
+### Q4. Guido van Rossum began developing Python in:
+
+A. Early 1970s
+B. Late 1980s
+C. Late 1990s
+D. Early 2000s
+
+**Ans: B**
+
+### Q5. Python was developed as a successor to:
+
+A. C
+B. Java
+C. ABC
+D. BASIC
+
+**Ans: C**
+
+### Q6. The name Python was inspired by:
+
+A. A snake
+B. Monty Python's Flying Circus
+C. A Greek god
+D. A programming acronym
+
+**Ans: B**
+
+### Q7. Python 1.0 was released in:
+
+A. 1991
+B. 1994
+C. 2000
+D. 2008
+
+**Ans: B**
+
+### Q8. Python 2.0 was released in:
+
+A. 1994
+B. 1998
+C. 2000
+D. 2008
+
+**Ans: C**
+
+### Q9. Python 3.0 was released in:
+
+A. 2000
+B. 2005
+C. 2008
+D. 2010
+
+**Ans: C**
+
+### Q10. Official support for Python 2 ended in:
+
+A. 2015
+B. 2018
+C. 2020
+D. 2022
+
+**Ans: C**
+
+### Q11. The modern version used in the course is:
+
+A. Python 1
+B. Python 2
+C. Python 3
+D. Python Classic
+
+**Ans: C**
+
+### Q12. Guido van Rossum was known as:
+
+A. Chief Programmer
+B. BDFL
+C. Python Master
+D. Chief Architect
+
+**Ans: B**
+
+### Q13. BDFL stands for:
+
+A. Best Developer For Languages
+B. Benevolent Dictator For Life
+C. Basic Developer For Linux
+D. Benevolent Designer For Languages
+
+**Ans: B**
+
+### Q14. Python syntax is described as:
+
+A. Complicated
+B. Close to English
+C. Machine-oriented
+D. Assembly-like
+
+**Ans: B**
+
+### Q15. Python is:
+
+A. Interpreted
+B. Only compiled
+C. Assembly-based
+D. Hardware-specific
+
+**Ans: A**
+
+### Q16. An interpreted program is executed:
+
+A. Line by line by the interpreter
+B. Only after manual compilation
+C. Only after conversion to Java
+D. By the operating system directly
+
+**Ans: A**
+
+### Q17. Python is a:
+
+A. Low-level language
+B. High-level language
+C. Machine language
+D. Assembly language
+
+**Ans: B**
+
+### Q18. Python automatically handles many:
+
+A. Low-level details
+B. Hardware repairs
+C. Network cables
+D. Database servers
+
+**Ans: A**
+
+### Q19. Python is dynamically typed because:
+
+A. Variable types need not be declared in advance
+B. Every variable must be declared
+C. Types are fixed permanently
+D. Python has no data types
+
+**Ans: A**
+
+### Q20. Python is platform independent, meaning:
+
+A. It can run on Windows, macOS and Linux
+B. It runs only on Linux
+C. It runs only on Windows
+D. It requires one specific processor
+
+**Ans: A**
+
+### Q21. Python is:
+
+A. Proprietary and paid
+B. Free and open source
+C. Free but closed source
+D. Paid and open source
+
+**Ans: B**
+
+### Q22. Python's standard library provides:
+
+A. Ready-made modules
+B. Only syntax rules
+C. Hardware drivers exclusively
+D. Only games
+
+**Ans: A**
+
+### Q23. Python supports:
+
+A. Only procedural programming
+B. Only object-oriented programming
+C. Procedural, object-oriented and functional styles
+D. Only functional programming
+
+**Ans: C**
+
+### Q24. Python has:
+
+A. Very limited community support
+B. A large worldwide community
+C. No third-party libraries
+D. No tutorials
+
+**Ans: B**
+### Q25. Which is NOT listed as a Python feature?
+
+A. Portable
+B. Dynamically typed
+C. Free and open source
+D. Hardware dependent
+
+**Ans: D**
+
+---
+
+## 2. Applications of Python
+
+### Q26. Python is used for:
+
+A. Web development
+B. Data science
+C. Artificial intelligence
+D. All of these
+
+**Ans: D**
+
+### Q27. Django is associated with:
+
+A. Web development
+B. Hardware design
+C. Word processing
+D. Operating systems
+
+**Ans: A**
+
+### Q28. Flask is associated with:
+
+A. Web development
+B. Database hardware
+C. Computer networking hardware
+D. Image editing only
+
+**Ans: A**
+
+### Q29. NumPy is mentioned in connection with:
+
+A. Data science and machine learning
+B. Web browsers
+C. Word processing
+D. Operating systems
+
+**Ans: A**
+
+### Q30. pandas is used in the material under:
+
+A. Data science and machine learning
+B. Game consoles
+C. Operating systems
+D. Text editors
+
+**Ans: A**
+
+### Q31. TensorFlow is listed under:
+
+A. Data science and machine learning
+B. File compression
+C. Web browsers
+D. IDE development
+
+**Ans: A**
+
+### Q32. Python can be used for:
+
+A. Automation and scripting
+B. Desktop applications
+C. Game applications
+D. All of these
+
+**Ans: D**
+
+### Q33. Scientific and numeric computing is an application of:
+
+A. Python
+B. HTML only
+C. CSS only
+D. SQL only
+
+**Ans: A**
+
+### Q34. Python can be used for:
+
+A. IoT projects
+B. Only websites
+C. Only spreadsheets
+D. Only games
+
+**Ans: A**
+
+---
+
+# 3. Installation and Setup
+
+### Q35. Python should be downloaded from:
+
+A. python.org
+B. java.org
+C. microsoft.net
+D. github.edu
+
+**Ans: A**
+
+### Q36. The Downloads section is used to:
+
+A. Download Python
+B. Create databases
+C. Write HTML
+D. Install Windows
+
+**Ans: A**
+
+### Q37. The recommended version in the material is:
+
+A. Latest stable Python 3
+B. Python 1
+C. Python 2
+D. Any unsupported version
+
+**Ans: A**
+
+### Q38. Python installers are available for:
+
+A. Windows
+B. macOS
+C. Linux
+D. All of these
+
+**Ans: D**
+
+### Q39. On Windows, which option should be selected during installation?
+
+A. Add Python to PATH
+B. Remove Python from PATH
+C. Disable Python
+D. Add Java to PATH
+
+**Ans: A**
+
+### Q40. Adding Python to PATH allows:
+
+A. Running Python from a terminal
+B. Creating hardware
+C. Changing the Python language
+D. Installing Windows
+
+**Ans: A**
+
+### Q41. Forgetting to add Python to PATH may cause:
+
+A. `python` not being recognised in the terminal
+B. Python becoming Java
+C. The computer shutting down
+D. Files becoming read-only
+
+**Ans: A**
+
+### Q42. Python installation can be verified with:
+
+A. `python --version`
+B. `python check`
+C. `version python`
+D. `check --python`
+
+**Ans: A**
+
+### Q43. The command `python --version` displays:
+
+A. Installed Python version
+B. Current username
+C. Operating system password
+D. CPU temperature
+
+**Ans: A**
+
+### Q44. pip is:
+
+A. Python's package installer
+B. Python's interpreter
+C. Python's editor
+D. Python's debugger only
+
+**Ans: A**
+
+### Q45. The material says pip is:
+
+A. Included automatically
+B. Never installed with Python
+C. Only available on Linux
+D. A replacement for Python
+
+**Ans: A**
+
+### Q46. Which is a Python code editor mentioned in the notes?
+
+A. VS Code
+B. PyCharm
+C. Jupyter Notebook
+D. All of these
+
+**Ans: D**
+
+### Q47. Which editor is described as designed for beginners?
+
+A. Thonny
+B. PyCharm
+C. VS Code
+D. Jupyter Notebook
+
+**Ans: A**
+
+### Q48. Python installs with a simple built-in editor called:
+
+A. IDLE
+B. IDEA
+C. IDEO
+D. IdleX
+
+**Ans: A**
+
+### Q49. Which command installs NumPy?
+
+A. `pip install numpy`
+B. `install pip numpy`
+C. `python numpy install`
+D. `numpy pip`
+
+**Ans: A**
+
+### Q50. Community-created extra libraries can be installed using:
+
+A. pip
+B. print()
+C. input()
+D. type()
+
+**Ans: A**
+
+---
+
+# 4. Interpreter and Interactive Mode
+
+### Q51. The Python interpreter:
+
+A. Reads and executes Python code
+B. Only edits code
+C. Only stores variables
+D. Only installs packages
+
+**Ans: A**
+
+### Q52. Python's interpreter executes code:
+
+A. One statement at a time
+B. Only after a complete executable is built
+C. Only after conversion to C
+D. Only after conversion to Java
+
+**Ans: A**
+
+### Q53. Python does not require:
+
+A. A separate compilation step before execution
+B. An interpreter
+C. Python code
+D. A computer
+
+**Ans: A**
+
+### Q54. Interactive mode is also called:
+
+A. REPL
+B. IDE
+C. PATH
+D. API
+
+**Ans: A**
+
+### Q55. REPL stands for:
+
+A. Read-Evaluate-Print Loop
+B. Read-Execute-Python-Language
+C. Run-Evaluate-Program-List
+D. Read-Edit-Print-Language
+
+**Ans: A**
+
+### Q56. The interactive Python prompt is:
+
+A. `>>>`
+B. `###`
+C. `$$$`
+D. `>>>` only in script mode
+
+**Ans: A**
+
+### Q57. Interactive mode is useful for:
+
+A. Quickly testing small pieces of code
+B. Only writing huge applications
+C. Installing operating systems
+D. Compiling Java
+
+**Ans: A**
+
+### Q58. In interactive mode, an expression's value is:
+
+A. Automatically displayed
+B. Never displayed
+C. Saved to a `.py` file automatically
+D. Printed only after closing Python
+
+**Ans: A**
+
+### Q59. Which expression produces `15`?
+
+A. `10 + 5`
+B. `10 - 5`
+C. `10 / 5`
+D. `10 * 5`
+
+**Ans: A**
+
+### Q60. In interactive mode, `7/2` produces:
+
+A. 3
+B. 3.5
+C. 4
+D. 2
+
+**Ans: B**
+
+### Q61. `type(3.14)` identifies the value as:
+
+A. float
+B. int
+C. str
+D. bool
+
+**Ans: A**
+
+### Q62. `len("hello")` returns:
+
+A. 4
+B. 5
+C. 6
+D. 0
+
+**Ans: B**
+
+### Q63. `exit()` in interactive mode:
+
+A. Leaves interactive mode
+B. Deletes Python
+C. Installs a package
+D. Creates a script
+
+**Ans: A**
+
+### Q64. In a saved Python script, an expression's value:
+
+A. Is not automatically displayed
+B. Is always automatically displayed
+C. Is automatically printed twice
+D. Is converted to a string
+
+**Ans: A**
+
+### Q65. In a script, `print()` is needed to:
+
+A. Display a value
+B. Define a variable
+C. Install a package
+D. Start the interpreter
+
+**Ans: A**
+
+---
+
+# 5. Script Mode
+
+### Q66. Script mode means:
+
+A. Code is written in a file and executed
+B. Code is entered one expression at a time only
+C. Python is uninstalled
+D. Only mathematical calculations are performed
+
+**Ans: A**
+
+### Q67. Python source files normally use:
+
+A. `.py`
+B. `.java`
+C. `.cpp`
+D. `.html`
+
+**Ans: A**
+
+### Q68. A sample script filename is:
+
+A. `hello.py`
+B. `hello.java`
+C. `hello.exe`
+D. `hello.txt`
+
+**Ans: A**
+
+### Q69. The three basic steps for a Python script are:
+
+A. Write, save, run
+B. Compile, link, debug
+C. Download, print, delete
+D. Type, uninstall, run
+
+**Ans: A**
+
+### Q70. A script can be run from the terminal using:
+
+A. `python hello.py`
+B. `run hello`
+C. `execute.py hello`
+D. `start pythonfile`
+
+**Ans: A**
+
+### Q71. The traditional first Python program in the material prints:
+
+A. Hello, World!
+B. Welcome Python
+C. Hello BCA
+D. Python Started
+
+**Ans: A**
+
+### Q72. The `.py` extension tells the system that:
+
+A. The file contains Python code
+B. The file is an image
+C. The file is a database
+D. The file is a Java program
+
+**Ans: A**
+
+### Q73. A Python script can also be run from:
+
+A. IDLE or VS Code
+B. Only Command Prompt
+C. Only Jupyter
+D. Only PyCharm
+
+**Ans: A**
+
+---
+
+# 6. Variables
+
+### Q74. A variable is:
+
+A. A name referring to a value
+B. A physical memory chip
+C. A Python keyword
+D. A function only
+
+**Ans: A**
+
+### Q75. Variables are created using:
+
+A. `=`
+B. `==`
+C. `=>`
+D. `:=`
+
+**Ans: A**
+
+### Q76. Python requires variable types to be:
+
+A. Declared in advance
+B. Automatically determined from the assigned value
+C. Written after every variable
+D. Stored in comments
+
+**Ans: B**
+
+### Q77. Which creates a string variable?
+
+A. `name = "Ravi"`
+B. `name == "Ravi"`
+C. `string name`
+D. `str name()`
+
+**Ans: A**
+
+### Q78. Which creates an integer variable?
+
+A. `age = 21`
+B. `age = "21"`
+C. `int age`
+D. `age == 21`
+
+**Ans: A**
+
+### Q79. Which creates a float variable?
+
+A. `percentage = 78.5`
+B. `percentage = 78`
+C. `float percentage`
+D. `percentage == 78.5`
+
+**Ans: A**
+
+### Q80. A variable can be:
+
+A. Reassigned
+B. Never changed
+C. Assigned only once
+D. Used only with integers
+
+**Ans: A**
+
+### Q81. A variable may later refer to:
+
+A. A value of a different type
+B. Only its original type
+C. Only a string
+D. Only an integer
+
+**Ans: A**
+
+### Q82. In `age = 21; age = 22`, the final value of `age` is:
+
+A. 21
+B. 22
+C. 43
+D. Error
+
+**Ans: B**
+
+### Q83. Multiple assignment allows:
+
+A. Several variables to be assigned in one line
+B. Only one variable per program
+C. Only strings to be assigned
+D. No assignment
+
+**Ans: A**
+
+### Q84. Which is valid multiple assignment?
+
+A. `x, y, z = 10, 20, 30`
+B. `x y z = 10`
+C. `x,y,z == 10,20,30`
+D. `multiple x = 10`
+
+**Ans: A**
+
+### Q85. Which assigns the same value to multiple variables?
+
+A. `a = b = c = 100`
+B. `a,b,c = 100`
+C. `a == b == c = 100`
+D. `same(a,b,c)=100`
+
+**Ans: A**
+
+### Q86. In `a=b=c=100`, the value of `b` is:
+
+A. 0
+B. 100
+C. 200
+D. Undefined
+
+**Ans: B**
+
+---
+
+# 7. Variable Naming Rules
+
+### Q87. A variable name may contain:
+
+A. Letters, digits and underscore
+B. Spaces only
+C. `@` and `#`
+D. Only digits
+
+**Ans: A**
+
+### Q88. A variable name cannot begin with:
+
+A. A digit
+B. A letter
+C. An underscore
+D. A lowercase letter
+
+**Ans: A**
+
+### Q89. Which is valid?
+
+A. `student_name`
+B. `student-name`
+C. `student name`
+D. `2student`
+
+**Ans: A**
+
+### Q90. Which is invalid because it begins with a digit?
+
+A. `2student`
+B. `student2`
+C. `_student`
+D. `student_name`
+
+**Ans: A**
+
+### Q91. Which character can appear in a Python variable name?
+
+A. `_`
+B. `@`
+C. `#`
+D. `-`
+
+**Ans: A**
+
+### Q92. Spaces in variable names are:
+
+A. Not allowed
+B. Required
+C. Recommended
+D. Ignored
+
+**Ans: A**
+
+### Q93. Python variable names are:
+
+A. Case-sensitive
+B. Case-insensitive
+C. Always uppercase
+D. Always lowercase
+
+**Ans: A**
+
+### Q94. `age`, `Age` and `AGE` are:
+
+A. Three different variables
+B. The same variable
+C. Invalid variables
+D. Keywords
+
+**Ans: A**
+
+### Q95. Which is a Python keyword and cannot be used as a variable name?
+
+A. `if`
+B. `student`
+C. `marks`
+D. `total`
+
+**Ans: A**
+
+### Q96. Which is also a reserved word mentioned in the material?
+
+A. `class`
+B. `student`
+C. `value`
+D. `number`
+
+**Ans: A**
+
+### Q97. `True` should not be used as:
+
+A. A variable name
+B. A Boolean value
+C. A logical value
+D. A comparison result
+
+**Ans: A**
+
+### Q98. The recommended Python naming convention is:
+
+A. snake_case
+B. CamelCase only
+C. ALLCAPS only
+D. hyphen-case
+
+**Ans: A**
+
+### Q99. `student_name` is an example of:
+
+A. snake_case
+B. PascalCase
+C. kebab-case
+D. UPPERCASE
+
+**Ans: A**
+
+### Q100. Descriptive variable names improve:
+
+A. Readability
+B. Processor speed automatically
+C. Internet speed
+D. File size only
+
+**Ans: A**
+
+---
+
+# 8. Data Types
+
+### Q101. The four fundamental data types in the material are:
+
+A. int, float, str, bool
+B. list, tuple, set, dict
+C. char, double, long, short
+D. byte, array, object, pointer
+
+**Ans: A**
+
+### Q102. `int` represents:
+
+A. Whole numbers
+B. Decimal numbers only
+C. Text
+D. Boolean values
+
+**Ans: A**
+
+### Q103. `float` represents:
+
+A. Floating-point numbers
+B. Text
+C. Only whole numbers
+D. Logical values
+
+**Ans: A**
+
+### Q104. `str` represents:
+
+A. Text
+B. Whole numbers
+C. Decimal numbers
+D. Boolean values
+
+**Ans: A**
+
+### Q105. `bool` represents:
+
+A. True or False
+B. Any number
+C. Text
+D. Decimal numbers only
+
+**Ans: A**
+
+### Q106. Which is an integer?
+
+A. `-5`
+B. `3.14`
+C. `"5"`
+D. `True`
+
+**Ans: A**
+
+### Q107. Which is a float?
+
+A. `3.14`
+B. `3`
+C. `"3.14"`
+D. `False`
+
+**Ans: A**
+
+### Q108. Which is a string?
+
+A. `"Hello"`
+B. `Hello`
+C. `True`
+D. `10`
+
+**Ans: A**
+
+### Q109. Which is Boolean?
+
+A. `True`
+B. `"True"`
+C. `1.0`
+D. `"1"`
+
+**Ans: A**
+
+### Q110. Strings may be enclosed in:
+
+A. Single or double quotes
+B. Only brackets
+C. Only parentheses
+D. Only curly braces
+
+**Ans: A**
+
+### Q111. Normal division `/` produces:
+
+A. A float
+B. Always an int
+C. Always a string
+D. A Boolean
+
+**Ans: A**
+
+### Q112. `15 / 4` produces:
+
+A. `3.75`
+B. `3`
+C. `4`
+D. `11`
+
+**Ans: A**
+
+### Q113. Integer division uses:
+
+A. `//`
+B. `/`
+C. `%`
+D. `**`
+
+**Ans: A**
+
+### Q114. Remainder uses:
+
+A. `%`
+B. `/`
+C. `//`
+D. `**`
+
+**Ans: A**
+
+### Q115. Power uses:
+
+A. `**`
+B. `^^`
+C. `powpow`
+D. `//`
+
+**Ans: A**
+
+### Q116. `15 // 4` equals:
+
+A. 3
+B. 3.75
+C. 4
+D. 15
+
+**Ans: A**
+
+### Q117. `15 % 4` equals:
+
+A. 3
+B. 4
+C. 3.75
+D. 1
+
+**Ans: A**
+
+### Q118. `15 ** 2` equals:
+
+A. 225
+B. 30
+C. 17
+D. 7.5
+
+**Ans: A**
+
+---
+
+# 9. Strings and Booleans
+
+### Q119. String concatenation uses:
+
+A. `+`
+B. `-`
+C. `%`
+D. `//`
+
+**Ans: A**
+
+### Q120. `"Hello" + "BCA"` produces:
+
+A. `HelloBCA`
+B. `Hello BCA` automatically
+C. `Hello+BCA`
+D. Error
+
+**Ans: A**
+
+### Q121. String repetition uses:
+
+A. `*`
+B. `+`
+C. `%`
+D. `/`
+
+**Ans: A**
+
+### Q122. `"Hi" * 3` gives:
+
+A. `HiHiHi`
+B. `Hi3`
+C. `3Hi`
+D. Error
+
+**Ans: A**
+
+### Q123. Boolean values are written:
+
+A. `True` and `False`
+B. `true` and `false`
+C. `TRUE` and `FALSE` only
+D. `T` and `F`
+
+**Ans: A**
+
+### Q124. Python's Boolean `True` internally behaves like:
+
+A. 1
+B. 0
+C. -1
+D. 2
+
+**Ans: A**
+
+### Q125. Python's Boolean `False` internally behaves like:
+
+A. 0
+B. 1
+C. -1
+D. 2
+
+**Ans: A**
+
+### Q126. `True + True` gives:
+
+A. 2
+B. 1
+C. True
+D. Error
+
+**Ans: A**
+
+### Q127. `type()` is used to:
+
+A. Check a value's data type
+B. Convert a value
+C. Print a value only
+D. Accept input
+
+**Ans: A**
+
+### Q128. `type(95)` gives:
+
+A. int
+B. float
+C. str
+D. bool
+
+**Ans: A**
+
+### Q129. `type(49.99)` gives:
+
+A. float
+B. int
+C. str
+D. bool
+
+**Ans: A**
+
+### Q130. `type("Python")` gives:
+
+A. str
+B. int
+C. bool
+D. float
+
+**Ans: A**
+
+### Q131. `type(True)` gives:
+
+A. bool
+B. int
+C. str
+D. float
+
+**Ans: A**
+
+---
+
+# 10. Type Conversion
+
+### Q132. Type conversion is also called:
+
+A. Type casting
+B. Type looping
+C. Type indexing
+D. Type compiling
+
+**Ans: A**
+
+### Q133. `int()` converts a value to:
+
+A. Integer
+B. Float
+C. String
+D. Boolean only
+
+**Ans: A**
+
+### Q134. `float()` converts a value to:
+
+A. Floating-point number
+B. Integer
+C. String
+D. List
+
+**Ans: A**
+
+### Q135. `str()` converts a value to:
+
+A. String
+B. Integer
+C. Float
+D. Boolean
+
+**Ans: A**
+
+### Q136. `bool()` converts a value to:
+
+A. Boolean
+B. Integer
+C. String
+D. Float
+
+**Ans: A**
+
+### Q137. Implicit conversion occurs:
+
+A. Automatically
+B. Only when `int()` is called
+C. Only when `str()` is called
+D. Never
+
+**Ans: A**
+
+### Q138. Adding an int and float results in:
+
+A. Float
+B. String
+C. Boolean
+D. List
+
+**Ans: A**
+
+### Q139. `int(9.8)` gives:
+
+A. 9
+B. 10
+C. 9.8
+D. Error
+
+**Ans: A**
+
+### Q140. `int()` on a float:
+
+A. Removes the decimal part
+B. Rounds to nearest integer
+C. Always produces zero
+D. Produces a string
+
+**Ans: A**
+
+### Q141. `float(10)` gives:
+
+A. `10.0`
+B. `10` as int
+C. `"10"`
+D. True
+
+**Ans: A**
+
+### Q142. `str(10)` produces:
+
+A. `"10"`
+B. `10.0`
+C. True
+D. Error
+
+**Ans: A**
+
+### Q143. `bool(0)` gives:
+
+A. False
+B. True
+C. 0
+D. Error
+
+**Ans: A**
+
+### Q144. `bool("")` gives:
+
+A. False
+B. True
+C. Empty integer
+D. Error
+
+**Ans: A**
+
+### Q145. `bool(8)` gives:
+
+A. True
+B. False
+C. 8
+D. Error
+
+**Ans: A**
+
+### Q146. `bool("Python")` gives:
+
+A. True
+B. False
+C. Python
+D. Error
+
+**Ans: A**
+
+### Q147. `bool(" ")` is:
+
+A. True
+B. False
+C. 0
+D. Error
+
+**Ans: A**
+
+### Q148. Which causes `ValueError`?
+
+A. `int("abc")`
+B. `int("123")`
+C. `float("3.14")`
+D. `str(100)`
+
+**Ans: A**
+
+### Q149. `"123"` can be converted using:
+
+A. `int()`
+B. `bool()` only
+C. `type()`
+D. `len()`
+
+**Ans: A**
+
+### Q150. `int("123") + 7` gives:
+
+A. 130
+B. `"1237"`
+C. 123
+D. Error
+
+**Ans: A**
+
+### Q151. `float("3.14") * 2` gives:
+
+A. 6.28
+B. 3.142
+C. 5.14
+D. Error
+
+**Ans: A**
+
+---
+
+# 11. Input and Output
+
+### Q152. Which function displays output?
+
+A. `print()`
+B. `input()`
+C. `type()`
+D. `read()`
+
+**Ans: A**
+
+### Q153. Which function accepts user input?
+
+A. `input()`
+B. `print()`
+C. `readline()`
+D. `scan()`
+
+**Ans: A**
+
+### Q154. `print()` can display:
+
+A. Multiple items
+B. Only one item
+C. Only strings
+D. Only integers
+
+**Ans: A**
+
+### Q155. Multiple arguments to `print()` are separated by:
+
+A. Spaces by default
+B. Commas in output
+C. Hyphens
+D. Nothing
+
+**Ans: A**
+
+### Q156. Which parameter customises the separator?
+
+A. `sep`
+B. `end`
+C. `split`
+D. `join`
+
+**Ans: A**
+
+### Q157. Which parameter controls what is printed at the end?
+
+A. `end`
+B. `sep`
+C. `finish`
+D. `stop`
+
+**Ans: A**
+
+### Q158. Default `end` in `print()` is:
+
+A. Newline
+B. Space
+C. Hyphen
+D. Nothing
+
+**Ans: A**
+
+### Q159. `print("A","B","C",sep="-")` produces:
+
+A. `A-B-C`
+B. `A B C`
+C. `ABC`
+D. `A,B,C`
+
+**Ans: A**
+
+### Q160. An f-string begins with:
+
+A. `f` before the opening quote
+B. `$`
+C. `@`
+D. `%`
+
+**Ans: A**
+
+### Q161. Variables inside an f-string are placed inside:
+
+A. `{}`
+B. `[]`
+C. `()`
+D. `<>`
+
+**Ans: A**
+
+### Q162. The preferred modern formatting method in the material is:
+
+A. f-string
+B. `%` formatting
+C. concatenation only
+D. comments
+
+**Ans: A**
+
+### Q163. `input()` returns:
+
+A. A string
+B. An integer automatically
+C. A float automatically
+D. A Boolean automatically
+
+**Ans: A**
+
+### Q164. If a user enters `21`, `input()` initially returns:
+
+A. `"21"`
+B. `21`
+C. `21.0`
+D. True
+
+**Ans: A**
+
+### Q165. For numeric input, conversion may be written as:
+
+A. `int(input(...))`
+B. `input(int(...))` only
+C. `number(input(...))`
+D. `read(int)`
+
+**Ans: A**
+
+### Q166. Without conversion, `age + 1` after `age=input()` can cause:
+
+A. TypeError
+B. ValueError
+C. IndentationError
+D. SyntaxError
+
+**Ans: A**
+
+---
+
+# 12. Comments and Indentation
+
+### Q167. A single-line Python comment begins with:
+
+A. `#`
+B. `//`
+C. `/*`
+D. `--`
+
+**Ans: A**
+
+### Q168. Python ignores comments when:
+
+A. Running the program
+B. Writing the code
+C. Editing the file
+D. Saving the file
+
+**Ans: A**
+
+### Q169. Comments are primarily intended for:
+
+A. Humans reading the code
+B. The CPU
+C. The operating system
+D. The interpreter's output
+
+**Ans: A**
+
+### Q170. A comment should preferably explain:
+
+A. Why something is done
+B. Only obvious syntax
+C. Nothing
+D. The computer model
+
+**Ans: A**
+
+### Q171. Triple-quoted multi-line strings are often used as:
+
+A. Block comments/documentation
+B. Loops
+C. Conditions
+D. Variables
+
+**Ans: A**
+
+### Q172. Indentation means:
+
+A. Spaces at the beginning of a line
+B. Spaces inside strings
+C. Comments
+D. Blank lines only
+
+**Ans: A**
+
+### Q173. In Python indentation is:
+
+A. Part of syntax
+B. Only cosmetic
+C. Never required
+D. Used only in comments
+
+**Ans: A**
+
+### Q174. The standard indentation level mentioned is:
+
+A. Four spaces
+B. Two spaces
+C. Eight spaces
+D. One tab only
+
+**Ans: A**
+
+### Q175. Statements in the same block must:
+
+A. Have consistent indentation
+B. Have random indentation
+C. Have no indentation
+D. Be comments
+
+**Ans: A**
+
+### Q176. Mixing spaces and tabs inconsistently may cause:
+
+A. IndentationError
+B. ValueError
+C. TypeError
+D. NameError
+
+**Ans: A**
+
+### Q177. Indentation is used to define:
+
+A. Blocks
+B. Variable types
+C. Packages
+D. File extensions
+
+**Ans: A**
+
+### Q178. Indentation is especially important in:
+
+A. `if`, loops and functions
+B. Only comments
+C. Only strings
+D. Only imports
+
+**Ans: A**
+
+### Q179. Which error is associated with incorrect indentation?
+
+A. IndentationError
+B. ValueError
+C. TypeError
+D. ZeroDivisionError
+
+**Ans: A**
+
+### Q180. The major Unit 1 concepts include:
+
+A. Variables, data types, conversion, I/O, comments and indentation
+B. Only lists
+C. Only functions
+D. Only databases
+
+**Ans: A**
+
+---
+
+# UNIT 2 — CONTROL STRUCTURES AND FUNCTIONS
+
+## 13. Conditional Statements
+
+### Q181. Sequential execution means:
+
+A. Statements execute from top to bottom
+B. Statements execute randomly
+C. Only conditions execute
+D. Only functions execute
+
+**Ans: A**
+
+### Q182. Control structures allow programs to:
+
+A. Make decisions and repeat work
+B. Only print text
+C. Only store data
+D. Only create files
+
+**Ans: A**
+
+### Q183. A condition evaluates to:
+
+A. True or False
+B. String only
+C. Integer only
+D. Float only
+
+**Ans: A**
+
+### Q184. Python provides which basic conditional forms?
+
+A. if, if-else, if-elif-else
+B. switch, case, default
+C. choose, when, otherwise
+D. select, case, loop
+
+**Ans: A**
+
+### Q185. The `if` block executes when its condition is:
+
+A. True
+B. False
+C. Empty
+D. None only
+
+**Ans: A**
+
+### Q186. If an `if` condition is false:
+
+A. Its block is skipped
+B. Its block always runs
+C. The program ends
+D. A loop begins
+
+**Ans: A**
+
+### Q187. The `else` block runs when:
+
+A. The `if` condition is false
+B. The `if` condition is true
+C. There is no condition
+D. A function is defined
+
+**Ans: A**
+
+### Q188. In an `if-else`, normally:
+
+A. Exactly one block executes
+B. Both blocks execute
+C. Neither executes
+D. Both execute twice
+
+**Ans: A**
+
+### Q189. `elif` means:
+
+A. Else if
+B. End loop if
+C. Execute loop if
+D. Else loop
+
+**Ans: A**
+
+### Q190. In an `if-elif-else` ladder, conditions are checked:
+
+A. From top to bottom
+B. Bottom to top
+C. Randomly
+D. Alphabetically
+
+**Ans: A**
+
+### Q191. Once a true `elif` condition is found:
+
+A. Remaining conditions are skipped
+B. All remaining conditions are checked
+C. The program restarts
+D. `else` always executes
+
+**Ans: A**
+
+### Q192. The `else` in an `if-elif-else` runs when:
+
+A. No preceding condition is true
+B. The first condition is true
+C. Every condition is true
+D. The program enters a loop
+
+**Ans: A**
+
+### Q193. In a grading ladder, conditions should generally be ordered:
+
+A. Highest range downward
+B. Lowest range upward
+C. Randomly
+D. Alphabetically
+
+**Ans: A**
+
+### Q194. Why does condition order matter?
+
+A. The first true condition determines the executed block
+B. Python ignores order
+C. `else` always runs first
+D. Conditions execute simultaneously
+
+**Ans: A**
+
+### Q195. A nested `if` is:
+
+A. An `if` inside another `if`
+B. An `if` after a loop
+C. An `if` inside a string
+D. A function call
+
+**Ans: A**
+
+### Q196. In nested `if`, the inner condition is checked:
+
+A. Only if the outer condition is true
+B. Always
+C. Before the outer condition
+D. Never
+
+**Ans: A**
+
+### Q197. The conditional expression is also called:
+
+A. Ternary operator
+B. Binary loop
+C. Nested operator
+D. Boolean loop
+
+**Ans: A**
+
+### Q198. The conditional expression has the form:
+
+A. `value_if_true if condition else value_if_false`
+B. `if condition value else value`
+C. `condition ? true : false`
+D. `if true then false`
+
+**Ans: A**
+
+### Q199. The ternary form is useful for:
+
+A. Short simple if-else expressions
+B. Large programs only
+C. Defining classes
+D. Creating packages
+
+**Ans: A**
+
+---
+
+# 14. Loops
+
+### Q200. A loop:
+
+A. Repeats a block of statements
+B. Defines a variable
+C. Converts types
+D. Installs packages
+
+**Ans: A**
+
+### Q201. Python has two loop types covered in the material:
+
+A. `for` and `while`
+B. `repeat` and `until`
+C. `do` and `while`
+D. `foreach` and `loop`
+
+**Ans: A**
+
+### Q202. A `for` loop is commonly used to:
+
+A. Iterate over a sequence
+B. Define a function
+C. Handle errors
+D. Install packages
+
+**Ans: A**
+
+### Q203. A `for` loop can iterate over:
+
+A. Lists
+B. Strings
+C. Tuples
+D. All of these
+
+**Ans: D**
+
+### Q204. A `for` loop can also iterate over:
+
+A. A range of numbers
+B. Only lists
+C. Only strings
+D. Only dictionaries
+
+**Ans: A**
+
+### Q205. `range(stop)` generates:
+
+A. 0 through stop-1
+B. 1 through stop
+C. 0 through stop
+D. stop through 0
+
+**Ans: A**
+
+### Q206. `range(5)` produces:
+
+A. 0,1,2,3,4
+B. 1,2,3,4,5
+C. 0,1,2,3,4,5
+D. 5 only
+
+**Ans: A**
+
+### Q207. `range(start, stop)` excludes:
+
+A. The stop value
+B. The start value
+C. Both
+D. Neither
+
+**Ans: A**
+
+### Q208. `range(1,6)` produces:
+
+A. 1,2,3,4,5
+B. 1,2,3,4,5,6
+C. 0,1,2,3,4
+D. 6 only
+
+**Ans: A**
+
+### Q209. `range(start, stop, step)` includes:
+
+A. A step value
+B. Only start
+C. Only stop
+D. No values
+
+**Ans: A**
+
+### Q210. A `while` loop repeats while:
+
+A. Its condition remains true
+B. Its condition is false
+C. The program is closed
+D. A function exists
+
+**Ans: A**
+
+### Q211. A `while` condition is tested:
+
+A. Before each iteration
+B. Only after the loop
+C. Once after completion
+D. Never
+
+**Ans: A**
+
+### Q212. A `while` loop is useful when:
+
+A. Repetition depends on a condition
+B. A fixed sequence is always required
+C. No condition exists
+D. Only strings are processed
+
+**Ans: A**
+
+### Q213. The controlling value in a while loop should be:
+
+A. Updated so the condition can eventually become false
+B. Never changed
+C. Deleted
+D. Converted to a string
+
+**Ans: A**
+
+### Q214. Failure to update the controlling condition can cause:
+
+A. An infinite loop
+B. A syntax error automatically
+C. A type conversion
+D. A function definition
+
+**Ans: A**
+
+### Q215. Use a `for` loop when:
+
+A. The collection or number of iterations is known
+B. The number is always unknown
+C. No sequence exists
+D. A function must return a value
+
+**Ans: A**
+
+### Q216. Use a `while` loop when:
+
+A. Repetition continues until a condition is met
+B. Only list indexing is needed
+C. A function must be defined
+D. A dictionary must be created
+
+**Ans: A**
+
+---
+
+# 15. Loop Control
+
+### Q217. Python's loop control statements in the material are:
+
+A. break, continue, pass
+B. stop, skip, null
+C. exit, next, empty
+D. break, return, yield
+
+**Ans: A**
+
+### Q218. `break`:
+
+A. Terminates the loop immediately
+B. Skips one iteration
+C. Does nothing
+D. Restarts the loop
+
+**Ans: A**
+
+### Q219. After `break`, control goes to:
+
+A. The first statement after the loop
+B. The beginning of the loop
+C. The current iteration
+D. The function definition
+
+**Ans: A**
+
+### Q220. `break` is useful when:
+
+A. A desired item is found during a search
+B. Every item must always be processed
+C. No loop exists
+D. A function needs a parameter
+
+**Ans: A**
+
+### Q221. `continue`:
+
+A. Skips the rest of the current iteration
+B. Terminates the entire loop
+C. Ends the program
+D. Does nothing
+
+**Ans: A**
+
+### Q222. After `continue`, control moves to:
+
+A. The next iteration
+B. The next function
+C. The program end
+D. The previous iteration
+
+**Ans: A**
+
+### Q223. Which statement ends the entire loop?
+
+A. `break`
+B. `continue`
+C. `pass`
+D. `skip`
+
+**Ans: A**
+
+### Q224. Which statement skips only the current iteration?
+
+A. `continue`
+B. `break`
+C. `pass`
+D. `exit`
+
+**Ans: A**
+
+### Q225. `pass`:
+
+A. Does nothing
+B. Ends the loop
+C. Skips all future loops
+D. Returns a value
+
+**Ans: A**
+
+### Q226. `pass` is mainly a:
+
+A. Placeholder
+B. Loop terminator
+C. Return statement
+D. Function caller
+
+**Ans: A**
+
+### Q227. Without `pass`, an otherwise empty block may produce:
+
+A. Syntax error
+B. ValueError
+C. TypeError
+D. EOFError
+
+**Ans: A**
+
+### Q228. The `else` clause of a loop runs when:
+
+A. The loop completes normally without `break`
+B. `break` executes
+C. `continue` executes
+D. `pass` executes
+
+**Ans: A**
+
+### Q229. A loop `else` is useful in:
+
+A. Search problems
+B. Variable declaration
+C. String formatting only
+D. Package installation
+
+**Ans: A**
+
+---
+
+# 16. Nested Loops
+
+### Q230. A loop inside another loop is:
+
+A. Nested loop
+B. Conditional loop
+C. Sequential loop
+D. Recursive loop
+
+**Ans: A**
+
+### Q231. For each iteration of the outer loop, the inner loop:
+
+A. Runs completely
+B. Runs once only
+C. Never runs
+D. Ends the outer loop
+
+**Ans: A**
+
+### Q232. Nested loops are useful for:
+
+A. Grids
+B. Tables
+C. Matrices
+D. All of these
+
+**Ans: D**
+
+### Q233. If an outer loop runs `m` times and an inner loop runs `n` times, the inner body executes:
+
+A. `m × n` times
+B. `m+n` times
+C. `m-n` times
+D. `m/n` times
+
+**Ans: A**
+
+### Q234. In a multiplication grid, the outer loop can represent:
+
+A. Rows
+B. Only columns
+C. Functions
+D. Data types
+
+**Ans: A**
+
+### Q235. The inner loop in the grid can represent:
+
+A. Columns
+B. Programs
+C. Functions
+D. Variables
+
+**Ans: A**
+
+### Q236. `end=" "` in `print()` is useful for:
+
+A. Keeping output on the same line
+B. Starting a new file
+C. Ending a loop
+D. Removing spaces
+
+**Ans: A**
+
+### Q237. An empty `print()` can:
+
+A. Move output to a new line
+B. Delete output
+C. End the program
+D. Start a loop
+
+**Ans: A**
+
+### Q238. A `break` inside nested loops affects:
+
+A. The innermost loop containing it
+B. Every loop
+C. Only the outermost loop
+D. No loop
+
+**Ans: A**
+
+### Q239. A `continue` inside nested loops affects:
+
+A. The innermost loop containing it
+B. Every loop
+C. Only the outermost loop
+D. The entire program
+
+**Ans: A**
+
+---
+
+# 17. Functions
+
+### Q240. A function is:
+
+A. A named reusable block of code
+B. A variable
+C. A loop only
+D. A data type
+
+**Ans: A**
+
+### Q241. Functions help programs become:
+
+A. Shorter and easier to maintain
+B. Longer and harder to understand
+C. Completely unstructured
+D. Impossible to reuse
+
+**Ans: A**
+
+### Q242. Functions support:
+
+A. Modular programming
+B. Only sequential programming
+C. Only graphics
+D. Only data storage
+
+**Ans: A**
+
+### Q243. A function is defined using:
+
+A. `def`
+B. `function`
+C. `define`
+D. `fun`
+
+**Ans: A**
+
+### Q244. A function definition contains:
+
+A. Function name, parentheses and colon
+B. Only a variable
+C. Only a colon
+D. Only parentheses
+
+**Ans: A**
+
+### Q245. Function body is identified by:
+
+A. Indentation
+B. Braces
+C. Parentheses
+D. Quotes
+
+**Ans: A**
+
+### Q246. Defining a function:
+
+A. Does not execute it immediately
+B. Always executes it twice
+C. Immediately returns a value
+D. Automatically calls it
+
+**Ans: A**
+
+### Q247. A function runs when:
+
+A. It is called
+B. It is defined only
+C. It is commented
+D. It is saved
+
+**Ans: A**
+
+### Q248. A function call uses:
+
+A. Its name followed by parentheses
+B. Its name followed by `=`
+C. Its name followed by `:`
+D. Its name followed by `#`
+
+**Ans: A**
+
+### Q249. A parameter is:
+
+A. A variable in the function definition
+B. The actual value passed
+C. The return value
+D. The function name
+
+**Ans: A**
+
+### Q250. An argument is:
+
+A. The actual value passed to a function
+B. The placeholder in the definition
+C. The function's name
+D. The return statement
+
+**Ans: A**
+
+### Q251. In `greet(name)`, `name` is:
+
+A. Parameter
+B. Argument
+C. Return value
+D. Keyword
+
+**Ans: A**
+
+### Q252. In `greet("Alice")`, `"Alice"` is:
+
+A. Argument
+B. Parameter
+C. Function
+D. Return statement
+
+**Ans: A**
+
+---
+
+# 18. Return Values
+
+### Q253. A function sends a result back using:
+
+A. `return`
+B. `send`
+C. `output`
+D. `yield`
+
+**Ans: A**
+
+### Q254. A function without a return statement automatically returns:
+
+A. `None`
+B. 0
+C. False
+D. Empty string
+
+**Ans: A**
+
+### Q255. A returned value can be:
+
+A. Stored in a variable
+B. Used in an expression
+C. Both A and B
+D. Neither
+
+**Ans: C**
+
+### Q256. `return` immediately:
+
+A. Ends the function
+B. Ends the Python program always
+C. Starts the function again
+D. Creates a loop
+
+**Ans: A**
+
+### Q257. Code after an executed `return` in the same path:
+
+A. Does not run
+B. Always runs
+C. Runs twice
+D. Becomes a comment
+
+**Ans: A**
+
+### Q258. A function can return:
+
+A. Multiple values separated by commas
+B. Only one integer
+C. Only a string
+D. No values
+
+**Ans: A**
+
+### Q259. Multiple returned values are packed into:
+
+A. A tuple
+B. A list automatically
+C. A dictionary
+D. A set
+
+**Ans: A**
+
+### Q260. In `return min(numbers), max(numbers)`, two values are:
+
+A. Returned
+B. Printed automatically
+C. Ignored
+D. Converted to strings
+
+**Ans: A**
+
+### Q261. `low, high = min_max(...)` demonstrates:
+
+A. Unpacking returned values
+B. String concatenation
+C. Loop control
+D. Variable deletion
+
+**Ans: A**
+
+---
+
+# 19. Default and Keyword Arguments
+
+### Q262. A default argument has:
+
+A. A predefined value
+B. No value
+C. A required loop
+D. A Boolean only
+
+**Ans: A**
+
+### Q263. If a default parameter is omitted:
+
+A. Its default value is used
+B. An error always occurs
+C. The function stops
+D. The parameter becomes None automatically regardless of its default
+
+**Ans: A**
+
+### Q264. Default parameters must come:
+
+A. After all non-default parameters
+B. Before all parameters
+C. Only at the end of the program
+D. Outside the function
+
+**Ans: A**
+
+### Q265. In `power(base, exponent=2)`, the default exponent is:
+
+A. 2
+B. 0
+C. 1
+D. 10
+
+**Ans: A**
+
+### Q266. `power(5)` uses:
+
+A. Exponent 2
+B. Exponent 5
+C. Exponent 0
+D. No exponent
+
+**Ans: A**
+
+### Q267. `power(2,10)`:
+
+A. Overrides the default exponent
+B. Uses exponent 2
+C. Causes an error
+D. Ignores 10
+
+**Ans: A**
+
+### Q268. Keyword arguments use:
+
+A. `name=value`
+B. `name:value`
+C. `name==value`
+D. `name->value`
+
+**Ans: A**
+
+### Q269. Keyword arguments make argument order:
+
+A. Less important
+B. More important
+C. Impossible to change
+D. Randomly determined
+
+**Ans: A**
+
+### Q270. Keyword arguments can make function calls:
+
+A. Clearer
+B. More ambiguous
+C. Impossible
+D. Slower by definition
+
+**Ans: A**
+
+### Q271. `student(course="Python", name="Riya", age=21)` demonstrates:
+
+A. Keyword arguments
+B. Positional arguments
+C. Recursion
+D. Lambda functions
+
+**Ans: A**
+
+### Q272. Keyword arguments are particularly useful when:
+
+A. A function has many parameters
+B. A function has no parameters
+C. A program has no functions
+D. A loop is empty
+
+**Ans: A**
+
+---
+
+# 20. `*args` and `**kwargs`
+
+### Q273. `*args` collects:
+
+A. Extra positional arguments
+B. Extra keyword arguments
+C. Only strings
+D. Only integers
+
+**Ans: A**
+
+### Q274. `*args` stores collected arguments in a:
+
+A. Tuple
+B. Dictionary
+C. Set
+D. String
+
+**Ans: A**
+
+### Q275. `**kwargs` collects:
+
+A. Extra keyword arguments
+B. Positional arguments
+C. Only numbers
+D. Only lists
+
+**Ans: A**
+
+### Q276. `**kwargs` stores collected arguments in a:
+
+A. Dictionary
+B. Tuple
+C. List
+D. Set
+
+**Ans: A**
+
+### Q277. The first star in `*args` means:
+
+A. Variable number of positional arguments
+B. Multiplication
+C. Keyword arguments
+D. Recursion
+
+**Ans: A**
+
+### Q278. The two stars in `**kwargs` mean:
+
+A. Variable number of keyword arguments
+B. Two positional arguments
+C. Power operation
+D. Nested loops
+
+**Ans: A**
+
+### Q279. `total(*numbers)` can accept:
+
+A. Any number of positional numbers
+B. Only two numbers
+C. No arguments
+D. Only keyword arguments
+
+**Ans: A**
+
+### Q280. `profile(**info)` can accept:
+
+A. Arbitrary named details
+B. Only one positional argument
+C. Only integers
+D. No arguments
+
+**Ans: A**
+
+---
+
+# 21. Lambda Functions
+
+### Q281. A lambda function is:
+
+A. Anonymous
+B. Always named
+C. A class
+D. A loop
+
+**Ans: A**
+
+### Q282. Lambda functions are defined using:
+
+A. `lambda`
+B. `def` only
+C. `anonymous`
+D. `function`
+
+**Ans: A**
+
+### Q283. A lambda must contain:
+
+A. A single expression
+B. Multiple statements
+C. A loop
+D. A class definition
+
+**Ans: A**
+
+### Q284. A lambda returns:
+
+A. The expression's value automatically
+B. Nothing
+C. Only None
+D. A Boolean always
+
+**Ans: A**
+
+### Q285. Lambda functions are useful for:
+
+A. Short one-off operations
+B. Large complex programs only
+C. Package installation
+D. Defining modules
+
+**Ans: A**
+
+### Q286. `lambda x: x*x` calculates:
+
+A. Square of x
+B. Cube of x
+C. x+2
+D. x/2
+
+**Ans: A**
+
+### Q287. `square = lambda x: x*x; square(6)` gives:
+
+A. 36
+B. 12
+C. 18
+D. 6
+
+**Ans: A**
+
+### Q288. `lambda a,b: a+b` has:
+
+A. Two arguments
+B. One argument
+C. No arguments
+D. Three arguments
+
+**Ans: A**
+
+### Q289. `lambda a,b: a+b` with `3,4` returns:
+
+A. 7
+B. 12
+C. 1
+D. 34
+
+**Ans: A**
+
+### Q290. `map()` is used with lambda in the material to:
+
+A. Apply a function to every item
+B. Remove every item
+C. Sort only strings
+D. Create a dictionary only
+
+**Ans: A**
+
+### Q291. `filter()` is used to:
+
+A. Keep items satisfying a condition
+B. Apply a function to every item regardless of condition
+C. Sort items
+D. Reverse items
+
+**Ans: A**
+
+### Q292. `sorted()`/`.sort()` can use lambda for:
+
+A. Custom sort order
+B. Input
+C. Recursion
+D. Variable scope
+
+**Ans: A**
+
+### Q293. In the material, `filter(lambda x: x % 2 == 0, nums)` selects:
+
+A. Even numbers
+B. Odd numbers
+C. Negative numbers
+D. Prime numbers
+
+**Ans: A**
+
+### Q294. `map(lambda x:x*x, nums)` produces:
+
+A. Squares
+B. Cubes
+C. Roots
+D. Strings
+
+**Ans: A**
+
+### Q295. A normal `def` function can contain:
+
+A. Many statements
+B. Only one expression
+C. No statements
+D. Only one parameter
+
+**Ans: A**
+
+### Q296. A lambda is limited to:
+
+A. One expression
+B. One argument
+C. One variable
+D. One call
+
+**Ans: A**
+
+---
+
+# 22. Scope and Lifetime
+
+### Q297. Scope means:
+
+A. Region where a variable can be accessed
+B. Time required to compile code
+C. Number of functions
+D. Variable's data type
+
+**Ans: A**
+
+### Q298. Lifetime means:
+
+A. Period during which a variable exists in memory
+B. Number of times a variable is printed
+C. Scope of a function
+D. Number of arguments
+
+**Ans: A**
+
+### Q299. A local variable is created:
+
+A. Inside a function
+B. Outside every function
+C. In the Python interpreter only
+D. In a package
+
+**Ans: A**
+
+### Q300. A local variable generally exists:
+
+A. While the function runs
+B. Forever
+C. Only before the function runs
+D. Only in another module
+
+**Ans: A**
+
+### Q301. A global variable is created:
+
+A. Outside all functions
+B. Only inside functions
+C. Inside loops only
+D. Inside lambdas only
+
+**Ans: A**
+
+### Q302. A global variable can generally be:
+
+A. Read from anywhere in the program
+B. Read only inside its function
+C. Read only inside a loop
+D. Never accessed
+
+**Ans: A**
+
+### Q303. A local variable with the same name as a global variable:
+
+A. Is a separate local variable
+B. Always changes the global variable
+C. Deletes the global variable
+D. Causes an error automatically
+
+**Ans: A**
+
+### Q304. To modify a global variable from inside a function, use:
+
+A. `global`
+B. `local`
+C. `outer`
+D. `modify`
+
+**Ans: A**
+
+### Q305. The `global` keyword tells Python:
+
+A. The name refers to the global variable
+B. The variable is local
+C. The function is recursive
+D. The variable is constant
+
+**Ans: A**
+
+### Q306. `nonlocal` is used in:
+
+A. Nested functions
+B. Top-level code only
+C. Loops only
+D. Lists only
+
+**Ans: A**
+
+### Q307. `nonlocal` allows an inner function to modify:
+
+A. A variable in the enclosing function
+B. A built-in variable
+C. A module imported from Python
+D. A constant
+
+**Ans: A**
+
+### Q308. LEGB stands for:
+
+A. Local, Enclosing, Global, Built-in
+B. Local, External, Global, Boolean
+C. Loop, Expression, Global, Built-in
+D. Local, Else, Global, Boolean
+
+**Ans: A**
+
+### Q309. In LEGB, Python searches first in:
+
+A. Local scope
+B. Global scope
+C. Built-in scope
+D. Enclosing scope
+
+**Ans: A**
+
+### Q310. The final scope searched in LEGB is:
+
+A. Built-in
+B. Local
+C. Global
+D. Enclosing
+
+**Ans: A**
+
+### Q311. `print` and `len` are examples of:
+
+A. Built-in names
+B. Local variables
+C. Global variables only
+D. Parameters
+
+**Ans: A**
+
+---
+
+# 23. Recursion
+
+### Q312. Recursion occurs when:
+
+A. A function calls itself
+B. A loop calls a function once
+C. A variable calls itself
+D. A list calls a function
+
+**Ans: A**
+
+### Q313. A recursive solution must have:
+
+A. Base case and recursive case
+B. Only a loop
+C. Only an `if`
+D. Only a return
+
+**Ans: A**
+
+### Q314. The base case:
+
+A. Stops recursion
+B. Starts recursion
+C. Doubles recursion
+D. Removes recursion
+
+**Ans: A**
+
+### Q315. Without a base case, recursion may:
+
+A. Continue indefinitely and crash
+B. Always return 0
+C. Become a loop automatically
+D. Stop immediately
+
+**Ans: A**
+
+### Q316. The recursive case:
+
+A. Calls the function with a smaller/simpler input
+B. Always ends the function
+C. Never calls the function
+D. Deletes the base case
+
+**Ans: A**
+
+### Q317. Factorial is represented by:
+
+A. `n!`
+B. `n?`
+C. `n#`
+D. `n%`
+
+**Ans: A**
+
+### Q318. `0!` is:
+
+A. 1
+B. 0
+C. -1
+D. Undefined
+
+**Ans: A**
+
+### Q319. The recursive factorial relation is:
+
+A. `n! = n × (n-1)!`
+B. `n! = n + (n-1)!`
+C. `n! = n/(n-1)!`
+D. `n! = n - (n-1)!`
+
+**Ans: A**
+
+### Q320. `5!` equals:
+
+A. 120
+B. 60
+C. 25
+D. 24
+
+**Ans: A**
+
+### Q321. Fibonacci series begins:
+
+A. 0, 1, 1, 2, 3, 5, 8
+B. 1, 2, 3, 4, 5
+C. 0, 2, 4, 6, 8
+D. 1, 1, 1, 1
+
+**Ans: A**
+
+### Q322. Each Fibonacci number is:
+
+A. The sum of the previous two
+B. The product of the previous two
+C. The square of the previous number
+D. Always twice the previous number
+
+**Ans: A**
+
+### Q323. The first two Fibonacci values are:
+
+A. 0 and 1
+B. 1 and 2
+C. 1 and 1 only
+D. 0 and 2
+
+**Ans: A**
+
+### Q324. The recursive Fibonacci function uses:
+
+A. `fib(n-1) + fib(n-2)`
+B. `fib(n)+fib(n+1)`
+C. `fib(n*2)`
+D. `fib(n/2)`
+
+**Ans: A**
+
+### Q325. The recursive sum-of-digits function uses:
+
+A. `% 10` and `// 10`
+B. `/` and `*`
+C. `+` only
+D. `% 2` only
+
+**Ans: A**
+
+### Q326. The sum of digits of 1234 is:
+
+A. 10
+B. 12
+C. 14
+D. 15
+
+**Ans: A**
+
+### Q327. Recursion uses memory through:
+
+A. Call stack
+B. Keyboard buffer
+C. PATH
+D. Package cache
+
+**Ans: A**
+
+### Q328. Very deep recursion may cause:
+
+A. RecursionError
+B. ValueError
+C. IndentationError
+D. TypeError
+
+**Ans: A**
+
+### Q329. Any recursive solution can also be written using:
+
+A. Iteration
+B. A dictionary only
+C. A tuple only
+D. A string only
+
+**Ans: A**
+
+### Q330. Recursion may provide:
+
+A. Cleaner solutions for naturally recursive problems
+B. No memory usage
+C. Guaranteed faster execution
+D. No need for a base case
+
+**Ans: A**
+
+---
+
+# UNIT 3 — DATA STRUCTURES
+
+## 24. Basic Data Structures
+
+### Q331. A data structure is used to:
+
+A. Organise and store data
+B. Install Python
+C. Define only functions
+D. Compile Python
+
+**Ans: A**
+
+### Q332. Choosing the correct data structure can make programs:
+
+A. Simpler and easier to understand
+B. Always slower
+C. Impossible to maintain
+D. Independent of data
+
+**Ans: A**
+
+### Q333. Python's four built-in collection types covered are:
+
+A. List, tuple, dictionary, set
+B. Array, pointer, stack, queue
+C. Class, object, function, module
+D. int, float, str, bool
+
+**Ans: A**
+
+### Q334. A list is:
+
+A. Ordered and changeable
+B. Unordered and immutable
+C. Ordered and immutable
+D. Unordered and unchangeable
+
+**Ans: A**
+
+### Q335. A tuple is:
+
+A. Ordered and immutable
+B. Unordered and mutable
+C. Ordered and mutable
+D. Unordered and immutable
+
+**Ans: A**
+
+### Q336. A dictionary stores:
+
+A. Key-value pairs
+B. Only values
+C. Only keys
+D. Indexed characters
+
+**Ans: A**
+
+### Q337. A set stores:
+
+A. Unique items
+B. Duplicate items only
+C. Key-value pairs
+D. Ordered pairs
+
+**Ans: A**
+
+### Q338. Lists allow:
+
+A. Duplicates
+B. No duplicates
+C. Only numbers
+D. Only strings
+
+**Ans: A**
+
+### Q339. Tuples are:
+
+A. Immutable
+B. Mutable
+C. Always empty
+D. Always numeric
+
+**Ans: A**
+
+### Q340. Sets are:
+
+A. Unordered
+B. Indexed
+C. Always ordered
+D. Key-value collections
+
+**Ans: A**
+
+### Q341. Dictionary keys must be:
+
+A. Unique and immutable
+B. Duplicate and mutable
+C. Only lists
+D. Only dictionaries
+
+**Ans: A**
+
+### Q342. Dictionary values can be:
+
+A. Anything
+B. Only strings
+C. Only numbers
+D. Only tuples
+
+**Ans: A**
+
+### Q343. Since Python 3.7, dictionaries remember:
+
+A. Insertion order
+B. Alphabetical order
+C. Reverse order only
+D. Random order only
+
+**Ans: A**
+
+---
+
+# 25. Lists
+
+### Q344. Lists are written using:
+
+A. Square brackets
+B. Parentheses
+C. Curly braces
+D. Angle brackets
+
+**Ans: A**
+
+### Q345. An empty list is:
+
+A. `[]`
+B. `{}`
+C. `()`
+D. `empty()`
+
+**Ans: A**
+
+### Q346. A list can contain:
+
+A. Different data types
+B. Only integers
+C. Only strings
+D. Only Booleans
+
+**Ans: A**
+
+### Q347. `numbers=[10,20,30,40]` contains:
+
+A. Four items
+B. Three items
+C. Five items
+D. Two items
+
+**Ans: A**
+
+### Q348. `len(numbers)` for `[10,20,30,40]` is:
+
+A. 4
+B. 3
+C. 5
+D. 40
+
+**Ans: A**
+
+### Q349. List indexing begins at:
+
+A. 0
+B. 1
+C. -1
+D. 2
+
+**Ans: A**
+
+### Q350. The first element has index:
+
+A. 0
+B. 1
+C. -1
+D. 2
+
+**Ans: A**
+
+### Q351. Negative index `-1` refers to:
+
+A. Last element
+B. First element
+C. Second element
+D. Middle element
+
+**Ans: A**
+
+### Q352. Negative index `-2` refers to:
+
+A. Second-last element
+B. First element
+C. Last element
+D. Third element
+
+**Ans: A**
+
+### Q353. Lists are mutable, meaning:
+
+A. Their elements can be changed
+B. They cannot be changed
+C. They cannot be indexed
+D. They cannot contain duplicates
+
+**Ans: A**
+
+### Q354. If `colors=["red","green","blue"]`, `colors[1]` is:
+
+A. green
+B. red
+C. blue
+D. Error
+
+**Ans: A**
+
+### Q355. If `colors=["red","green","blue"]`, `colors[-1]` is:
+
+A. blue
+B. red
+C. green
+D. Error
+
+**Ans: A**
+
+### Q356. Which changes the second item?
+
+A. `colors[1]="orange"`
+B. `colors(1)="orange"`
+C. `colors{1}="orange"`
+D. `colors<-1`
+
+**Ans: A**
+
+---
+
+# 26. List Slicing
+
+### Q357. List slicing uses:
+
+A. `[start:stop:step]`
+B. `(start,stop)`
+C. `{start:stop}`
+D. `<start-stop>`
+
+**Ans: A**
+
+### Q358. In slicing, the start index is:
+
+A. Included
+B. Excluded
+C. Ignored
+D. Always zero
+
+**Ans: A**
+
+### Q359. In slicing, the stop index is:
+
+A. Excluded
+B. Included
+C. Always negative
+D. Ignored
+
+**Ans: A**
+
+### Q360. `nums[2:5]` includes indexes:
+
+A. 2,3,4
+B. 2,3,4,5
+C. 3,4,5
+D. 1,2,3,4
+
+**Ans: A**
+
+### Q361. `nums[:4]` means:
+
+A. From beginning through index 3
+B. From index 4 onward
+C. Only index 4
+D. Reverse the list
+
+**Ans: A**
+
+### Q362. `nums[6:]` means:
+
+A. From index 6 to the end
+B. From beginning to 6
+C. Only index 6
+D. Reverse from 6
+
+**Ans: A**
+
+### Q363. `nums[::2]` selects:
+
+A. Every second element
+B. Every first element only
+C. Every third element
+D. Only the last element
+
+**Ans: A**
+
+### Q364. `nums[::-1]`:
+
+A. Reverses the list
+B. Sorts the list
+C. Removes duplicates
+D. Copies only the first item
+
+**Ans: A**
+
+---
+
+# 27. List Methods
+
+### Q365. `append(x)`:
+
+A. Adds x to the end
+B. Adds x to the beginning
+C. Removes x
+D. Sorts x
+
+**Ans: A**
+
+### Q366. `insert(i,x)`:
+
+A. Inserts x at position i
+B. Removes x at i
+C. Sorts x
+D. Counts x
+
+**Ans: A**
+
+### Q367. `remove(x)` removes:
+
+A. First occurrence of x
+B. Last occurrence only
+C. All occurrences automatically
+D. Index x
+
+**Ans: A**
+
+### Q368. `pop()` without an index removes:
+
+A. Last item
+B. First item
+C. Middle item
+D. All items
+
+**Ans: A**
+
+### Q369. `pop(i)`:
+
+A. Removes and returns the item at index i
+B. Counts item i
+C. Sorts index i
+D. Inserts at i
+
+**Ans: A**
+
+### Q370. `sort()`:
+
+A. Sorts the list in place
+B. Creates a dictionary
+C. Removes duplicates only
+D. Reverses only
+
+**Ans: A**
+
+### Q371. Default sorting order in `sort()` is:
+
+A. Ascending
+B. Descending
+C. Random
+D. Reverse alphabetical only
+
+**Ans: A**
+
+### Q372. `reverse()`:
+
+A. Reverses the list in place
+B. Sorts ascending
+C. Removes the first item
+D. Counts values
+
+**Ans: A**
+
+### Q373. `count(x)` returns:
+
+A. Number of occurrences of x
+B. Index of x
+C. Last occurrence
+D. Position of x plus one
+
+**Ans: A**
+
+### Q374. `index(x)` returns:
+
+A. Index of first occurrence
+B. Number of occurrences
+C. Last index always
+D. Length of the list
+
+**Ans: A**
+
+### Q375. `fruits.append("cherry")` adds cherry:
+
+A. At the end
+B. At index 0
+C. In alphabetical order automatically
+D. In reverse
+
+**Ans: A**
+
+### Q376. `fruits.insert(1,"mango")` inserts mango:
+
+A. At index 1
+B. At index 0
+C. At the end only
+D. After index 1
+
+**Ans: A**
+
+### Q377. `remove("banana")` removes:
+
+A. Banana by value
+B. Index banana
+C. The last item
+D. All values
+
+**Ans: A**
+
+### Q378. If `nums=[5,2,9,1,7]`, `nums.sort()` gives:
+
+A. `[1,2,5,7,9]`
+B. `[9,7,5,2,1]`
+C. `[5,2,9,1,7]`
+D. `[1,5,2,7,9]`
+
+**Ans: A**
+
+### Q379. After sorting `[5,2,9,1,7]`, `reverse()` produces:
+
+A. `[9,7,5,2,1]`
+B. `[1,2,5,7,9]`
+C. `[5,9,7,1,2]`
+D. `[2,1,7,9,5]`
+
+**Ans: A**
+
+---
+
+# 28. Tuples
+
+### Q380. A tuple is:
+
+A. Ordered and immutable
+B. Unordered and mutable
+C. Ordered and mutable
+D. Unordered and mutable
+
+**Ans: A**
+
+### Q381. Tuples are commonly written using:
+
+A. Parentheses
+B. Square brackets
+C. Curly braces
+D. Angle brackets
+
+**Ans: A**
+
+### Q382. A tuple cannot be:
+
+A. Changed after creation
+B. Indexed
+C. Ordered
+D. Stored
+
+**Ans: A**
+
+### Q383. The material describes tuples as:
+
+A. Faster and immutable
+B. Slower and mutable
+C. Unordered and unique
+D. Key-value collections
+
+**Ans: A**
+
+### Q384. A one-item tuple needs:
+
+A. A comma
+B. A colon
+C. A semicolon
+D. A star
+
+**Ans: A**
+
+### Q385. Which represents a one-item tuple?
+
+A. `(5,)`
+B. `(5)`
+C. `[5]`
+D. `{5}`
+
+**Ans: A**
+
+### Q386. `(5)` is generally:
+
+A. An integer expression, not a one-item tuple
+B. A tuple
+C. A set
+D. A dictionary
+
+**Ans: A**
+
+### Q387. Tuples support:
+
+A. Indexing
+B. Assignment to existing elements
+C. Mutation
+D. Changing individual elements
+
+**Ans: A**
+
+---
+
+# 29. Dictionaries
+
+### Q388. A dictionary stores:
+
+A. Key-value pairs
+B. Indexed values only
+C. Unique values only
+D. Characters only
+
+**Ans: A**
+
+### Q389. Dictionaries are written using:
+
+A. Curly braces
+B. Square brackets
+C. Parentheses
+D. Angle brackets
+
+**Ans: A**
+
+### Q390. A dictionary pair is written as:
+
+A. `key:value`
+B. `key=value`
+C. `key->value`
+D. `key,value`
+
+**Ans: A**
+
+### Q391. Dictionary values are accessed using:
+
+A. Keys
+B. Numeric positions only
+C. Character indexes
+D. Random order
+
+**Ans: A**
+
+### Q392. Dictionary keys must be:
+
+A. Unique and immutable
+B. Duplicate and mutable
+C. Lists only
+D. Dictionaries only
+
+**Ans: A**
+
+### Q393. Which can be a dictionary key according to the notes?
+
+A. String
+B. Number
+C. Tuple
+D. All of these
+
+**Ans: D**
+
+### Q394. Dictionary values can be:
+
+A. Any type
+B. Only strings
+C. Only integers
+D. Only tuples
+
+**Ans: A**
+
+### Q395. `student["name"]` accesses:
+
+A. The value associated with `"name"`
+B. The first dictionary item
+C. The dictionary's length
+D. The key itself only
+
+**Ans: A**
+
+### Q396. `get()` is safer because:
+
+A. A missing key can return None or a supplied default
+B. It always changes the dictionary
+C. It deletes the key
+D. It sorts the dictionary
+
+**Ans: A**
+
+### Q397. `student.get("marks","N/A")` returns `"N/A"` when:
+
+A. `marks` is missing
+B. `marks` is present
+C. The dictionary is empty only
+D. The key is deleted
+
+**Ans: A**
+
+### Q398. Assigning to an existing dictionary key:
+
+A. Updates its value
+B. Always creates a duplicate key
+C. Deletes the key
+D. Converts it to a list
+
+**Ans: A**
+
+### Q399. Assigning a new key:
+
+A. Adds a new key-value pair
+B. Deletes the dictionary
+C. Sorts the dictionary
+D. Creates a tuple
+
+**Ans: A**
+
+### Q400. `del student["course"]`:
+
+A. Removes the course key-value pair
+B. Changes the course value
+C. Adds course
+D. Prints course
+
+**Ans: A**
+
+---
+
+# 30. Dictionary Methods
+
+### Q401. `keys()` returns:
+
+A. Dictionary keys
+B. Dictionary values
+C. Key-value pairs
+D. Dictionary length only
+
+**Ans: A**
+
+### Q402. `values()` returns:
+
+A. Dictionary values
+B. Keys
+C. Pairs
+D. Indexes
+
+**Ans: A**
+
+### Q403. `items()` returns:
+
+A. Key-value pairs
+B. Keys only
+C. Values only
+D. Length
+
+**Ans: A**
+
+### Q404. `update()`:
+
+A. Updates/adds dictionary entries
+B. Deletes all entries
+C. Sorts keys only
+D. Returns a list
+
+**Ans: A**
+
+### Q405. `pop(key)`:
+
+A. Removes the key and returns its value
+B. Adds a key
+C. Sorts the dictionary
+D. Returns only the key
+
+**Ans: A**
+
+### Q406. To loop through both dictionary keys and values, use:
+
+A. `items()`
+B. `keys()`
+C. `values()`
+D. `length()`
+
+**Ans: A**
+
+---
+
+# 31. Sets
+
+### Q407. A set is:
+
+A. An unordered collection of unique items
+B. An ordered collection of duplicates
+C. A key-value collection
+D. An immutable sequence
+
+**Ans: A**
+
+### Q408. Sets automatically:
+
+A. Remove duplicates
+B. Add duplicates
+C. Sort all values
+D. Assign indexes
+
+**Ans: A**
+
+### Q409. An empty set is created using:
+
+A. `set()`
+B. `{}`
+C. `[]`
+D. `()`
+
+**Ans: A**
+
+### Q410. `{}` creates:
+
+A. Empty dictionary
+B. Empty set
+C. Empty tuple
+D. Empty list
+
+**Ans: A**
+
+### Q411. Sets do not provide:
+
+A. Index-based access
+B. Unique values
+C. Set operations
+D. Mutable collection behaviour
+
+**Ans: A**
+
+### Q412. `add(x)` on a set:
+
+A. Adds an element
+B. Removes an element
+C. Sorts the set
+D. Gets an index
+
+**Ans: A**
+
+### Q413. `discard(x)`:
+
+A. Removes x without error if it is missing
+B. Always raises an error if missing
+C. Adds x
+D. Sorts x
+
+**Ans: A**
+
+### Q414. Sets are useful for:
+
+A. Removing duplicates
+B. Preserving duplicates
+C. Numeric indexing
+D. Key-value storage
+
+**Ans: A**
+
+---
+
+# 32. Set Operations
+
+### Q415. Set union uses:
+
+A. `|`
+B. `&`
+C. `-`
+D. `^`
+
+**Ans: A**
+
+### Q416. Set intersection uses:
+
+A. `&`
+B. `|`
+C. `-`
+D. `^`
+
+**Ans: A**
+
+### Q417. Set difference uses:
+
+A. `-`
+B. `&`
+C. `|`
+D. `^`
+
+**Ans: A**
+
+### Q418. Symmetric difference uses:
+
+A. `^`
+B. `&`
+C. `|`
+D. `-`
+
+**Ans: A**
+
+### Q419. Union contains:
+
+A. All elements from both sets
+B. Only common elements
+C. Only elements in the first set
+D. Only unique-to-one-set elements
+
+**Ans: A**
+
+### Q420. Intersection contains:
+
+A. Common elements
+B. All elements
+C. First-set-only elements
+D. Second-set-only elements
+
+**Ans: A**
+
+### Q421. Difference `a-b` contains:
+
+A. Elements in a but not b
+B. Elements in b but not a
+C. Common elements
+D. All elements
+
+**Ans: A**
+
+### Q422. Symmetric difference contains:
+
+A. Elements in either set but not both
+B. Common elements only
+C. Elements in first set only
+D. All elements
+
+**Ans: A**
+
+### Q423. `{1,2} <= {1,2,3}` tests:
+
+A. Subset relationship
+B. Union
+C. Difference
+D. Intersection
+
+**Ans: A**
+
+### Q424. A subset contains:
+
+A. Only elements that are also in the other set
+B. Completely unrelated elements
+C. Only duplicate elements
+D. Key-value pairs
+
+**Ans: A**
+
+---
+
+# 33. List Comprehensions
+
+### Q425. A comprehension is:
+
+A. A concise way to build a collection
+B. A loop error
+C. A function definition
+D. A data type
+
+**Ans: A**
+
+### Q426. List comprehensions are written using:
+
+A. `[expression for item in sequence]`
+B. `{expression for item}`
+C. `(expression if item)`
+D. `list(expression)` only
+
+**Ans: A**
+
+### Q427. The `if` part of a list comprehension is:
+
+A. Optional
+B. Mandatory
+C. Forbidden
+D. Used only for dictionaries
+
+**Ans: A**
+
+### Q428. A list comprehension can:
+
+A. Transform and filter values
+B. Only sort values
+C. Only delete values
+D. Only print values
+
+**Ans: A**
+
+### Q429. `[x*x for x in range(1,6)]` produces:
+
+A. `[1,4,9,16,25]`
+B. `[1,2,3,4,5]`
+C. `[2,4,6,8,10]`
+D. `[0,1,4,9,16]`
+
+**Ans: A**
+
+### Q430. `[x for x in range(1,11) if x%2==0]` produces:
+
+A. Even numbers from 2 to 10
+B. Odd numbers
+C. All numbers
+D. Only 0
+
+**Ans: A**
+
+### Q431. `[w.upper() for w in words]`:
+
+A. Converts each word to uppercase
+B. Converts each word to lowercase
+C. Removes words
+D. Sorts words
+
+**Ans: A**
+
+---
+
+# 34. Dictionary Comprehensions
+
+### Q432. Dictionary comprehension uses:
+
+A. `{key:value for item in sequence}`
+B. `[key:value]`
+C. `(key:value)`
+D. `<key:value>`
+
+**Ans: A**
+
+### Q433. Dictionary comprehensions build:
+
+A. Dictionaries
+B. Sets only
+C. Tuples only
+D. Strings only
+
+**Ans: A**
+
+### Q434. `zip()` is useful for:
+
+A. Pairing two lists
+B. Sorting a dictionary
+C. Reversing a string
+D. Removing duplicates
+
+**Ans: A**
+
+### Q435. If names and marks are zipped:
+
+A. Each name can be paired with a corresponding mark
+B. All values are removed
+C. Names become keys automatically without comprehension
+D. The lists are reversed
+
+**Ans: A**
+
+### Q436. `{n:m for n,m in zip(names,marks)}` creates:
+
+A. A dictionary
+B. A list
+C. A tuple
+D. A set
+
+**Ans: A**
+
+---
+
+# 35. Nested Data Structures
+
+### Q437. Nested data structures are:
+
+A. Collections inside collections
+B. Functions inside loops only
+C. Variables without values
+D. Strings inside comments
+
+**Ans: A**
+
+### Q438. A matrix can be represented as:
+
+A. A list of lists
+B. A dictionary only
+C. A string only
+D. A single integer
+
+**Ans: A**
+
+### Q439. A list of dictionaries can represent:
+
+A. Records
+B. Only numbers
+C. Only strings
+D. Functions
+
+**Ans: A**
+
+### Q440. A dictionary can have:
+
+A. Lists as values
+B. Only strings as values
+C. Only integers as values
+D. No nested values
+
+**Ans: A**
+
+### Q441. In a nested structure, access generally proceeds:
+
+A. From outside to inside
+B. From inside to outside
+C. Randomly
+D. Backwards only
+
+**Ans: A**
+
+### Q442. `matrix[1]` selects:
+
+A. The second row
+B. The first row
+C. The second column
+D. The last row
+
+**Ans: A**
+
+### Q443. `matrix[1][2]` means:
+
+A. Second row, third element
+B. First row, second element
+C. Third row, second element
+D. Second row only
+
+**Ans: A**
+
+### Q444. If second row is `[4,5,6]`, `matrix[1][2]` is:
+
+A. 6
+B. 5
+C. 4
+D. 2
+
+**Ans: A**
+
+### Q445. For `subjects["Ravi"]`, the outer structure is:
+
+A. Dictionary
+B. List
+C. Tuple
+D. Set
+
+**Ans: A**
+
+### Q446. If `subjects["Ravi"]=["Python","DBMS"]`, `subjects["Ravi"][0]` is:
+
+A. Python
+B. DBMS
+C. Ravi
+D. 0
+
+**Ans: A**
+
+---
+
+# 36. Strings
+
+### Q447. A string is:
+
+A. A sequence of characters
+B. A collection of key-value pairs
+C. A set
+D. A numeric type
+
+**Ans: A**
+
+### Q448. Strings are:
+
+A. Ordered and immutable
+B. Unordered and mutable
+C. Ordered and mutable
+D. Unordered and immutable
+
+**Ans: A**
+
+### Q449. Because strings are immutable:
+
+A. Their characters cannot be changed in place
+B. They cannot be indexed
+C. They cannot be printed
+D. They cannot be sliced
+
+**Ans: A**
+
+### Q450. String methods generally:
+
+A. Return a new string
+B. Modify the original string in place
+C. Delete the original
+D. Convert strings to dictionaries
+
+**Ans: A**
+
+### Q451. `upper()`:
+
+A. Converts letters to uppercase
+B. Converts to lowercase
+C. Removes spaces
+D. Splits the string
+
+**Ans: A**
+
+### Q452. `lower()`:
+
+A. Converts letters to lowercase
+B. Converts to uppercase
+C. Removes spaces
+D. Joins strings
+
+**Ans: A**
+
+### Q453. `strip()` removes:
+
+A. Leading and trailing whitespace
+B. All characters
+C. Middle spaces only
+D. Numbers
+
+**Ans: A**
+
+### Q454. `replace(a,b)`:
+
+A. Replaces occurrences of a with b
+B. Splits a string
+C. Counts b
+D. Finds a position only
+
+**Ans: A**
+
+### Q455. `split(sep)` converts a string into:
+
+A. A list
+B. A tuple
+C. A set
+D. A dictionary
+
+**Ans: A**
+
+### Q456. `join(list)` converts:
+
+A. A list of strings into one string
+B. A string into a list
+C. A dictionary into a set
+D. A tuple into a list
+
+**Ans: A**
+
+### Q457. `find(sub)` returns:
+
+A. Index of the substring
+B. Number of characters only
+C. A Boolean only
+D. A list
+
+**Ans: A**
+
+### Q458. If `find()` cannot find the substring, it returns:
+
+A. `-1`
+B. `0`
+C. `None`
+D. False
+
+**Ans: A**
+
+### Q459. `count(sub)` returns:
+
+A. Number of occurrences
+B. First index
+C. Last index
+D. Length of substring only
+
+**Ans: A**
+
+### Q460. `startswith(sub)` checks whether:
+
+A. A string begins with sub
+B. A string ends with sub
+C. A string contains sub anywhere only
+D. A string equals sub
+
+**Ans: A**
+
+---
+
+# 37. String Formatting
+
+### Q461. The preferred modern formatting method is:
+
+A. f-string
+B. `%` only
+C. `join()`
+D. `split()`
+
+**Ans: A**
+
+### Q462. Variables in f-strings are placed inside:
+
+A. `{}`
+B. `[]`
+C. `()`
+D. `<>`
+
+**Ans: A**
+
+### Q463. Format specifiers follow:
+
+A. A colon
+B. A semicolon
+C. A comma
+D. A period
+
+**Ans: A**
+
+### Q464. `:.1f` specifies:
+
+A. One decimal place
+B. One integer digit
+C. One string character
+D. One Boolean
+
+**Ans: A**
+
+### Q465. `<10` in the material relates to:
+
+A. Left alignment within width 10
+B. Right alignment within width 10
+C. Ten decimal places
+D. Ten characters removed
+
+**Ans: A**
+
+### Q466. `>10` relates to:
+
+A. Right alignment within width 10
+B. Left alignment within width 10
+C. Ten decimal places
+D. Ten repetitions
+
+**Ans: A**
+
+### Q467. `format()` can be used for:
+
+A. String formatting
+B. Loop control
+C. Type conversion only
+D. List slicing
+
+**Ans: A**
+
+---
+
+# 38. String Operations
+
+### Q468. String concatenation uses:
+
+A. `+`
+B. `-`
+C. `&`
+D. `//`
+
+**Ans: A**
+
+### Q469. String repetition uses:
+
+A. `*`
+B. `+`
+C. `/`
+D. `%`
+
+**Ans: A**
+
+### Q470. Strings support:
+
+A. Indexing
+B. Slicing
+C. Membership testing
+D. All of these
+
+**Ans: D**
+
+### Q471. Membership testing uses:
+
+A. `in`
+B. `has`
+C. `contains`
+D. `inside`
+
+**Ans: A**
+
+### Q472. `"th" in "Python"` is:
+
+A. True
+B. False
+C. Error
+D. None
+
+**Ans: A**
+
+### Q473. `len()` returns:
+
+A. String length
+B. Last index
+C. First index
+D. Number of words only
+
+**Ans: A**
+
+### Q474. If `s="Python"`, `len(s)` is:
+
+A. 6
+B. 5
+C. 7
+D. 4
+
+**Ans: A**
+
+### Q475. If `s="Python"`, `s[0]` is:
+
+A. P
+B. y
+C. n
+D. Python
+
+**Ans: A**
+
+### Q476. If `s="Python"`, `s[-1]` is:
+
+A. n
+B. P
+C. o
+D. y
+
+**Ans: A**
+
+### Q477. If `s="Python"`, `s[1:4]` is:
+
+A. `yth`
+B. `Pyt`
+C. `tho`
+D. `Python`
+
+**Ans: A**
+
+### Q478. `s[::-1]`:
+
+A. Reverses the string
+B. Sorts the string
+C. Deletes the string
+D. Uppercases it
+
+**Ans: A**
+
+### Q479. `"Python"[::-1]` gives:
+
+A. `nohtyP`
+B. `Python`
+C. `Pyth`
+D. `noht`
+
+**Ans: A**
+
+### Q480. A string cannot be modified using:
+
+A. `s[0] = "X"`
+B. `replace()`
+C. Slicing to create a new string
+D. Concatenation
+
+**Ans: A**
+
+### Q481. Strings are:
+
+A. Immutable
+B. Mutable
+C. Always lists
+D. Always tuples
+
+**Ans: A**
+
+### Q482. To "modify" a string, you can:
+
+A. Build a new string
+B. Change one character directly
+C. Modify its index
+D. Assign through slicing in place
+
+**Ans: A**
+
+### Q483. Strings can be iterated:
+
+A. Character by character
+B. Only word by word
+C. Only number by number
+D. Not at all
+
+**Ans: A**
+
+---
+
+# 39. Integrated Output/Concept Questions
+
+### Q484. What is the output of `int(7.9)`?
+
+A. 7
+B. 8
+C. 7.9
+D. Error
+
+**Ans: A**
+
+### Q485. What is the type of `float("2.5")`?
+
+A. float
+B. int
+C. str
+D. bool
+
+**Ans: A**
+
+### Q486. What is the result of `str(100)`?
+
+A. `"100"`
+B. 100.0
+C. True
+D. Error
+
+**Ans: A**
+
+### Q487. What is `bool(8)`?
+
+A. True
+B. False
+C. 8
+D. Error
+
+**Ans: A**
+
+### Q488. What is `5 // 2`?
+
+A. 2
+B. 2.5
+C. 3
+D. 1
+
+**Ans: A**
+
+### Q489. What is `5 % 2`?
+
+A. 1
+B. 2
+C. 2.5
+D. 0
+
+**Ans: A**
+
+### Q490. What is `2 ** 3`?
+
+A. 8
+B. 6
+C. 9
+D. 5
+
+**Ans: A**
+
+### Q491. What does `range(1,5)` produce?
+
+A. 1,2,3,4
+B. 1,2,3,4,5
+C. 0,1,2,3,4
+D. 0,1,2,3,4,5
+
+**Ans: A**
+
+### Q492. If `x=5`, which conditional prints `"Even"` only when x is even?
+
+A. `if x % 2 == 0:`
+B. `if x / 2 == 0:`
+C. `if x // 2 == 0:`
+D. `if x * 2 == 0:`
+
+**Ans: A**
+
+### Q493. Which statement skips the current iteration?
+
+A. `continue`
+B. `break`
+C. `pass`
+D. `return`
+
+**Ans: A**
+
+### Q494. Which statement immediately exits the loop?
+
+A. `break`
+B. `continue`
+C. `pass`
+D. `skip`
+
+**Ans: A**
+
+### Q495. Which statement is a placeholder?
+
+A. `pass`
+B. `break`
+C. `continue`
+D. `return`
+
+**Ans: A**
+
+### Q496. Which function defines a reusable block?
+
+A. `def`
+B. `lambda` only
+C. `return`
+D. `function()`
+
+**Ans: A**
+
+### Q497. Which keyword returns a function result?
+
+A. `return`
+B. `result`
+C. `output`
+D. `send`
+
+**Ans: A**
+
+### Q498. Which variable scope is searched first under LEGB?
+
+A. Local
+B. Enclosing
+C. Global
+D. Built-in
+
+**Ans: A**
+
+### Q499. Which data structure allows duplicate values and can be changed?
+
+A. List
+B. Tuple
+C. Set
+D. Dictionary key
+
+**Ans: A**
+
+### Q500. Which data structure stores unique unordered items?
+
+A. Set
+B. List
+C. Tuple
+D. String
+
+**Ans: A**
+
+---
+
+# ⚡ Ultra-Important Last-Minute Revision
+
+| Concept                       | Remember                                   |
+| ----------------------------- | ------------------------------------------ |
+| Python creator                | Guido van Rossum                           |
+| First release                 | 1991                                       |
+| Python 1.0                    | 1994                                       |
+| Python 2.0                    | 2000                                       |
+| Python 3.0                    | 2008                                       |
+| Python 2 support ended        | 2020                                       |
+| Python name                   | Monty Python's Flying Circus               |
+| Python type                   | Interpreted, high-level, dynamically typed |
+| Installation verification     | `python --version`                         |
+| Package installer             | `pip`                                      |
+| Interactive prompt            | `>>>`                                      |
+| REPL                          | Read-Evaluate-Print Loop                   |
+| Script extension              | `.py`                                      |
+| Variable assignment           | `=`                                        |
+| Core primitive types          | `int`, `float`, `str`, `bool`              |
+| Normal division               | `/` → float                                |
+| Integer division              | `//`                                       |
+| Remainder                     | `%`                                        |
+| Power                         | `**`                                       |
+| Type checking                 | `type()`                                   |
+| Integer conversion            | `int()`                                    |
+| Float conversion              | `float()`                                  |
+| String conversion             | `str()`                                    |
+| Boolean conversion            | `bool()`                                   |
+| User input                    | `input()`                                  |
+| Output                        | `print()`                                  |
+| Modern formatting             | f-string                                   |
+| Comment                       | `#`                                        |
+| Standard indentation          | 4 spaces                                   |
+| Conditional                   | `if / elif / else`                         |
+| Fixed/sequence iteration      | `for`                                      |
+| Condition-based repetition    | `while`                                    |
+| Exit loop                     | `break`                                    |
+| Skip iteration                | `continue`                                 |
+| Placeholder                   | `pass`                                     |
+| Function definition           | `def`                                      |
+| Function result               | `return`                                   |
+| Parameter                     | Variable in definition                     |
+| Argument                      | Actual value passed                        |
+| Default argument              | Predefined value                           |
+| Keyword argument              | `name=value`                               |
+| Variable positional arguments | `*args`                                    |
+| Variable keyword arguments    | `**kwargs`                                 |
+| Anonymous function            | `lambda`                                   |
+| Function self-call            | Recursion                                  |
+| Recursion stopper             | Base case                                  |
+| Scope order                   | LEGB                                       |
+| Modify global                 | `global`                                   |
+| Modify enclosing variable     | `nonlocal`                                 |
+| List                          | Ordered, mutable, duplicates allowed       |
+| Tuple                         | Ordered, immutable                         |
+| Dictionary                    | Key-value pairs                            |
+| Set                           | Unordered, unique                          |
+| List indexing                 | Starts at 0                                |
+| Last list item                | `-1`                                       |
+| List slice                    | `[start:stop:step]`                        |
+| Add to list end               | `append()`                                 |
+| Insert                        | `insert()`                                 |
+| Remove by value               | `remove()`                                 |
+| Remove/return item            | `pop()`                                    |
+| Sort                          | `sort()`                                   |
+| Reverse                       | `reverse()`                                |
+| Count occurrences             | `count()`                                  |
+| First index                   | `index()`                                  |
+| Dictionary keys               | Unique + immutable                         |
+| Dictionary access             | By key                                     |
+| Dictionary safe access        | `get()`                                    |
+| Dictionary keys               | `keys()`                                   |
+| Dictionary values             | `values()`                                 |
+| Dictionary pairs              | `items()`                                  |
+| Dictionary update             | `update()`                                 |
+| Set add                       | `add()`                                    |
+| Safe set removal              | `discard()`                                |
+| Set union                     | `\|`                                       |
+| Intersection                  | `&`                                        |
+| Difference                    | `-`                                        |
+| Symmetric difference          | `^`                                        |
+| List comprehension            | `[expr for x in seq if cond]`              |
+| Dictionary comprehension      | `{key:value for ...}`                      |
+| Pair two sequences            | `zip()`                                    |
+| String                        | Ordered + immutable                        |
+| Uppercase                     | `upper()`                                  |
+| Lowercase                     | `lower()`                                  |
+| Remove surrounding whitespace | `strip()`                                  |
+| Replace                       | `replace()`                                |
+| String → list                 | `split()`                                  |
+| List of strings → string      | `join()`                                   |
+| Find substring                | `find()`                                   |
+| Count substring               | `count()`                                  |
+| Starts with                   | `startswith()`                             |
+| String membership             | `in`                                       |
+| Reverse string                | `[::-1]`                                   |
+
+**Total: 500 MCQs.** This is deliberately broader than the previous IHS-style bank: for this Python material, the questions cover the actual **60-page PDF's three units**, including the examples and distinctions rather than stopping at the headline topics. 

@@ -1,0 +1,188 @@
+openapi: 3.0.1
+info:
+  title: Earth-2 FourCastNet Microservice API
+  description: >
+    Earth-2 FourCastNet ensemble weather forcasting model API. Please see the
+    [Earth-2 home page](https://www.nvidia.com/en-us/high-performance-computing/earth-2/)
+    for more information about Earth-2.
+  version: "1.0.0"
+  license:
+    name: NVIDIA Software License Agreement
+    url: https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/
+  contact:
+    name: NVIDIA AI Enterprise
+    url: https://www.nvidia.com/en-us/data-center/products/ai-enterprise-suite/support/
+
+components:
+  schemas:
+    InferenceMultipartRequestV1:
+      type: object
+      additionalProperties: false
+      properties:
+        input_array:
+          type: string
+          format: binary
+          title: Input Array Data
+          description: >
+            The initial state of FourCastNet as a NumPy array file. Must have
+            the shape `(batch size, 1, variables, latitudes, longitudes)` and
+            preferably use FP32. The expected values for `variables`,
+            `latitudes`, and `longitudes` vary by model.
+        input_time:
+          type: string
+          format: date-time
+          maxLength: 25
+          example: "2013-08-06T12:00:00Z"
+          title: Forecast start time
+          description: >
+            The start time for the input state in RFC 3339 format without
+            fractional seconds. It must use the `T` separator. For more
+            information, see
+            [RFC 3339, section 5.6](https://tools.ietf.org/html/rfc3339#section-5.6).
+        simulation_length:
+          type: integer
+          format: int32
+          minimum: 1
+          maximum: 120
+          default: 12
+          title: Forecast length
+          description: >
+            Number of simulation steps to forecast from the initial state. The
+            duration for each step varies by model. Defaults to 12 steps.
+        variables:
+          type: string
+          format: regex
+          pattern: "^(\\w+(,\\w+)*)?$"
+          maxLength: 1024
+          example: "t2m,z500,u10m"
+          title: Output variables
+          description: >
+            Comma-separated list of variable IDs to return from the model. If
+            not specified, return all variables.
+        seed:
+          type: integer
+          format: int32
+          minimum: 0
+          maximum: 2147483647
+          default: 0
+          title: Random seed
+          description: >
+            Random seed that controls the job reproducibility. This value has no
+            effect on some models, such as SFNO. Defaults to 0.
+      required:
+        - input_array
+        - input_time
+    InferenceTarResponseV1:
+      type: string
+      format: binary
+      example: |
+        Tar archive
+        ├─000_000.npy
+        ├─000_001.npy
+        ├─001_000.npy
+        ├─001_001.npy
+        ...
+        └─<lead time>_<batch index>.npy
+      description: >
+        Tar file containing raw array data for each simulation step and batch
+        index. Arrays are streamed in order after each model simulation step.
+        Each array will have a file name in the format
+        `<lead time>_<batch_index>.npy`.
+    InternalServerError:
+      type: object
+      properties:
+        message:
+          type: string
+          maxLength: 4096
+          description: Server error message
+
+paths:
+  /v1/infer:
+    post:
+      summary: Runs FourCastNet inference.
+      tags:
+        - Inference
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              $ref: "#/components/schemas/InferenceMultipartRequestV1"
+      responses:
+        "200":
+          description: OK
+          content:
+            application/x-tar:
+              schema:
+                $ref: "#/components/schemas/InferenceTarResponseV1"
+        "500":
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/InternalServerError"
+              example:
+                message: "Internal Triton server error"
+
+  /v1/health/live:
+    get:
+      summary: Gets the NIM liveliness status for the model and API endpoint.
+      tags:
+        - Telemetry
+      responses:
+        "200":
+          description: Model and API endpoint are live.
+          content:
+            application/json:
+              schema:
+                properties:
+                  status:
+                    type: string
+                    description: Livelienss status. Always _"live"_.
+                    enum: ["live"]
+                  triton_status:
+                    type: string
+                    description: Triton liveliness status. Always _"live"_.
+                    enum: ["live"]
+        "503":
+          description: Model and/or API endpoint are not live.
+          content:
+            application/json:
+              schema:
+                properties:
+                  status:
+                    type: string
+                    description: Liveliness status. Always _"not live"_.
+                    enum: ["not live"]
+                  triton_status:
+                    type: string
+                    description: Triton liveliness status.
+                    enum: ["live", "not live"]
+                    example: "not live"
+
+  /v1/health/ready:
+    get:
+      summary: Gets the NIM readiness status for the model.
+      tags:
+        - Telemetry
+      responses:
+        "200":
+          description: Model is ready.
+          content:
+            application/json:
+              schema:
+                properties:
+                  status:
+                    type: string
+                    description: Readiness status. Always _"ready"_.
+                    enum: ["ready"]
+        "503":
+          description: Model is not ready.
+          content:
+            application/json:
+              schema:
+                properties:
+                  status:
+                    type: string
+                    description: Readiness status. Always _"not ready"_.
+                    enum: ["not ready"]

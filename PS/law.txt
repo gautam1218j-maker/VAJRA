@@ -1,0 +1,5534 @@
+Yes. The uploaded file is **Cyber Law and IT Acts**, covering **Units I–V**. I’ve kept this bank **strictly based on the uploaded material** and have not added outside syllabus content. 
+
+Below is a large **300-MCQ exam bank**, arranged unit-wise. I’ve deliberately included definition-based, section-based, case-based, conceptual, and application questions.
+
+# UNIT I — Introduction to Cyber Law & IT Act
+
+### 1.
+
+Cyber law primarily governs activities carried out through:
+A. Physical documents only
+B. Computers, computer networks and the Internet
+C. Banking systems only
+D. Government offices only
+**Answer: B**
+
+### 2.
+
+Cyber law is also referred to in the notes as:
+A. Corporate law
+B. Internet law or IT law
+C. Criminal procedure law
+D. Contract law
+**Answer: B**
+
+### 3.
+
+Cyber law is:
+A. A single standalone statute
+B. A body of legal rules drawn from several sources
+C. Only the IT Act
+D. Only criminal law
+**Answer: B**
+
+### 4.
+
+Which is NOT identified as a source contributing to cyber law?
+A. Information Technology Act, 2000
+B. Indian Evidence Act
+C. RBI Act
+D. Constitution of the United States
+**Answer: D**
+
+### 5.
+
+Cyber law deals with:
+A. Electronic contracts
+B. Digital signatures
+C. Cybercrime
+D. All of the above
+**Answer: D**
+
+### 6.
+
+Cyber law does not replace existing law but:
+A. Abolishes traditional legal principles
+B. Adapts established legal principles to cyberspace
+C. Applies only to foreign transactions
+D. Applies only to criminal matters
+**Answer: B**
+
+### 7.
+
+Which was one major reason for the need for cyber law?
+A. Decline of computers
+B. Growth of electronic transactions
+C. Elimination of banking
+D. Reduction of online activity
+**Answer: B**
+
+### 8.
+
+Traditional legal systems were largely designed around:
+A. Electronic records
+B. Physical documents and tangible property
+C. Cloud computing
+D. Digital currencies
+**Answer: B**
+
+### 9.
+
+E-commerce required legal support primarily to make transactions:
+A. Anonymous
+B. Enforceable and trustworthy
+C. Offline
+D. International only
+**Answer: B**
+
+### 10.
+
+Which is an example of a new form of cybercrime mentioned in the notes?
+A. Hacking
+B. Phishing
+C. Online fraud
+D. All of the above
+**Answer: D**
+
+### 11.
+
+The borderless nature of cyberspace creates problems mainly concerning:
+A. Jurisdiction
+B. Printing
+C. Physical ownership
+D. Transportation
+**Answer: A**
+
+### 12.
+
+Protection of privacy became important because:
+A. Personal and financial data moved online
+B. Computers disappeared
+C. Paper records increased
+D. Internet use declined
+**Answer: A**
+
+### 13.
+
+E-governance requires legal recognition of:
+A. Only physical signatures
+B. Electronic applications and records
+C. Verbal communication only
+D. Printed newspapers
+**Answer: B**
+
+### 14.
+
+Cyberspace is described as:
+A. A geographically fixed environment
+B. A borderless environment created by interconnected computer networks
+C. A physical government office
+D. A type of hardware
+**Answer: B**
+
+### 15.
+
+Which is a characteristic of cyberspace?
+A. Borderlessness
+B. Anonymity
+C. Intangibility
+D. All of the above
+**Answer: D**
+
+### 16.
+
+Data crossing national boundaries instantly illustrates:
+A. Anonymity
+B. Borderlessness
+C. Tangibility
+D. Physicality
+**Answer: B**
+
+### 17.
+
+The ability of users to act without revealing their true identity relates to:
+A. Anonymity
+B. Jurisdiction
+C. Tangibility
+D. Storage limitation
+**Answer: A**
+
+### 18.
+
+Data and software lack:
+A. Legal relevance
+B. Physical form
+C. Economic value
+D. Information value
+**Answer: B**
+
+### 19.
+
+A malware attack affecting millions of users almost instantly demonstrates:
+A. Speed and scale
+B. Physicality
+C. Localisation
+D. Paper-based evidence
+**Answer: A**
+
+### 20.
+
+Digital information can be copied or modified without leaving the same physical trace as paper records because of:
+A. Digital duplication
+B. Physical storage
+C. Territoriality
+D. Manual processing
+**Answer: A**
+
+### 21.
+
+A transaction involving a user, server and victim in different countries demonstrates:
+A. Multiplicity of jurisdictions
+B. Storage limitation
+C. Data minimisation
+D. Encryption
+**Answer: A**
+
+### 22.
+
+The UN body that adopted the Model Law on Electronic Commerce in 1996 was:
+A. UNESCO
+B. UNCITRAL
+C. WTO
+D. IMF
+**Answer: B**
+
+### 23.
+
+The UNCITRAL Model Law on Electronic Commerce recommended legal recognition of:
+A. Electronic records and digital signatures
+B. Only paper contracts
+C. Only cryptocurrencies
+D. Only biometric data
+**Answer: A**
+
+### 24.
+
+The GDPR mentioned in the notes came into force in:
+A. 2000
+B. 2008
+C. 2018
+D. 2023
+**Answer: C**
+
+### 25.
+
+Before 2000, India had:
+A. A dedicated cybercrime statute
+B. No dedicated law governing electronic transactions and computer-related offences
+C. The DPDP Act
+D. The IT Act, 2008
+**Answer: B**
+
+### 26.
+
+The Information Technology Act was passed in:
+A. 1996
+B. 2000
+C. 2008
+D. 2017
+**Answer: B**
+
+### 27.
+
+The IT Act, 2000 is Act No.:
+A. 21 of 2000
+B. 43 of 2000
+C. 66 of 2000
+D. 75 of 2000
+**Answer: A**
+
+### 28.
+
+The IT Act received Presidential assent on:
+A. 9 May 2000
+B. 17 October 2000
+C. 15 August 2000
+D. 26 January 2000
+**Answer: A**
+
+### 29.
+
+The IT Act came into force on:
+A. 9 May 2000
+B. 17 October 2000
+C. 1 January 2001
+D. 26 November 2000
+**Answer: B**
+
+### 30.
+
+India's IT Act was influenced by:
+A. UNCITRAL Model Law on Electronic Commerce
+B. GDPR
+C. US Constitution
+D. Geneva Convention
+**Answer: A**
+
+### 31.
+
+The IT Act is described as India's principal legislation for:
+A. Electronic governance
+B. E-commerce
+C. Cybercrime
+D. All of the above
+**Answer: D**
+
+### 32.
+
+One objective of the IT Act is to give legal recognition to:
+A. Electronic transactions
+B. Digital signatures
+C. Electronic filing
+D. All of the above
+**Answer: D**
+
+### 33.
+
+The IT Act facilitates electronic filing with:
+A. Government departments and agencies
+B. Only private companies
+C. Foreign courts only
+D. Banks only
+**Answer: A**
+
+### 34.
+
+The IT Act amended related statutes so that they could recognise:
+A. Electronic records
+B. Physical currency
+C. Social media accounts
+D. Computer games
+**Answer: A**
+
+### 35.
+
+Under Section 75, the IT Act can apply outside India when:
+A. A foreign person owns a phone
+B. The offence involves a computer, system or network located in India
+C. The victim is Indian only
+D. The transaction involves cash
+**Answer: B**
+
+### 36.
+
+The IT Act extends to:
+A. Only Delhi
+B. Only Indian cyberspace
+C. The whole of India
+D. Only government networks
+**Answer: C**
+
+### 37.
+
+Which is excluded from the IT Act's scope according to the notes?
+A. Negotiable instruments other than cheques
+B. Powers of attorney
+C. Trusts
+D. All of the above
+**Answer: D**
+
+### 38.
+
+Which negotiable instrument is specifically mentioned as an exception to the exclusion?
+A. Cheques
+B. Bonds
+C. Shares
+D. Debentures
+**Answer: A**
+
+### 39.
+
+Chapter II of the IT Act deals with:
+A. Digital Signature and Electronic Signature
+B. Cyber offences
+C. Intermediary liability
+D. Duties of subscribers
+**Answer: A**
+
+### 40.
+
+Chapter III deals with:
+A. Electronic Governance
+B. Cyber Appellate Tribunal
+C. Offences
+D. Penalties
+**Answer: A**
+
+### 41.
+
+Chapter IV concerns:
+A. Attribution, acknowledgement and dispatch of electronic records
+B. Cybercrime investigation
+C. Privacy
+D. Data protection
+**Answer: A**
+
+### 42.
+
+Chapter V deals with:
+A. Secure electronic records and secure electronic signatures
+B. Cyber terrorism
+C. Intermediaries
+D. Penalties
+**Answer: A**
+
+### 43.
+
+Chapter VI deals with:
+A. Regulation of Certifying Authorities
+B. Electronic governance
+C. Cybercrime
+D. Privacy
+**Answer: A**
+
+### 44.
+
+Chapter VII concerns:
+A. Electronic Signature Certificates
+B. Cyber Appellate Tribunal
+C. Data protection
+D. Criminal procedure
+**Answer: A**
+
+### 45.
+
+Chapter VIII deals with:
+A. Duties of subscribers
+B. Cyber terrorism
+C. Privacy
+D. E-commerce
+**Answer: A**
+
+### 46.
+
+Chapter IX concerns:
+A. Penalties, compensation and adjudication
+B. Digital signatures
+C. Cybercrime investigation
+D. Data privacy
+**Answer: A**
+
+### 47.
+
+Chapter X concerns:
+A. The Cyber Appellate Tribunal
+B. Electronic records
+C. Certifying Authorities
+D. Cyber ethics
+**Answer: A**
+
+### 48.
+
+Chapter XI concerns:
+A. Offences
+B. Digital signatures
+C. E-governance
+D. Privacy
+**Answer: A**
+
+### 49.
+
+The 2008 amendment introduced:
+A. Electronic signatures
+B. New cybercrime offences
+C. Changes to intermediary liability
+D. All of the above
+**Answer: D**
+
+### 50.
+
+Technology neutrality was promoted by introducing:
+A. Electronic signatures
+B. Paper signatures
+C. Physical certificates
+D. Manual authentication
+**Answer: A**
+
+### 51.
+
+Sections 66A–66F were inserted through:
+A. IT Act 2000
+B. IT Amendment Act 2008
+C. DPDP Act
+D. Evidence Act
+**Answer: B**
+
+### 52.
+
+Section 66C deals with:
+A. Identity theft
+B. Cyber terrorism
+C. Obscenity
+D. Privacy
+**Answer: A**
+
+### 53.
+
+Section 66D deals with:
+A. Cheating by personation using computer resources
+B. Identity theft
+C. Data protection
+D. Cyber stalking
+**Answer: A**
+
+### 54.
+
+Section 66E concerns:
+A. Violation of privacy
+B. Identity theft
+C. Cyber terrorism
+D. Source code
+**Answer: A**
+
+### 55.
+
+Section 66F concerns:
+A. Cyber terrorism
+B. Phishing
+C. Data theft
+D. Obscenity
+**Answer: A**
+
+### 56.
+
+Section 43A deals with:
+A. Corporate responsibility for sensitive personal data
+B. Cyber terrorism
+C. Digital signatures
+D. Cyber Appellate Tribunal
+**Answer: A**
+
+### 57.
+
+Section 79 provides conditional protection to:
+A. Intermediaries
+B. Police officers
+C. Judges
+D. Subscribers only
+**Answer: A**
+
+### 58.
+
+Intermediary safe-harbour protection is conditional upon:
+A. Due diligence
+B. Physical presence
+C. Payment of tax
+D. Government ownership
+**Answer: A**
+
+### 59.
+
+Sections 69, 69A and 69B concern government powers relating to:
+A. Interception, monitoring and blocking/access-related functions
+B. Banking loans
+C. Physical property
+D. Taxation
+**Answer: A**
+
+### 60.
+
+Section 85 concerns:
+A. Corporate responsibility
+B. Digital signatures
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 61.
+
+Section 66A was struck down in:
+A. Shreya Singhal v. Union of India
+B. Puttaswamy case
+C. Trimex case
+D. NASSCOM case
+**Answer: A**
+
+### 62.
+
+Section 66A was struck down by the:
+A. Supreme Court
+B. High Court of Delhi
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 63.
+
+Cyber ethics differs from cyber law because ethics:
+A. Is broader and aspirational
+B. Has no relation to conduct
+C. Replaces legislation
+D. Is always criminal law
+**Answer: A**
+
+### 64.
+
+Cyber law generally establishes:
+A. Minimum enforceable legal standards
+B. Maximum ethical standards
+C. Optional suggestions only
+D. Religious standards
+**Answer: A**
+
+### 65.
+
+Section 4 provides legal recognition to:
+A. Electronic records
+B. Criminal complaints
+C. Cybercrime evidence only
+D. Privacy rights
+**Answer: A**
+
+### 66.
+
+Section 5 provides legal recognition to:
+A. Electronic/digital signatures
+B. Cybercrime complaints
+C. Data breaches
+D. Online advertisements
+**Answer: A**
+
+### 67.
+
+Section 4 applies where a law requires information to be:
+A. In writing or printed form
+B. Spoken only
+C. Handwritten only
+D. Oral only
+**Answer: A**
+
+### 68.
+
+Electronic information must be accessible for:
+A. Subsequent reference
+B. Physical destruction
+C. Government ownership
+D. Printing only
+**Answer: A**
+
+### 69.
+
+Section 5 concerns authentication using:
+A. Digital/electronic signature in the prescribed manner
+B. Password only
+C. OTP only
+D. Voice call only
+**Answer: A**
+
+### 70.
+
+Sections 4 and 5 together support:
+A. Legal recognition of electronic records and signatures
+B. Only cybercrime punishment
+C. Only privacy
+D. Only taxation
+**Answer: A**
+
+---
+
+# UNIT II — Digital Signatures, Electronic Signatures & Certifying Authorities
+
+### 71.
+
+A digital signature primarily authenticates:
+A. The identity of the sender and integrity of the record
+B. The physical location of a computer
+C. Internet speed
+D. File size
+**Answer: A**
+
+### 72.
+
+A digital signature is generated through:
+A. Cryptographic computation
+B. Scanning only
+C. Typing a name
+D. Printing
+**Answer: A**
+
+### 73.
+
+Digital signatures rely on:
+A. Symmetric cryptography only
+B. Asymmetric cryptography
+C. No cryptography
+D. Physical signatures
+**Answer: B**
+
+### 74.
+
+In asymmetric cryptography, each user has:
+A. One key
+B. A private and public key pair
+C. Three passwords
+D. Two identical passwords
+**Answer: B**
+
+### 75.
+
+The private key is:
+A. Known only to the owner
+B. Publicly shared
+C. Published by the CA
+D. Stored by every recipient
+**Answer: A**
+
+### 76.
+
+The public key:
+A. May be freely shared
+B. Must always remain secret
+C. Is never distributed
+D. Is destroyed after signing
+**Answer: A**
+
+### 77.
+
+A hash function converts a record into:
+A. A fixed-length hash value/message digest
+B. A password
+C. A certificate
+D. A public key
+**Answer: A**
+
+### 78.
+
+A hash function is described as:
+A. One-way
+B. Two-way encryption
+C. Physical
+D. Manual
+**Answer: A**
+
+### 79.
+
+The message digest is encrypted using the sender's:
+A. Public key
+B. Private key
+C. CA's key
+D. Recipient's private key
+**Answer: B**
+
+### 80.
+
+The encrypted message digest forms the:
+A. Digital signature
+B. Digital certificate
+C. Public key
+D. Repository
+**Answer: A**
+
+### 81.
+
+The digital signature is transmitted with:
+A. The original electronic record
+B. Only the public key
+C. Only the hash
+D. The CA licence
+**Answer: A**
+
+### 82.
+
+The recipient independently computes:
+A. A fresh hash value
+B. A new private key
+C. A new certificate
+D. A new CA licence
+**Answer: A**
+
+### 83.
+
+The recipient decrypts the digital signature using:
+A. Sender's public key
+B. Sender's private key
+C. Recipient's private key
+D. CA's private key
+**Answer: A**
+
+### 84.
+
+If the two message digests match:
+A. The signature is valid
+B. The certificate is automatically revoked
+C. The record is deleted
+D. The sender is anonymous
+**Answer: A**
+
+### 85.
+
+Matching digests help establish:
+A. Authentication and integrity
+B. Only confidentiality
+C. Only availability
+D. Physical ownership
+**Answer: A**
+
+### 86.
+
+A change of even one character in a document can:
+A. Produce a different message digest
+B. Leave the digest necessarily unchanged
+C. Delete the public key
+D. Revoke the CA
+**Answer: A**
+
+### 87.
+
+Electronic signature is:
+A. Broader than digital signature
+B. Narrower than digital signature
+C. Unrelated to authentication
+D. Only handwritten
+**Answer: A**
+
+### 88.
+
+Electronic signature was introduced as a broader category through:
+A. 2008 amendment
+B. 1996 amendment
+C. 2017 amendment
+D. DPDP Act
+**Answer: A**
+
+### 89.
+
+Section 3 primarily concerns:
+A. Digital signature authentication
+B. Cyber terrorism
+C. Data breach
+D. Privacy
+**Answer: A**
+
+### 90.
+
+Section 3A concerns:
+A. Authentication through electronic signatures using reliable techniques
+B. Cyber terrorism
+C. Identity theft
+D. Compensation
+**Answer: A**
+
+### 91.
+
+Which is an example of a technology-neutral electronic authentication technique mentioned?
+A. Biometrics
+B. Paper stamp
+C. Postal letter
+D. Physical seal only
+**Answer: A**
+
+### 92.
+
+Aadhaar-based e-signature services are mentioned as an example of:
+A. Electronic signature technology
+B. Physical signature
+C. Cybercrime
+D. Data theft
+**Answer: A**
+
+### 93.
+
+PKI stands for:
+A. Public Key Infrastructure
+B. Private Key Information
+C. Public Knowledge Interface
+D. Personal Key Infrastructure
+**Answer: A**
+
+### 94.
+
+PKI helps establish trust between:
+A. A public key and its owner
+B. Two physical computers only
+C. Two passwords
+D. Two websites
+**Answer: A**
+
+### 95.
+
+Which is a component of PKI?
+A. Certifying Authority
+B. Registration Authority
+C. Repository
+D. All of the above
+**Answer: D**
+
+### 96.
+
+A Certifying Authority primarily:
+A. Issues, manages and revokes Digital Signature Certificates
+B. Investigates all cybercrimes
+C. Creates criminal law
+D. Operates courts
+**Answer: A**
+
+### 97.
+
+A Registration Authority primarily:
+A. Verifies applicants' identities on behalf of a CA
+B. Creates laws
+C. Conducts criminal trials
+D. Issues court orders
+**Answer: A**
+
+### 98.
+
+A Digital Signature Certificate binds:
+A. A public key to the identity of a subscriber
+B. A password to a computer
+C. A computer to an IP address only
+D. A website to a browser
+**Answer: A**
+
+### 99.
+
+A Certificate Revocation List is commonly abbreviated:
+A. CRL
+B. CA
+C. RA
+D. DSC
+**Answer: A**
+
+### 100.
+
+A CRL contains certificates that:
+A. Have been suspended or revoked before expiry
+B. Have never been issued
+C. Are being created
+D. Are only expired naturally
+**Answer: A**
+
+### 101.
+
+The subscriber is:
+A. The individual or organisation in whose name the DSC is issued
+B. The CA regulator
+C. The court
+D. The police officer
+**Answer: A**
+
+### 102.
+
+India's PKI trust model is:
+A. Hierarchical
+B. Completely random
+C. Decentralised without a root
+D. Paper-based
+**Answer: A**
+
+### 103.
+
+At the top of India's PKI hierarchy is:
+A. CCA
+B. RA
+C. Subscriber
+D. Police
+**Answer: A**
+
+### 104.
+
+CCA stands for:
+A. Controller of Certifying Authorities
+B. Central Cyber Authority
+C. Computer Certification Agency
+D. Cyber Crime Authority
+**Answer: A**
+
+### 105.
+
+The CCA acts as:
+A. Apex authority in India's PKI hierarchy
+B. A private subscriber
+C. A criminal court
+D. An intermediary
+**Answer: A**
+
+### 106.
+
+The CCA issues a:
+A. Self-signed root certificate
+B. Criminal warrant
+C. DSC to every individual
+D. Police certificate
+**Answer: A**
+
+### 107.
+
+Licensed CAs issue:
+A. Digital Signature Certificates to subscribers
+B. Criminal judgments
+C. FIRs
+D. Court warrants
+**Answer: A**
+
+### 108.
+
+The trust chain in PKI begins with trust in:
+A. The CCA
+B. The subscriber
+C. The browser
+D. The police
+**Answer: A**
+
+### 109.
+
+A Certifying Authority in India requires:
+A. A licence
+B. A criminal conviction
+C. A court order in every case
+D. A parliamentary seat
+**Answer: A**
+
+### 110.
+
+CA licensing falls under:
+A. Chapter VI
+B. Chapter I
+C. Chapter XI
+D. Chapter X
+**Answer: A**
+
+### 111.
+
+Sections 21–34 primarily relate to:
+A. Certifying Authorities
+B. Cyber terrorism
+C. Privacy
+D. Criminal trials
+**Answer: A**
+
+### 112.
+
+A CA must verify:
+A. Identity of applicants
+B. Political affiliation
+C. Academic marks
+D. Religion
+**Answer: A**
+
+### 113.
+
+Under Section 37, a CA may:
+A. Suspend a DSC
+B. Issue criminal punishment
+C. Arrest a subscriber
+D. Pass a judicial decree
+**Answer: A**
+
+### 114.
+
+Section 38 concerns:
+A. Revocation of DSC
+B. Electronic governance
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 115.
+
+A CA must publish notice of suspension/revocation in:
+A. The specified repository
+B. Newspaper only
+C. Police station
+D. Parliament
+**Answer: A**
+
+### 116.
+
+A stolen private key may lead to:
+A. Suspension/revocation of the related certificate
+B. Automatic creation of a new CA
+C. No legal consequence
+D. Cancellation of the IT Act
+**Answer: A**
+
+### 117.
+
+The CCA is established under:
+A. Section 17
+B. Section 43
+C. Section 66
+D. Section 72
+**Answer: A**
+
+### 118.
+
+The functions of the Controller are listed in:
+A. Section 18
+B. Section 19
+C. Section 43
+D. Section 65
+**Answer: A**
+
+### 119.
+
+The Controller supervises:
+A. Certifying Authorities
+B. Courts
+C. Parliament
+D. Internet users generally
+**Answer: A**
+
+### 120.
+
+The Controller may specify:
+A. Standards for CAs
+B. School curriculum
+C. Criminal sentencing generally
+D. Bank interest rates
+**Answer: A**
+
+### 121.
+
+The Controller may recognise:
+A. Foreign Certifying Authorities
+B. Foreign courts
+C. Foreign police stations
+D. Foreign universities
+**Answer: A**
+
+### 122.
+
+Section 27 concerns:
+A. Delegation of powers
+B. Cyber terrorism
+C. Privacy
+D. Data theft
+**Answer: A**
+
+### 123.
+
+Section 28 concerns:
+A. Investigation of contraventions
+B. Digital signatures only
+C. Privacy rights
+D. E-commerce
+**Answer: A**
+
+### 124.
+
+Section 29 allows access to computers/data/equipment of a CA for:
+A. Investigation, search or examination
+B. Entertainment
+C. Advertising
+D. Tax collection only
+**Answer: A**
+
+### 125.
+
+A CA licence application under Section 22 includes:
+A. Certification practice statement
+B. Identity particulars
+C. Prescribed fee
+D. All of the above
+**Answer: D**
+
+### 126.
+
+The Controller may reject a CA licence application after:
+A. Giving reasonable opportunity of being heard
+B. Immediate arrest
+C. No process
+D. Criminal conviction
+**Answer: A**
+
+### 127.
+
+A licence may be revoked for:
+A. False statement in the application
+B. Failure to comply with licence conditions
+C. Contravention of the Act
+D. All of the above
+**Answer: D**
+
+### 128.
+
+Suspension of a certificate is generally:
+A. Temporary
+B. Permanent
+C. Impossible
+D. Criminal conviction
+**Answer: A**
+
+### 129.
+
+Revocation of a certificate is generally:
+A. Permanent
+B. Temporary
+C. Optional only
+D. Informal
+**Answer: A**
+
+### 130.
+
+The subscriber must exercise reasonable care to:
+A. Retain control of the private key
+B. Publish the private key
+C. Share the private key
+D. Destroy the public key
+**Answer: A**
+
+### 131.
+
+Section 42 concerns the subscriber's duty regarding:
+A. Private key control
+B. CA licensing
+C. Cybercrime investigation
+D. Privacy
+**Answer: A**
+
+### 132.
+
+A secure electronic record is one to which:
+A. A security procedure has been applied
+B. A password has merely been added
+C. A paper signature is attached
+D. A CA licence is attached
+**Answer: A**
+
+### 133.
+
+Section 14 concerns:
+A. Secure electronic records
+B. Identity theft
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 134.
+
+Section 15 concerns:
+A. Secure digital/electronic signatures
+B. Cyber fraud
+C. Adjudication
+D. Data breaches
+**Answer: A**
+
+### 135.
+
+Section 16 empowers the Central Government to prescribe:
+A. Security procedures and practices
+B. Criminal sentences
+C. Police ranks
+D. Tax rates
+**Answer: A**
+
+### 136.
+
+Section 85B of the Evidence Act creates presumptions concerning:
+A. Secure electronic records/signatures
+B. Physical property
+C. Bank accounts
+D. Cybercrime FIRs
+**Answer: A**
+
+### 137.
+
+In PR Transport Agency, the communication involved:
+A. Email acceptance of an e-auction bid
+B. A physical cheque
+C. A biometric transaction
+D. A cryptocurrency transaction
+**Answer: A**
+
+### 138.
+
+PR Transport Agency v. Union of India was decided by:
+A. Allahabad High Court
+B. Supreme Court
+C. Delhi High Court
+D. Gujarat High Court
+**Answer: A**
+
+### 139.
+
+The PR Transport Agency case recognised:
+A. Legal significance of email communication
+B. Cyber terrorism
+C. Data minimisation
+D. Privacy as a fundamental right
+**Answer: A**
+
+### 140.
+
+Trimex International FZE Ltd v. Vedanta Aluminium Ltd was decided by:
+A. Supreme Court of India
+B. Delhi High Court
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 141.
+
+Trimex recognised the validity of a contract formed through:
+A. Exchange of emails
+B. Telephone only
+C. Social media likes
+D. Handwritten notes only
+**Answer: A**
+
+### 142.
+
+According to Trimex, a physically signed paper document is:
+A. Not necessarily a precondition for a valid contract
+B. Always mandatory
+C. Always illegal
+D. Required under Section 66F
+**Answer: A**
+
+### 143.
+
+The main purpose of a hash function in digital signatures is to:
+A. Create a message digest for integrity verification
+B. Generate physical documents
+C. Issue CA licences
+D. Encrypt the entire Internet
+**Answer: A**
+
+### 144.
+
+Digital signatures provide evidence of:
+A. Authentication and integrity
+B. Physical location only
+C. Ownership of hardware
+D. Internet speed
+**Answer: A**
+
+### 145.
+
+PKI's main function is to establish:
+A. Trust between public keys and their owners
+B. Physical ownership of computers
+C. Criminal liability
+D. Court jurisdiction
+**Answer: A**
+
+---
+
+# UNIT III — Cyber Crimes, Investigation & Forensics
+
+### 146.
+
+Cybercrime involves an unlawful act where a computer may be:
+A. The tool
+B. The target
+C. Both
+D. All of the above
+**Answer: D**
+
+### 147.
+
+The IT Act does not use “cybercrime” as:
+A. A defined term
+B. A concept
+C. A general description
+D. A topic
+**Answer: A**
+
+### 148.
+
+Cybercrimes can broadly be classified based on whether the computer is:
+A. Target or instrument
+B. Old or new
+C. Public or private
+D. Local or foreign
+**Answer: A**
+
+### 149.
+
+Hacking is an example where the computer is primarily:
+A. The target
+B. The instrument only
+C. The witness
+D. The regulator
+**Answer: A**
+
+### 150.
+
+Online fraud is primarily an example where the computer is:
+A. The instrument
+B. The victim
+C. The court
+D. The regulator
+**Answer: A**
+
+### 151.
+
+The IT Act provision primarily associated with civil liability for unauthorised access is:
+A. Section 43
+B. Section 66
+C. Section 72
+D. Section 85
+**Answer: A**
+
+### 152.
+
+Section 66 applies when acts covered by Section 43 are done:
+A. Dishonestly or fraudulently
+B. Accidentally only
+C. With government permission
+D. By a CA
+**Answer: A**
+
+### 153.
+
+Section 43 provides:
+A. Civil compensation
+B. Only imprisonment
+C. Only warnings
+D. Constitutional remedies
+**Answer: A**
+
+### 154.
+
+Unauthorised downloading or copying of data falls under:
+A. Section 43
+B. Section 17
+C. Section 72
+D. Section 79
+**Answer: A**
+
+### 155.
+
+Introducing a computer contaminant or virus is covered under:
+A. Section 43
+B. Section 5
+C. Section 72A
+D. Section 62
+**Answer: A**
+
+### 156.
+
+A denial-of-service attack is reflected in Section:
+A. 43
+B. 66C
+C. 72
+D. 85
+**Answer: A**
+
+### 157.
+
+Charging services used by one person to another person's account by tampering with a computer system is covered under:
+A. Section 43
+B. Section 3A
+C. Section 17
+D. Section 62
+**Answer: A**
+
+### 158.
+
+Stealing or altering computer source code with intent to cause damage is covered under:
+A. Section 43
+B. Section 72A
+C. Section 79
+D. Section 17
+**Answer: A**
+
+### 159.
+
+The compensation under Section 43 is described as:
+A. Having no upper monetary limit
+B. Fixed at ₹1 lakh
+C. Fixed at ₹5 lakh
+D. Unavailable
+**Answer: A**
+
+### 160.
+
+Section 66 can provide:
+A. Criminal liability
+B. Civil liability only
+C. Administrative guidance only
+D. No liability
+**Answer: A**
+
+### 161.
+
+The Pune call-centre fraud case involved:
+A. Misuse of customer PINs/account details
+B. Cyber terrorism
+C. Privacy litigation only
+D. CA licensing
+**Answer: A**
+
+### 162.
+
+Data theft involves:
+A. Unauthorised copying, extraction or transfer of data
+B. Physical theft of a computer only
+C. Legal copying
+D. Data backup by the owner
+**Answer: A**
+
+### 163.
+
+Data theft differs from physical property theft because:
+A. The original data may remain with the owner
+B. Data always disappears
+C. Data has physical form
+D. Data cannot be copied
+**Answer: A**
+
+### 164.
+
+Section 43(4) concerns:
+A. Downloading, copying or extracting data without permission
+B. Privacy
+C. Cyber terrorism
+D. CA licensing
+**Answer: A**
+
+### 165.
+
+Section 43A deals with:
+A. Negligence in protecting sensitive personal data
+B. Digital signatures
+C. Cyber terrorism
+D. Phishing only
+**Answer: A**
+
+### 166.
+
+Identity theft is specifically penalised under:
+A. Section 66C
+B. Section 66F
+C. Section 72
+D. Section 79
+**Answer: A**
+
+### 167.
+
+Identity theft involves fraudulent use of another person's:
+A. Password
+B. Electronic signature
+C. Unique identification feature
+D. All of the above
+**Answer: D**
+
+### 168.
+
+Identity theft may involve misuse of:
+A. Biometric data
+B. Passwords
+C. Electronic signatures
+D. All of the above
+**Answer: D**
+
+### 169.
+
+Section 66D concerns:
+A. Cheating by personation using computer resources
+B. Identity theft
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 170.
+
+An offender pretending to be a bank official online to obtain money illustrates:
+A. Cheating by personation
+B. Secure electronic record
+C. CA licensing
+D. Data minimisation
+**Answer: A**
+
+### 171.
+
+The Sony Sambandh case involved:
+A. Stolen credit-card information
+B. Cyber terrorism
+C. CA licensing
+D. Government surveillance
+**Answer: A**
+
+### 172.
+
+The Sony Sambandh case is associated with:
+A. Online credit-card fraud
+B. Privacy as a fundamental right
+C. Digital signature certificates
+D. TDSAT
+**Answer: A**
+
+### 173.
+
+Phishing involves:
+A. Fraudulently acquiring sensitive information by impersonating a trustworthy entity
+B. Physical theft
+C. Data backup
+D. Legal authentication
+**Answer: A**
+
+### 174.
+
+Phishing commonly targets:
+A. Usernames and passwords
+B. PINs
+C. Credit-card details
+D. All of the above
+**Answer: D**
+
+### 175.
+
+A spoofed bank website is an example of:
+A. Phishing
+B. Cyber forensics
+C. PKI
+D. Adjudication
+**Answer: A**
+
+### 176.
+
+Phishing is:
+A. Not separately named as an offence in the IT Act
+B. The only offence under Section 66F
+C. A form of physical theft
+D. A CA function
+**Answer: A**
+
+### 177.
+
+Phishing may involve:
+A. Sections 43, 66, 66C and 66D
+B. Only Section 17
+C. Only Section 72
+D. Only Section 85
+**Answer: A**
+
+### 178.
+
+NASSCOM v. Ajay Sood was decided by:
+A. Delhi High Court
+B. Supreme Court
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 179.
+
+The NASSCOM/Ajay Sood case is associated with:
+A. Phishing
+B. Cyber terrorism
+C. CA licensing
+D. Data localisation
+**Answer: A**
+
+### 180.
+
+Cyber stalking involves:
+A. Persistent online harassment or monitoring
+B. Only physical stalking
+C. CA activities
+D. Data encryption
+**Answer: A**
+
+### 181.
+
+Cyber stalking may involve:
+A. Harassment
+B. Threats
+C. Monitoring online activity
+D. All of the above
+**Answer: D**
+
+### 182.
+
+Section 66E specifically deals with:
+A. Violation of privacy
+B. Identity theft
+C. Cyber terrorism
+D. Cyber fraud
+**Answer: A**
+
+### 183.
+
+Section 66E concerns unauthorised capture/publication/transmission of:
+A. Images of private areas
+B. Public advertisements
+C. Court judgments
+D. CA certificates
+**Answer: A**
+
+### 184.
+
+The Ritu Kohli case is associated with:
+A. Cyber stalking
+B. Digital signatures
+C. Phishing
+D. Data protection
+**Answer: A**
+
+### 185.
+
+The Ritu Kohli case occurred in:
+A. 2001
+B. 2008
+C. 2015
+D. 2023
+**Answer: A**
+
+### 186.
+
+Cyber terrorism is addressed under:
+A. Section 66F
+B. Section 66C
+C. Section 72
+D. Section 43A
+**Answer: A**
+
+### 187.
+
+Cyber terrorism may involve threats to:
+A. Sovereignty
+B. Integrity
+C. Security of India
+D. All of the above
+**Answer: D**
+
+### 188.
+
+Cyber terrorism can involve:
+A. Unauthorised access to computer resources
+B. Introducing computer contaminants
+C. Disruption of critical infrastructure
+D. All of the above
+**Answer: D**
+
+### 189.
+
+Cyber terrorism carries:
+A. The harshest punishment under the IT Act
+B. No punishment
+C. Only civil compensation
+D. Only a warning
+**Answer: A**
+
+### 190.
+
+The punishment for cyber terrorism may extend to:
+A. Imprisonment for life
+B. Six months only
+C. One year only
+D. Fine only
+**Answer: A**
+
+### 191.
+
+Which is a computer-related offence?
+A. Tampering with computer source documents
+B. Identity theft
+C. Cyber terrorism
+D. All of the above
+**Answer: D**
+
+### 192.
+
+Cybercrime investigation is difficult because digital evidence is:
+A. Intangible and easily altered
+B. Always physical
+C. Impossible to copy
+D. Never transferable
+**Answer: A**
+
+### 193.
+
+Section 78 deals with:
+A. Investigation of offences under the IT Act
+B. Digital signatures
+C. Privacy
+D. CA licensing
+**Answer: A**
+
+### 194.
+
+Under the notes, offences under the IT Act can be investigated by a police officer not below the rank of:
+A. Inspector
+B. Constable
+C. Sub-Inspector
+D. Head Constable
+**Answer: A**
+
+### 195.
+
+Forensic imaging involves creating:
+A. A bit-for-bit copy of storage media
+B. A handwritten copy
+C. A screenshot only
+D. A printed report only
+**Answer: A**
+
+### 196.
+
+Investigators calculate hash values for:
+A. Original and forensic copy
+B. Only the suspect
+C. Only the police report
+D. Only the computer screen
+**Answer: A**
+
+### 197.
+
+Identical hash values demonstrate that:
+A. The copy is a faithful, unaltered replica
+B. The suspect is guilty
+C. The computer is infected
+D. The file is encrypted
+**Answer: A**
+
+### 198.
+
+Section 65B concerns:
+A. Electronic evidence certification
+B. Cyber terrorism
+C. Identity theft
+D. CA licensing
+**Answer: A**
+
+### 199.
+
+A Section 65B certificate generally identifies:
+A. The electronic record
+B. How it was produced
+C. Proper functioning of the device
+D. All of the above
+**Answer: D**
+
+### 200.
+
+Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal concerned:
+A. Electronic evidence certification
+B. Cyber terrorism
+C. Digital signatures
+D. Privacy
+**Answer: A**
+
+### 201.
+
+The Arjun Panditrao case was decided by:
+A. Supreme Court of India
+B. Delhi High Court
+C. TDSAT
+D. Allahabad High Court
+**Answer: A**
+
+### 202.
+
+A major principle from Arjun Panditrao is the importance of:
+A. Section 65B certification
+B. Section 66F
+C. Section 43A
+D. Section 79
+**Answer: A**
+
+### 203.
+
+Chain of custody means:
+A. Documented record of who collected, transferred and analysed evidence
+B. Password management
+C. Internet routing
+D. CA licensing
+**Answer: A**
+
+### 204.
+
+A gap in chain of custody may:
+A. Be used to challenge authenticity of evidence
+B. Automatically prove guilt
+C. Increase the evidence's value
+D. Have no significance
+**Answer: A**
+
+### 205.
+
+Cyber forensics involves:
+A. Identification
+B. Preservation/acquisition
+C. Examination/analysis
+D. All of the above
+**Answer: D**
+
+### 206.
+
+Forensic examination should generally be conducted on:
+A. A verified forensic copy
+B. The original media
+C. A random computer
+D. A screenshot
+**Answer: A**
+
+### 207.
+
+Forensic analysis should be:
+A. Repeatable and verifiable
+B. Secret and undocumented
+C. Irreproducible
+D. Informal
+**Answer: A**
+
+### 208.
+
+Which is a forensic tool mentioned in the notes?
+A. EnCase
+B. FTK
+C. Autopsy
+D. All of the above
+**Answer: D**
+
+### 209.
+
+The Indian Cyber Crime Coordination Centre is abbreviated:
+A. I4C
+B. ICC
+C. IC3
+D. CCA
+**Answer: A**
+
+### 210.
+
+I4C operates under:
+A. Ministry of Home Affairs
+B. Ministry of Finance
+C. Ministry of Education
+D. Ministry of Law only
+**Answer: A**
+
+### 211.
+
+CERT-In primarily deals with:
+A. Computer security incidents
+B. Criminal trials
+C. CA licensing
+D. Civil compensation
+**Answer: A**
+
+### 212.
+
+CERT-In functions under:
+A. Ministry of Electronics and Information Technology
+B. Ministry of Home Affairs
+C. Ministry of Finance
+D. Ministry of Defence
+**Answer: A**
+
+### 213.
+
+NCIIPC primarily protects:
+A. Critical information infrastructure
+B. School computers
+C. Individual passwords only
+D. Paper records
+**Answer: A**
+
+### 214.
+
+CBI Cyber Crime Division may investigate:
+A. Interstate/international cybercrime
+B. Only local password theft
+C. Only civil cases
+D. Only CA licensing
+**Answer: A**
+
+### 215.
+
+NIA may handle:
+A. Cyber-terrorism cases
+B. Only e-commerce disputes
+C. CA licence applications
+D. Digital certificates
+**Answer: A**
+
+---
+
+# UNIT IV — Damages, Penalties & Adjudication
+
+### 216.
+
+Chapter IX creates a:
+A. Civil compensation framework
+B. Digital signature framework only
+C. Privacy framework only
+D. PKI framework
+**Answer: A**
+
+### 217.
+
+Section 43 creates:
+A. Civil liability
+B. Only criminal liability
+C. Constitutional liability
+D. No liability
+**Answer: A**
+
+### 218.
+
+Section 66 creates:
+A. Criminal liability for certain Section 43 acts done dishonestly/fraudulently
+B. Only civil compensation
+C. CA licensing
+D. Privacy rights
+**Answer: A**
+
+### 219.
+
+Civil liability under Section 43 does not require proof of:
+A. Dishonest or fraudulent intent
+B. Access
+C. Damage
+D. Loss
+**Answer: A**
+
+### 220.
+
+The standard mentioned for adjudicating civil compensation is:
+A. Balance of probabilities
+B. Beyond reasonable doubt
+C. Absolute certainty
+D. No evidence
+**Answer: A**
+
+### 221.
+
+Criminal prosecution generally requires proof:
+A. Beyond reasonable doubt
+B. Balance of probabilities
+C. Mere suspicion
+D. No evidence
+**Answer: A**
+
+### 222.
+
+Section 43 covers:
+A. Unauthorised access
+B. Damage
+C. Disruption
+D. All of the above
+**Answer: D**
+
+### 223.
+
+A computer contaminant is defined as instructions designed to:
+A. Modify, destroy, record, transmit data or usurp normal operation
+B. Only print documents
+C. Only create passwords
+D. Only browse websites
+**Answer: A**
+
+### 224.
+
+Examples of computer contaminants mentioned include:
+A. Viruses
+B. Worms
+C. Trojans
+D. All of the above
+**Answer: D**
+
+### 225.
+
+Section 46 deals with:
+A. Power to adjudicate
+B. Cyber terrorism
+C. Privacy
+D. Digital signatures
+**Answer: A**
+
+### 226.
+
+An Adjudicating Officer is appointed by:
+A. Central Government
+B. Supreme Court
+C. CA
+D. Police station
+**Answer: A**
+
+### 227.
+
+The Adjudicating Officer must be not below the rank of:
+A. Director to the Government of India or equivalent State officer
+B. Inspector
+C. Constable
+D. Clerk
+**Answer: A**
+
+### 228.
+
+The pecuniary jurisdiction of the Adjudicating Officer mentioned in the notes is up to:
+A. ₹5 crore
+B. ₹50 lakh
+C. ₹1 crore
+D. ₹10 crore
+**Answer: A**
+
+### 229.
+
+Claims exceeding the AO's pecuniary jurisdiction go to:
+A. Competent court
+B. Police station
+C. CA
+D. CCA
+**Answer: A**
+
+### 230.
+
+The Adjudicating Officer possesses powers of:
+A. A civil court
+B. Parliament
+C. Police inspector
+D. CA
+**Answer: A**
+
+### 231.
+
+Section 47 specifies factors for determining:
+A. Compensation or penalty
+B. Digital signature validity
+C. Cyber terrorism
+D. CA licensing
+**Answer: A**
+
+### 232.
+
+One Section 47 factor is:
+A. Unfair advantage gained by the offender
+B. Victim's age only
+C. Offender's education
+D. Internet speed
+**Answer: A**
+
+### 233.
+
+Another Section 47 factor is:
+A. Loss caused to a person
+B. Computer brand
+C. Location of the server only
+D. Type of operating system
+**Answer: A**
+
+### 234.
+
+A third Section 47 factor is:
+A. Repetitive nature of the default
+B. Political status
+C. Age of computer
+D. Internet provider
+**Answer: A**
+
+### 235.
+
+Section 44 concerns:
+A. Failure to furnish documents, returns or reports
+B. Cyber terrorism
+C. Identity theft
+D. Digital signatures
+**Answer: A**
+
+### 236.
+
+Section 45 provides:
+A. Residuary penalty
+B. Cyber terrorism punishment
+C. Privacy rights
+D. CA licensing
+**Answer: A**
+
+### 237.
+
+Sections 43–45 are primarily:
+A. Civil/contravention provisions
+B. Criminal offences only
+C. Constitutional provisions
+D. International treaties
+**Answer: A**
+
+### 238.
+
+Chapter XI offences are:
+A. Criminal in nature
+B. Purely civil
+C. Administrative only
+D. Ethical only
+**Answer: A**
+
+### 239.
+
+Section 43A concerns:
+A. Compensation for failure to protect sensitive personal data
+B. Cyber terrorism
+C. Digital signatures
+D. Appellate jurisdiction
+**Answer: A**
+
+### 240.
+
+Section 43A was inserted by:
+A. IT Amendment Act 2008
+B. IT Act 2000 original text
+C. DPDP Act 2023
+D. GDPR
+**Answer: A**
+
+### 241.
+
+Section 43A applies to:
+A. Body corporates
+B. Only courts
+C. Only police
+D. Only individual hackers
+**Answer: A**
+
+### 242.
+
+A body corporate may be liable under Section 43A when it is negligent in:
+A. Implementing reasonable security practices
+B. Issuing passports
+C. Conducting elections
+D. Issuing CA licences
+**Answer: A**
+
+### 243.
+
+Section 43A applies to:
+A. Sensitive personal data or information
+B. Only public information
+C. Only paper documents
+D. Only government secrets
+**Answer: A**
+
+### 244.
+
+Examples of sensitive personal data include:
+A. Passwords
+B. Financial information
+C. Health information
+D. All of the above
+**Answer: D**
+
+### 245.
+
+Sensitive personal data may include:
+A. Biometric information
+B. Medical records
+C. Sexual orientation
+D. All of the above
+**Answer: D**
+
+### 246.
+
+Reasonable security practices are intended to protect against:
+A. Unauthorised access
+B. Damage
+C. Disclosure
+D. All of the above
+**Answer: D**
+
+### 247.
+
+The notes identify ISO/IEC:
+A. 27001
+B. 9001
+C. 14001
+D. 31000
+**Answer: A**
+
+### 248.
+
+An organisation may demonstrate reasonable security practices through:
+A. A documented information security programme and policy
+B. No policy
+C. Verbal assurances only
+D. A newspaper advertisement
+**Answer: A**
+
+### 249.
+
+An Adjudicating Officer may:
+A. Hear parties
+B. Receive evidence
+C. Pass a reasoned order
+D. All of the above
+**Answer: D**
+
+### 250.
+
+Section 61 limits the jurisdiction of:
+A. Ordinary civil courts in matters assigned to the AO/Appellate Tribunal
+B. Criminal courts generally
+C. Supreme Court
+D. Parliament
+**Answer: A**
+
+### 251.
+
+The Cyber Appellate Tribunal was established under:
+A. Chapter X
+B. Chapter I
+C. Chapter V
+D. Chapter XI
+**Answer: A**
+
+### 252.
+
+The Cyber Appellate Tribunal was merged with:
+A. TDSAT
+B. CBI
+C. NIA
+D. CERT-In
+**Answer: A**
+
+### 253.
+
+The merger occurred through:
+A. Finance Act, 2017
+B. IT Act, 2000
+C. IT Amendment Act, 2008
+D. DPDP Act
+**Answer: A**
+
+### 254.
+
+TDSAT stands for:
+A. Telecom Disputes Settlement and Appellate Tribunal
+B. Technology Data Security Appellate Tribunal
+C. Telecom Data Security Authority Tribunal
+D. Technical Dispute Settlement Authority Tribunal
+**Answer: A**
+
+### 255.
+
+After the merger, appeals previously handled by the Cyber Appellate Tribunal go to:
+A. TDSAT
+B. CCA
+C. AO only
+D. CERT-In
+**Answer: A**
+
+### 256.
+
+An appeal from TDSAT under Section 62 may go to:
+A. Jurisdictional High Court
+B. Police station
+C. CA
+D. Adjudicating Officer
+**Answer: A**
+
+### 257.
+
+The time mentioned for appeal to the High Court is:
+A. 60 days
+B. 30 days
+C. 15 days
+D. 90 days
+**Answer: A**
+
+### 258.
+
+An appeal under Section 62 may involve:
+A. Question of fact or law
+B. Only criminal guilt
+C. Only tax matters
+D. Only CA licensing
+**Answer: A**
+
+### 259.
+
+The notes identify a concern regarding the merger because:
+A. Telecom and IT require somewhat distinct technical expertise
+B. Cyber law disappeared
+C. IT Act was repealed
+D. TDSAT became a police agency
+**Answer: A**
+
+### 260.
+
+A proposed solution to the expertise concern is:
+A. Dedicated bench or members with cyber-law/technology background
+B. Abolishing TDSAT
+C. Abolishing cyber law
+D. Removing appeals
+**Answer: A**
+
+---
+
+# UNIT V — Confidentiality, Privacy & Data Protection
+
+### 261.
+
+The Supreme Court recognised privacy as a fundamental right in:
+A. Justice K.S. Puttaswamy v. Union of India
+B. Shreya Singhal
+C. Trimex
+D. NASSCOM
+**Answer: A**
+
+### 262.
+
+The Puttaswamy judgment was delivered in:
+A. 2017
+B. 2008
+C. 2000
+D. 2023
+**Answer: A**
+
+### 263.
+
+The right to privacy was linked to:
+A. Article 21
+B. Article 14 only
+C. Article 32 only
+D. Article 19 only
+**Answer: A**
+
+### 264.
+
+Puttaswamy recognised:
+A. Informational privacy
+B. Only physical privacy
+C. Only property rights
+D. Only commercial privacy
+**Answer: A**
+
+### 265.
+
+The proportionality test mentioned in the notes requires:
+A. Legal basis
+B. Legitimate State aim
+C. Proportionality
+D. All of the above
+**Answer: D**
+
+### 266.
+
+The IT Act provisions particularly relevant to confidentiality/privacy include:
+A. Sections 72 and 72A
+B. Sections 3 and 4 only
+C. Sections 17 and 18 only
+D. Sections 61 and 62 only
+**Answer: A**
+
+### 267.
+
+Section 72 concerns:
+A. Breach of confidentiality and privacy
+B. Cyber terrorism
+C. Identity theft
+D. Data theft
+**Answer: A**
+
+### 268.
+
+Section 72 primarily applies to persons who obtained access through:
+A. Powers conferred under the IT Act
+B. Ordinary employment only
+C. Private friendship
+D. Social media
+**Answer: A**
+
+### 269.
+
+Section 72 penalises:
+A. Unauthorised disclosure of information obtained under statutory powers
+B. Phishing
+C. Identity theft
+D. Cyber terrorism
+**Answer: A**
+
+### 270.
+
+The maximum imprisonment mentioned for Section 72 is:
+A. Two years
+B. Three years
+C. Five years
+D. Life imprisonment
+**Answer: A**
+
+### 271.
+
+Section 72A was inserted by:
+A. IT Amendment Act 2008
+B. IT Act 2000
+C. DPDP Act 2023
+D. Finance Act 2017
+**Answer: A**
+
+### 272.
+
+Section 72A primarily addresses disclosure by:
+A. Service providers acting under a lawful contract
+B. Only judges
+C. Only police officers
+D. Only CAs
+**Answer: A**
+
+### 273.
+
+Section 72A requires disclosure to be:
+A. Without consent and in breach of lawful contract, with wrongful gain/loss intent or knowledge
+B. Always authorised
+C. Required by a CA
+D. Accidental only
+**Answer: A**
+
+### 274.
+
+The maximum imprisonment under Section 72A mentioned in the notes is:
+A. Three years
+B. Two years
+C. Five years
+D. Ten years
+**Answer: A**
+
+### 275.
+
+Section 72 and Section 72A differ primarily in:
+A. How the person obtained access to information
+B. Whether computers exist
+C. Whether data is digital
+D. Whether a password exists
+**Answer: A**
+
+### 276.
+
+A bank employee leaking data through ordinary employment access would primarily raise issues under:
+A. Section 72A/other applicable laws rather than Section 72
+B. Section 66F only
+C. Section 17
+D. Section 21
+**Answer: A**
+
+### 277.
+
+The DPDP Act is:
+A. India's comprehensive dedicated digital personal data protection statute
+B. A criminal procedure statute
+C. A CA licensing statute
+D. A cybercrime investigation manual
+**Answer: A**
+
+### 278.
+
+The DPDP Act was enacted in:
+A. 2023
+B. 2000
+C. 2008
+D. 2017
+**Answer: A**
+
+### 279.
+
+The DPDP Act received Presidential assent on:
+A. 11 August 2023
+B. 9 May 2000
+C. 17 October 2000
+D. 25 May 2018
+**Answer: A**
+
+### 280.
+
+The person/entity determining the purpose and means of processing is called:
+A. Data Fiduciary
+B. Data Principal
+C. Consent Manager
+D. Data Processor only
+**Answer: A**
+
+### 281.
+
+The individual to whom personal data relates is:
+A. Data Principal
+B. Data Fiduciary
+C. Controller
+D. Adjudicating Officer
+**Answer: A**
+
+### 282.
+
+The DPDP Act grants Data Principals:
+A. Rights relating to their data
+B. CA licences
+C. Criminal immunity
+D. Police powers
+**Answer: A**
+
+### 283.
+
+One Data Principal right mentioned is:
+A. Access to information about their data
+B. Appointment as CCA
+C. Issuing DSCs
+D. Conducting cyber investigations
+**Answer: A**
+
+### 284.
+
+The DPDP Act provides a right to:
+A. Correction and erasure
+B. CA licensing
+C. Cybercrime investigation
+D. Source-code ownership
+**Answer: A**
+
+### 285.
+
+Another right of Data Principals is:
+A. Grievance redressal
+B. Criminal prosecution
+C. TDSAT membership
+D. CA certification
+**Answer: A**
+
+### 286.
+
+The DPDP Act allows a person to nominate a representative:
+A. To exercise rights after their death
+B. To issue DSCs
+C. To conduct criminal investigations
+D. To become CCA
+**Answer: A**
+
+### 287.
+
+The regulatory body under the DPDP Act is:
+A. Data Protection Board of India
+B. Cyber Appellate Tribunal
+C. CCA
+D. CERT-In
+**Answer: A**
+
+### 288.
+
+The DPDP Act introduces:
+A. Consent Managers
+B. CA licences
+C. Cyber courts
+D. Police cells
+**Answer: A**
+
+### 289.
+
+Consent Managers help individuals:
+A. Give, manage, review and withdraw consent
+B. Investigate hackers
+C. Issue certificates
+D. Conduct trials
+**Answer: A**
+
+### 290.
+
+The DPDP Act applies to:
+A. Processing digital personal data within India
+B. Certain processing outside India connected with offering goods/services to individuals in India
+C. Both A and B
+D. Neither
+**Answer: C**
+
+### 291.
+
+A core data protection principle is:
+A. Consent
+B. Purpose limitation
+C. Data minimisation
+D. All of the above
+**Answer: D**
+
+### 292.
+
+Purpose limitation means data should be collected:
+A. For specified, clear and lawful purposes
+B. For unlimited future purposes
+C. Without purpose
+D. Only for advertising
+**Answer: A**
+
+### 293.
+
+Data minimisation means:
+A. Collect only data reasonably necessary for the purpose
+B. Collect everything available
+C. Delete all data immediately
+D. Avoid security
+**Answer: A**
+
+### 294.
+
+Storage limitation means:
+A. Data should not be retained longer than necessary
+B. Data must be retained forever
+C. Data cannot be stored
+D. Data must be printed
+**Answer: A**
+
+### 295.
+
+Accuracy requires:
+A. Reasonable steps to keep personal data accurate and up to date
+B. Data to remain unchanged forever
+C. Data to be anonymous
+D. Data to be deleted immediately
+**Answer: A**
+
+### 296.
+
+Security safeguards are intended to protect data against:
+A. Unauthorised access
+B. Loss
+C. Breach
+D. All of the above
+**Answer: D**
+
+### 297.
+
+Accountability means the entity determining processing purposes and means:
+A. Is responsible for and able to demonstrate compliance
+B. Has no responsibility
+C. Transfers all responsibility to users
+D. Cannot be audited
+**Answer: A**
+
+### 298.
+
+Under the SPDI Rules, sensitive personal data includes:
+A. Passwords
+B. Financial information
+C. Health information
+D. All of the above
+**Answer: D**
+
+### 299.
+
+Which is NOT listed as sensitive personal data under the SPDI Rules?
+A. Biometric information
+B. Medical records
+C. Sexual orientation
+D. Ordinary publicly available information
+**Answer: D**
+
+### 300.
+
+The GDPR is the:
+A. European Union's comprehensive data protection regulation
+B. Indian cybercrime statute
+C. Indian CA licensing law
+D. Indian criminal code
+**Answer: A**
+
+---
+
+## High-priority revision list 📌
+
+For your MCQ exam, these are particularly worth memorising from this material:
+
+| Area                | Must-know                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Cyber Law           | Definition, need, cyberspace characteristics                                                                         |
+| IT Act              | **2000**, assent **9 May 2000**, effective **17 Oct 2000**                                                           |
+| International basis | **UNCITRAL Model Law 1996**                                                                                          |
+| Section 4           | Electronic records                                                                                                   |
+| Section 5           | Digital/electronic signatures                                                                                        |
+| Section 43          | Civil liability/compensation                                                                                         |
+| Section 43A         | Sensitive personal data + corporate negligence                                                                       |
+| Section 46          | Adjudicating Officer                                                                                                 |
+| Section 47          | Factors for compensation                                                                                             |
+| Section 61          | Civil-court jurisdiction bar                                                                                         |
+| Section 62          | Appeal to High Court                                                                                                 |
+| Section 66          | Computer-related criminal offences                                                                                   |
+| Section 66C         | Identity theft                                                                                                       |
+| Section 66D         | Cheating by personation                                                                                              |
+| Section 66E         | Violation of privacy                                                                                                 |
+| Section 66F         | Cyber terrorism                                                                                                      |
+| Section 72          | Statutory confidentiality/privacy                                                                                    |
+| Section 72A         | Contractual/service-provider disclosure                                                                              |
+| Section 75          | Extraterritorial application                                                                                         |
+| Section 78          | Investigation                                                                                                        |
+| Section 79          | Intermediary safe harbour                                                                                            |
+| Section 85          | Corporate liability                                                                                                  |
+| Digital signature   | Private key → hash/signature; public key → verification                                                              |
+| PKI                 | CA, RA, DSC, CRL, repository, subscriber                                                                             |
+| CCA                 | Apex PKI authority                                                                                                   |
+| Section 65B         | Electronic evidence certificate                                                                                      |
+| Cyber forensics     | Imaging, hashing, chain of custody                                                                                   |
+| Cases               | **Shreya Singhal, PR Transport Agency, Trimex, NASSCOM v Ajay Sood, Ritu Kohli, Arjun Panditrao, Puttaswamy**        |
+| Unit IV             | Civil vs criminal liability                                                                                          |
+| TDSAT               | Cyber Appellate Tribunal merged into TDSAT in **2017**                                                               |
+| Privacy             | **Puttaswamy — 2017, Article 21**                                                                                    |
+| DPDP                | Data Fiduciary, Data Principal, Consent Manager, DPB                                                                 |
+| SPDI                | Passwords, financial data, health, sexual orientation, medical records, biometrics                                   |
+| GDPR                | EU regulation, effective **25 May 2018**                                                                             |
+| Ethics              | Surveillance, consent fatigue/dark patterns, data monetisation, responsible disclosure, encryption, algorithmic bias |
+
+This gives you **300 questions** across the entire uploaded Cyber Law material. The file itself is the sole basis for the bank.
+Yes. The uploaded file is **Cyber Law and IT Acts**, covering **Units I–V**. I’ve kept this bank **strictly based on the uploaded material** and have not added outside syllabus content. 
+
+Below is a large **300-MCQ exam bank**, arranged unit-wise. I’ve deliberately included definition-based, section-based, case-based, conceptual, and application questions.
+
+# UNIT I — Introduction to Cyber Law & IT Act
+
+### 1.
+
+Cyber law primarily governs activities carried out through:
+A. Physical documents only
+B. Computers, computer networks and the Internet
+C. Banking systems only
+D. Government offices only
+**Answer: B**
+
+### 2.
+
+Cyber law is also referred to in the notes as:
+A. Corporate law
+B. Internet law or IT law
+C. Criminal procedure law
+D. Contract law
+**Answer: B**
+
+### 3.
+
+Cyber law is:
+A. A single standalone statute
+B. A body of legal rules drawn from several sources
+C. Only the IT Act
+D. Only criminal law
+**Answer: B**
+
+### 4.
+
+Which is NOT identified as a source contributing to cyber law?
+A. Information Technology Act, 2000
+B. Indian Evidence Act
+C. RBI Act
+D. Constitution of the United States
+**Answer: D**
+
+### 5.
+
+Cyber law deals with:
+A. Electronic contracts
+B. Digital signatures
+C. Cybercrime
+D. All of the above
+**Answer: D**
+
+### 6.
+
+Cyber law does not replace existing law but:
+A. Abolishes traditional legal principles
+B. Adapts established legal principles to cyberspace
+C. Applies only to foreign transactions
+D. Applies only to criminal matters
+**Answer: B**
+
+### 7.
+
+Which was one major reason for the need for cyber law?
+A. Decline of computers
+B. Growth of electronic transactions
+C. Elimination of banking
+D. Reduction of online activity
+**Answer: B**
+
+### 8.
+
+Traditional legal systems were largely designed around:
+A. Electronic records
+B. Physical documents and tangible property
+C. Cloud computing
+D. Digital currencies
+**Answer: B**
+
+### 9.
+
+E-commerce required legal support primarily to make transactions:
+A. Anonymous
+B. Enforceable and trustworthy
+C. Offline
+D. International only
+**Answer: B**
+
+### 10.
+
+Which is an example of a new form of cybercrime mentioned in the notes?
+A. Hacking
+B. Phishing
+C. Online fraud
+D. All of the above
+**Answer: D**
+
+### 11.
+
+The borderless nature of cyberspace creates problems mainly concerning:
+A. Jurisdiction
+B. Printing
+C. Physical ownership
+D. Transportation
+**Answer: A**
+
+### 12.
+
+Protection of privacy became important because:
+A. Personal and financial data moved online
+B. Computers disappeared
+C. Paper records increased
+D. Internet use declined
+**Answer: A**
+
+### 13.
+
+E-governance requires legal recognition of:
+A. Only physical signatures
+B. Electronic applications and records
+C. Verbal communication only
+D. Printed newspapers
+**Answer: B**
+
+### 14.
+
+Cyberspace is described as:
+A. A geographically fixed environment
+B. A borderless environment created by interconnected computer networks
+C. A physical government office
+D. A type of hardware
+**Answer: B**
+
+### 15.
+
+Which is a characteristic of cyberspace?
+A. Borderlessness
+B. Anonymity
+C. Intangibility
+D. All of the above
+**Answer: D**
+
+### 16.
+
+Data crossing national boundaries instantly illustrates:
+A. Anonymity
+B. Borderlessness
+C. Tangibility
+D. Physicality
+**Answer: B**
+
+### 17.
+
+The ability of users to act without revealing their true identity relates to:
+A. Anonymity
+B. Jurisdiction
+C. Tangibility
+D. Storage limitation
+**Answer: A**
+
+### 18.
+
+Data and software lack:
+A. Legal relevance
+B. Physical form
+C. Economic value
+D. Information value
+**Answer: B**
+
+### 19.
+
+A malware attack affecting millions of users almost instantly demonstrates:
+A. Speed and scale
+B. Physicality
+C. Localisation
+D. Paper-based evidence
+**Answer: A**
+
+### 20.
+
+Digital information can be copied or modified without leaving the same physical trace as paper records because of:
+A. Digital duplication
+B. Physical storage
+C. Territoriality
+D. Manual processing
+**Answer: A**
+
+### 21.
+
+A transaction involving a user, server and victim in different countries demonstrates:
+A. Multiplicity of jurisdictions
+B. Storage limitation
+C. Data minimisation
+D. Encryption
+**Answer: A**
+
+### 22.
+
+The UN body that adopted the Model Law on Electronic Commerce in 1996 was:
+A. UNESCO
+B. UNCITRAL
+C. WTO
+D. IMF
+**Answer: B**
+
+### 23.
+
+The UNCITRAL Model Law on Electronic Commerce recommended legal recognition of:
+A. Electronic records and digital signatures
+B. Only paper contracts
+C. Only cryptocurrencies
+D. Only biometric data
+**Answer: A**
+
+### 24.
+
+The GDPR mentioned in the notes came into force in:
+A. 2000
+B. 2008
+C. 2018
+D. 2023
+**Answer: C**
+
+### 25.
+
+Before 2000, India had:
+A. A dedicated cybercrime statute
+B. No dedicated law governing electronic transactions and computer-related offences
+C. The DPDP Act
+D. The IT Act, 2008
+**Answer: B**
+
+### 26.
+
+The Information Technology Act was passed in:
+A. 1996
+B. 2000
+C. 2008
+D. 2017
+**Answer: B**
+
+### 27.
+
+The IT Act, 2000 is Act No.:
+A. 21 of 2000
+B. 43 of 2000
+C. 66 of 2000
+D. 75 of 2000
+**Answer: A**
+
+### 28.
+
+The IT Act received Presidential assent on:
+A. 9 May 2000
+B. 17 October 2000
+C. 15 August 2000
+D. 26 January 2000
+**Answer: A**
+
+### 29.
+
+The IT Act came into force on:
+A. 9 May 2000
+B. 17 October 2000
+C. 1 January 2001
+D. 26 November 2000
+**Answer: B**
+
+### 30.
+
+India's IT Act was influenced by:
+A. UNCITRAL Model Law on Electronic Commerce
+B. GDPR
+C. US Constitution
+D. Geneva Convention
+**Answer: A**
+
+### 31.
+
+The IT Act is described as India's principal legislation for:
+A. Electronic governance
+B. E-commerce
+C. Cybercrime
+D. All of the above
+**Answer: D**
+
+### 32.
+
+One objective of the IT Act is to give legal recognition to:
+A. Electronic transactions
+B. Digital signatures
+C. Electronic filing
+D. All of the above
+**Answer: D**
+
+### 33.
+
+The IT Act facilitates electronic filing with:
+A. Government departments and agencies
+B. Only private companies
+C. Foreign courts only
+D. Banks only
+**Answer: A**
+
+### 34.
+
+The IT Act amended related statutes so that they could recognise:
+A. Electronic records
+B. Physical currency
+C. Social media accounts
+D. Computer games
+**Answer: A**
+
+### 35.
+
+Under Section 75, the IT Act can apply outside India when:
+A. A foreign person owns a phone
+B. The offence involves a computer, system or network located in India
+C. The victim is Indian only
+D. The transaction involves cash
+**Answer: B**
+
+### 36.
+
+The IT Act extends to:
+A. Only Delhi
+B. Only Indian cyberspace
+C. The whole of India
+D. Only government networks
+**Answer: C**
+
+### 37.
+
+Which is excluded from the IT Act's scope according to the notes?
+A. Negotiable instruments other than cheques
+B. Powers of attorney
+C. Trusts
+D. All of the above
+**Answer: D**
+
+### 38.
+
+Which negotiable instrument is specifically mentioned as an exception to the exclusion?
+A. Cheques
+B. Bonds
+C. Shares
+D. Debentures
+**Answer: A**
+
+### 39.
+
+Chapter II of the IT Act deals with:
+A. Digital Signature and Electronic Signature
+B. Cyber offences
+C. Intermediary liability
+D. Duties of subscribers
+**Answer: A**
+
+### 40.
+
+Chapter III deals with:
+A. Electronic Governance
+B. Cyber Appellate Tribunal
+C. Offences
+D. Penalties
+**Answer: A**
+
+### 41.
+
+Chapter IV concerns:
+A. Attribution, acknowledgement and dispatch of electronic records
+B. Cybercrime investigation
+C. Privacy
+D. Data protection
+**Answer: A**
+
+### 42.
+
+Chapter V deals with:
+A. Secure electronic records and secure electronic signatures
+B. Cyber terrorism
+C. Intermediaries
+D. Penalties
+**Answer: A**
+
+### 43.
+
+Chapter VI deals with:
+A. Regulation of Certifying Authorities
+B. Electronic governance
+C. Cybercrime
+D. Privacy
+**Answer: A**
+
+### 44.
+
+Chapter VII concerns:
+A. Electronic Signature Certificates
+B. Cyber Appellate Tribunal
+C. Data protection
+D. Criminal procedure
+**Answer: A**
+
+### 45.
+
+Chapter VIII deals with:
+A. Duties of subscribers
+B. Cyber terrorism
+C. Privacy
+D. E-commerce
+**Answer: A**
+
+### 46.
+
+Chapter IX concerns:
+A. Penalties, compensation and adjudication
+B. Digital signatures
+C. Cybercrime investigation
+D. Data privacy
+**Answer: A**
+
+### 47.
+
+Chapter X concerns:
+A. The Cyber Appellate Tribunal
+B. Electronic records
+C. Certifying Authorities
+D. Cyber ethics
+**Answer: A**
+
+### 48.
+
+Chapter XI concerns:
+A. Offences
+B. Digital signatures
+C. E-governance
+D. Privacy
+**Answer: A**
+
+### 49.
+
+The 2008 amendment introduced:
+A. Electronic signatures
+B. New cybercrime offences
+C. Changes to intermediary liability
+D. All of the above
+**Answer: D**
+
+### 50.
+
+Technology neutrality was promoted by introducing:
+A. Electronic signatures
+B. Paper signatures
+C. Physical certificates
+D. Manual authentication
+**Answer: A**
+
+### 51.
+
+Sections 66A–66F were inserted through:
+A. IT Act 2000
+B. IT Amendment Act 2008
+C. DPDP Act
+D. Evidence Act
+**Answer: B**
+
+### 52.
+
+Section 66C deals with:
+A. Identity theft
+B. Cyber terrorism
+C. Obscenity
+D. Privacy
+**Answer: A**
+
+### 53.
+
+Section 66D deals with:
+A. Cheating by personation using computer resources
+B. Identity theft
+C. Data protection
+D. Cyber stalking
+**Answer: A**
+
+### 54.
+
+Section 66E concerns:
+A. Violation of privacy
+B. Identity theft
+C. Cyber terrorism
+D. Source code
+**Answer: A**
+
+### 55.
+
+Section 66F concerns:
+A. Cyber terrorism
+B. Phishing
+C. Data theft
+D. Obscenity
+**Answer: A**
+
+### 56.
+
+Section 43A deals with:
+A. Corporate responsibility for sensitive personal data
+B. Cyber terrorism
+C. Digital signatures
+D. Cyber Appellate Tribunal
+**Answer: A**
+
+### 57.
+
+Section 79 provides conditional protection to:
+A. Intermediaries
+B. Police officers
+C. Judges
+D. Subscribers only
+**Answer: A**
+
+### 58.
+
+Intermediary safe-harbour protection is conditional upon:
+A. Due diligence
+B. Physical presence
+C. Payment of tax
+D. Government ownership
+**Answer: A**
+
+### 59.
+
+Sections 69, 69A and 69B concern government powers relating to:
+A. Interception, monitoring and blocking/access-related functions
+B. Banking loans
+C. Physical property
+D. Taxation
+**Answer: A**
+
+### 60.
+
+Section 85 concerns:
+A. Corporate responsibility
+B. Digital signatures
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 61.
+
+Section 66A was struck down in:
+A. Shreya Singhal v. Union of India
+B. Puttaswamy case
+C. Trimex case
+D. NASSCOM case
+**Answer: A**
+
+### 62.
+
+Section 66A was struck down by the:
+A. Supreme Court
+B. High Court of Delhi
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 63.
+
+Cyber ethics differs from cyber law because ethics:
+A. Is broader and aspirational
+B. Has no relation to conduct
+C. Replaces legislation
+D. Is always criminal law
+**Answer: A**
+
+### 64.
+
+Cyber law generally establishes:
+A. Minimum enforceable legal standards
+B. Maximum ethical standards
+C. Optional suggestions only
+D. Religious standards
+**Answer: A**
+
+### 65.
+
+Section 4 provides legal recognition to:
+A. Electronic records
+B. Criminal complaints
+C. Cybercrime evidence only
+D. Privacy rights
+**Answer: A**
+
+### 66.
+
+Section 5 provides legal recognition to:
+A. Electronic/digital signatures
+B. Cybercrime complaints
+C. Data breaches
+D. Online advertisements
+**Answer: A**
+
+### 67.
+
+Section 4 applies where a law requires information to be:
+A. In writing or printed form
+B. Spoken only
+C. Handwritten only
+D. Oral only
+**Answer: A**
+
+### 68.
+
+Electronic information must be accessible for:
+A. Subsequent reference
+B. Physical destruction
+C. Government ownership
+D. Printing only
+**Answer: A**
+
+### 69.
+
+Section 5 concerns authentication using:
+A. Digital/electronic signature in the prescribed manner
+B. Password only
+C. OTP only
+D. Voice call only
+**Answer: A**
+
+### 70.
+
+Sections 4 and 5 together support:
+A. Legal recognition of electronic records and signatures
+B. Only cybercrime punishment
+C. Only privacy
+D. Only taxation
+**Answer: A**
+
+---
+
+# UNIT II — Digital Signatures, Electronic Signatures & Certifying Authorities
+
+### 71.
+
+A digital signature primarily authenticates:
+A. The identity of the sender and integrity of the record
+B. The physical location of a computer
+C. Internet speed
+D. File size
+**Answer: A**
+
+### 72.
+
+A digital signature is generated through:
+A. Cryptographic computation
+B. Scanning only
+C. Typing a name
+D. Printing
+**Answer: A**
+
+### 73.
+
+Digital signatures rely on:
+A. Symmetric cryptography only
+B. Asymmetric cryptography
+C. No cryptography
+D. Physical signatures
+**Answer: B**
+
+### 74.
+
+In asymmetric cryptography, each user has:
+A. One key
+B. A private and public key pair
+C. Three passwords
+D. Two identical passwords
+**Answer: B**
+
+### 75.
+
+The private key is:
+A. Known only to the owner
+B. Publicly shared
+C. Published by the CA
+D. Stored by every recipient
+**Answer: A**
+
+### 76.
+
+The public key:
+A. May be freely shared
+B. Must always remain secret
+C. Is never distributed
+D. Is destroyed after signing
+**Answer: A**
+
+### 77.
+
+A hash function converts a record into:
+A. A fixed-length hash value/message digest
+B. A password
+C. A certificate
+D. A public key
+**Answer: A**
+
+### 78.
+
+A hash function is described as:
+A. One-way
+B. Two-way encryption
+C. Physical
+D. Manual
+**Answer: A**
+
+### 79.
+
+The message digest is encrypted using the sender's:
+A. Public key
+B. Private key
+C. CA's key
+D. Recipient's private key
+**Answer: B**
+
+### 80.
+
+The encrypted message digest forms the:
+A. Digital signature
+B. Digital certificate
+C. Public key
+D. Repository
+**Answer: A**
+
+### 81.
+
+The digital signature is transmitted with:
+A. The original electronic record
+B. Only the public key
+C. Only the hash
+D. The CA licence
+**Answer: A**
+
+### 82.
+
+The recipient independently computes:
+A. A fresh hash value
+B. A new private key
+C. A new certificate
+D. A new CA licence
+**Answer: A**
+
+### 83.
+
+The recipient decrypts the digital signature using:
+A. Sender's public key
+B. Sender's private key
+C. Recipient's private key
+D. CA's private key
+**Answer: A**
+
+### 84.
+
+If the two message digests match:
+A. The signature is valid
+B. The certificate is automatically revoked
+C. The record is deleted
+D. The sender is anonymous
+**Answer: A**
+
+### 85.
+
+Matching digests help establish:
+A. Authentication and integrity
+B. Only confidentiality
+C. Only availability
+D. Physical ownership
+**Answer: A**
+
+### 86.
+
+A change of even one character in a document can:
+A. Produce a different message digest
+B. Leave the digest necessarily unchanged
+C. Delete the public key
+D. Revoke the CA
+**Answer: A**
+
+### 87.
+
+Electronic signature is:
+A. Broader than digital signature
+B. Narrower than digital signature
+C. Unrelated to authentication
+D. Only handwritten
+**Answer: A**
+
+### 88.
+
+Electronic signature was introduced as a broader category through:
+A. 2008 amendment
+B. 1996 amendment
+C. 2017 amendment
+D. DPDP Act
+**Answer: A**
+
+### 89.
+
+Section 3 primarily concerns:
+A. Digital signature authentication
+B. Cyber terrorism
+C. Data breach
+D. Privacy
+**Answer: A**
+
+### 90.
+
+Section 3A concerns:
+A. Authentication through electronic signatures using reliable techniques
+B. Cyber terrorism
+C. Identity theft
+D. Compensation
+**Answer: A**
+
+### 91.
+
+Which is an example of a technology-neutral electronic authentication technique mentioned?
+A. Biometrics
+B. Paper stamp
+C. Postal letter
+D. Physical seal only
+**Answer: A**
+
+### 92.
+
+Aadhaar-based e-signature services are mentioned as an example of:
+A. Electronic signature technology
+B. Physical signature
+C. Cybercrime
+D. Data theft
+**Answer: A**
+
+### 93.
+
+PKI stands for:
+A. Public Key Infrastructure
+B. Private Key Information
+C. Public Knowledge Interface
+D. Personal Key Infrastructure
+**Answer: A**
+
+### 94.
+
+PKI helps establish trust between:
+A. A public key and its owner
+B. Two physical computers only
+C. Two passwords
+D. Two websites
+**Answer: A**
+
+### 95.
+
+Which is a component of PKI?
+A. Certifying Authority
+B. Registration Authority
+C. Repository
+D. All of the above
+**Answer: D**
+
+### 96.
+
+A Certifying Authority primarily:
+A. Issues, manages and revokes Digital Signature Certificates
+B. Investigates all cybercrimes
+C. Creates criminal law
+D. Operates courts
+**Answer: A**
+
+### 97.
+
+A Registration Authority primarily:
+A. Verifies applicants' identities on behalf of a CA
+B. Creates laws
+C. Conducts criminal trials
+D. Issues court orders
+**Answer: A**
+
+### 98.
+
+A Digital Signature Certificate binds:
+A. A public key to the identity of a subscriber
+B. A password to a computer
+C. A computer to an IP address only
+D. A website to a browser
+**Answer: A**
+
+### 99.
+
+A Certificate Revocation List is commonly abbreviated:
+A. CRL
+B. CA
+C. RA
+D. DSC
+**Answer: A**
+
+### 100.
+
+A CRL contains certificates that:
+A. Have been suspended or revoked before expiry
+B. Have never been issued
+C. Are being created
+D. Are only expired naturally
+**Answer: A**
+
+### 101.
+
+The subscriber is:
+A. The individual or organisation in whose name the DSC is issued
+B. The CA regulator
+C. The court
+D. The police officer
+**Answer: A**
+
+### 102.
+
+India's PKI trust model is:
+A. Hierarchical
+B. Completely random
+C. Decentralised without a root
+D. Paper-based
+**Answer: A**
+
+### 103.
+
+At the top of India's PKI hierarchy is:
+A. CCA
+B. RA
+C. Subscriber
+D. Police
+**Answer: A**
+
+### 104.
+
+CCA stands for:
+A. Controller of Certifying Authorities
+B. Central Cyber Authority
+C. Computer Certification Agency
+D. Cyber Crime Authority
+**Answer: A**
+
+### 105.
+
+The CCA acts as:
+A. Apex authority in India's PKI hierarchy
+B. A private subscriber
+C. A criminal court
+D. An intermediary
+**Answer: A**
+
+### 106.
+
+The CCA issues a:
+A. Self-signed root certificate
+B. Criminal warrant
+C. DSC to every individual
+D. Police certificate
+**Answer: A**
+
+### 107.
+
+Licensed CAs issue:
+A. Digital Signature Certificates to subscribers
+B. Criminal judgments
+C. FIRs
+D. Court warrants
+**Answer: A**
+
+### 108.
+
+The trust chain in PKI begins with trust in:
+A. The CCA
+B. The subscriber
+C. The browser
+D. The police
+**Answer: A**
+
+### 109.
+
+A Certifying Authority in India requires:
+A. A licence
+B. A criminal conviction
+C. A court order in every case
+D. A parliamentary seat
+**Answer: A**
+
+### 110.
+
+CA licensing falls under:
+A. Chapter VI
+B. Chapter I
+C. Chapter XI
+D. Chapter X
+**Answer: A**
+
+### 111.
+
+Sections 21–34 primarily relate to:
+A. Certifying Authorities
+B. Cyber terrorism
+C. Privacy
+D. Criminal trials
+**Answer: A**
+
+### 112.
+
+A CA must verify:
+A. Identity of applicants
+B. Political affiliation
+C. Academic marks
+D. Religion
+**Answer: A**
+
+### 113.
+
+Under Section 37, a CA may:
+A. Suspend a DSC
+B. Issue criminal punishment
+C. Arrest a subscriber
+D. Pass a judicial decree
+**Answer: A**
+
+### 114.
+
+Section 38 concerns:
+A. Revocation of DSC
+B. Electronic governance
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 115.
+
+A CA must publish notice of suspension/revocation in:
+A. The specified repository
+B. Newspaper only
+C. Police station
+D. Parliament
+**Answer: A**
+
+### 116.
+
+A stolen private key may lead to:
+A. Suspension/revocation of the related certificate
+B. Automatic creation of a new CA
+C. No legal consequence
+D. Cancellation of the IT Act
+**Answer: A**
+
+### 117.
+
+The CCA is established under:
+A. Section 17
+B. Section 43
+C. Section 66
+D. Section 72
+**Answer: A**
+
+### 118.
+
+The functions of the Controller are listed in:
+A. Section 18
+B. Section 19
+C. Section 43
+D. Section 65
+**Answer: A**
+
+### 119.
+
+The Controller supervises:
+A. Certifying Authorities
+B. Courts
+C. Parliament
+D. Internet users generally
+**Answer: A**
+
+### 120.
+
+The Controller may specify:
+A. Standards for CAs
+B. School curriculum
+C. Criminal sentencing generally
+D. Bank interest rates
+**Answer: A**
+
+### 121.
+
+The Controller may recognise:
+A. Foreign Certifying Authorities
+B. Foreign courts
+C. Foreign police stations
+D. Foreign universities
+**Answer: A**
+
+### 122.
+
+Section 27 concerns:
+A. Delegation of powers
+B. Cyber terrorism
+C. Privacy
+D. Data theft
+**Answer: A**
+
+### 123.
+
+Section 28 concerns:
+A. Investigation of contraventions
+B. Digital signatures only
+C. Privacy rights
+D. E-commerce
+**Answer: A**
+
+### 124.
+
+Section 29 allows access to computers/data/equipment of a CA for:
+A. Investigation, search or examination
+B. Entertainment
+C. Advertising
+D. Tax collection only
+**Answer: A**
+
+### 125.
+
+A CA licence application under Section 22 includes:
+A. Certification practice statement
+B. Identity particulars
+C. Prescribed fee
+D. All of the above
+**Answer: D**
+
+### 126.
+
+The Controller may reject a CA licence application after:
+A. Giving reasonable opportunity of being heard
+B. Immediate arrest
+C. No process
+D. Criminal conviction
+**Answer: A**
+
+### 127.
+
+A licence may be revoked for:
+A. False statement in the application
+B. Failure to comply with licence conditions
+C. Contravention of the Act
+D. All of the above
+**Answer: D**
+
+### 128.
+
+Suspension of a certificate is generally:
+A. Temporary
+B. Permanent
+C. Impossible
+D. Criminal conviction
+**Answer: A**
+
+### 129.
+
+Revocation of a certificate is generally:
+A. Permanent
+B. Temporary
+C. Optional only
+D. Informal
+**Answer: A**
+
+### 130.
+
+The subscriber must exercise reasonable care to:
+A. Retain control of the private key
+B. Publish the private key
+C. Share the private key
+D. Destroy the public key
+**Answer: A**
+
+### 131.
+
+Section 42 concerns the subscriber's duty regarding:
+A. Private key control
+B. CA licensing
+C. Cybercrime investigation
+D. Privacy
+**Answer: A**
+
+### 132.
+
+A secure electronic record is one to which:
+A. A security procedure has been applied
+B. A password has merely been added
+C. A paper signature is attached
+D. A CA licence is attached
+**Answer: A**
+
+### 133.
+
+Section 14 concerns:
+A. Secure electronic records
+B. Identity theft
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 134.
+
+Section 15 concerns:
+A. Secure digital/electronic signatures
+B. Cyber fraud
+C. Adjudication
+D. Data breaches
+**Answer: A**
+
+### 135.
+
+Section 16 empowers the Central Government to prescribe:
+A. Security procedures and practices
+B. Criminal sentences
+C. Police ranks
+D. Tax rates
+**Answer: A**
+
+### 136.
+
+Section 85B of the Evidence Act creates presumptions concerning:
+A. Secure electronic records/signatures
+B. Physical property
+C. Bank accounts
+D. Cybercrime FIRs
+**Answer: A**
+
+### 137.
+
+In PR Transport Agency, the communication involved:
+A. Email acceptance of an e-auction bid
+B. A physical cheque
+C. A biometric transaction
+D. A cryptocurrency transaction
+**Answer: A**
+
+### 138.
+
+PR Transport Agency v. Union of India was decided by:
+A. Allahabad High Court
+B. Supreme Court
+C. Delhi High Court
+D. Gujarat High Court
+**Answer: A**
+
+### 139.
+
+The PR Transport Agency case recognised:
+A. Legal significance of email communication
+B. Cyber terrorism
+C. Data minimisation
+D. Privacy as a fundamental right
+**Answer: A**
+
+### 140.
+
+Trimex International FZE Ltd v. Vedanta Aluminium Ltd was decided by:
+A. Supreme Court of India
+B. Delhi High Court
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 141.
+
+Trimex recognised the validity of a contract formed through:
+A. Exchange of emails
+B. Telephone only
+C. Social media likes
+D. Handwritten notes only
+**Answer: A**
+
+### 142.
+
+According to Trimex, a physically signed paper document is:
+A. Not necessarily a precondition for a valid contract
+B. Always mandatory
+C. Always illegal
+D. Required under Section 66F
+**Answer: A**
+
+### 143.
+
+The main purpose of a hash function in digital signatures is to:
+A. Create a message digest for integrity verification
+B. Generate physical documents
+C. Issue CA licences
+D. Encrypt the entire Internet
+**Answer: A**
+
+### 144.
+
+Digital signatures provide evidence of:
+A. Authentication and integrity
+B. Physical location only
+C. Ownership of hardware
+D. Internet speed
+**Answer: A**
+
+### 145.
+
+PKI's main function is to establish:
+A. Trust between public keys and their owners
+B. Physical ownership of computers
+C. Criminal liability
+D. Court jurisdiction
+**Answer: A**
+
+---
+
+# UNIT III — Cyber Crimes, Investigation & Forensics
+
+### 146.
+
+Cybercrime involves an unlawful act where a computer may be:
+A. The tool
+B. The target
+C. Both
+D. All of the above
+**Answer: D**
+
+### 147.
+
+The IT Act does not use “cybercrime” as:
+A. A defined term
+B. A concept
+C. A general description
+D. A topic
+**Answer: A**
+
+### 148.
+
+Cybercrimes can broadly be classified based on whether the computer is:
+A. Target or instrument
+B. Old or new
+C. Public or private
+D. Local or foreign
+**Answer: A**
+
+### 149.
+
+Hacking is an example where the computer is primarily:
+A. The target
+B. The instrument only
+C. The witness
+D. The regulator
+**Answer: A**
+
+### 150.
+
+Online fraud is primarily an example where the computer is:
+A. The instrument
+B. The victim
+C. The court
+D. The regulator
+**Answer: A**
+
+### 151.
+
+The IT Act provision primarily associated with civil liability for unauthorised access is:
+A. Section 43
+B. Section 66
+C. Section 72
+D. Section 85
+**Answer: A**
+
+### 152.
+
+Section 66 applies when acts covered by Section 43 are done:
+A. Dishonestly or fraudulently
+B. Accidentally only
+C. With government permission
+D. By a CA
+**Answer: A**
+
+### 153.
+
+Section 43 provides:
+A. Civil compensation
+B. Only imprisonment
+C. Only warnings
+D. Constitutional remedies
+**Answer: A**
+
+### 154.
+
+Unauthorised downloading or copying of data falls under:
+A. Section 43
+B. Section 17
+C. Section 72
+D. Section 79
+**Answer: A**
+
+### 155.
+
+Introducing a computer contaminant or virus is covered under:
+A. Section 43
+B. Section 5
+C. Section 72A
+D. Section 62
+**Answer: A**
+
+### 156.
+
+A denial-of-service attack is reflected in Section:
+A. 43
+B. 66C
+C. 72
+D. 85
+**Answer: A**
+
+### 157.
+
+Charging services used by one person to another person's account by tampering with a computer system is covered under:
+A. Section 43
+B. Section 3A
+C. Section 17
+D. Section 62
+**Answer: A**
+
+### 158.
+
+Stealing or altering computer source code with intent to cause damage is covered under:
+A. Section 43
+B. Section 72A
+C. Section 79
+D. Section 17
+**Answer: A**
+
+### 159.
+
+The compensation under Section 43 is described as:
+A. Having no upper monetary limit
+B. Fixed at ₹1 lakh
+C. Fixed at ₹5 lakh
+D. Unavailable
+**Answer: A**
+
+### 160.
+
+Section 66 can provide:
+A. Criminal liability
+B. Civil liability only
+C. Administrative guidance only
+D. No liability
+**Answer: A**
+
+### 161.
+
+The Pune call-centre fraud case involved:
+A. Misuse of customer PINs/account details
+B. Cyber terrorism
+C. Privacy litigation only
+D. CA licensing
+**Answer: A**
+
+### 162.
+
+Data theft involves:
+A. Unauthorised copying, extraction or transfer of data
+B. Physical theft of a computer only
+C. Legal copying
+D. Data backup by the owner
+**Answer: A**
+
+### 163.
+
+Data theft differs from physical property theft because:
+A. The original data may remain with the owner
+B. Data always disappears
+C. Data has physical form
+D. Data cannot be copied
+**Answer: A**
+
+### 164.
+
+Section 43(4) concerns:
+A. Downloading, copying or extracting data without permission
+B. Privacy
+C. Cyber terrorism
+D. CA licensing
+**Answer: A**
+
+### 165.
+
+Section 43A deals with:
+A. Negligence in protecting sensitive personal data
+B. Digital signatures
+C. Cyber terrorism
+D. Phishing only
+**Answer: A**
+
+### 166.
+
+Identity theft is specifically penalised under:
+A. Section 66C
+B. Section 66F
+C. Section 72
+D. Section 79
+**Answer: A**
+
+### 167.
+
+Identity theft involves fraudulent use of another person's:
+A. Password
+B. Electronic signature
+C. Unique identification feature
+D. All of the above
+**Answer: D**
+
+### 168.
+
+Identity theft may involve misuse of:
+A. Biometric data
+B. Passwords
+C. Electronic signatures
+D. All of the above
+**Answer: D**
+
+### 169.
+
+Section 66D concerns:
+A. Cheating by personation using computer resources
+B. Identity theft
+C. Cyber terrorism
+D. Privacy
+**Answer: A**
+
+### 170.
+
+An offender pretending to be a bank official online to obtain money illustrates:
+A. Cheating by personation
+B. Secure electronic record
+C. CA licensing
+D. Data minimisation
+**Answer: A**
+
+### 171.
+
+The Sony Sambandh case involved:
+A. Stolen credit-card information
+B. Cyber terrorism
+C. CA licensing
+D. Government surveillance
+**Answer: A**
+
+### 172.
+
+The Sony Sambandh case is associated with:
+A. Online credit-card fraud
+B. Privacy as a fundamental right
+C. Digital signature certificates
+D. TDSAT
+**Answer: A**
+
+### 173.
+
+Phishing involves:
+A. Fraudulently acquiring sensitive information by impersonating a trustworthy entity
+B. Physical theft
+C. Data backup
+D. Legal authentication
+**Answer: A**
+
+### 174.
+
+Phishing commonly targets:
+A. Usernames and passwords
+B. PINs
+C. Credit-card details
+D. All of the above
+**Answer: D**
+
+### 175.
+
+A spoofed bank website is an example of:
+A. Phishing
+B. Cyber forensics
+C. PKI
+D. Adjudication
+**Answer: A**
+
+### 176.
+
+Phishing is:
+A. Not separately named as an offence in the IT Act
+B. The only offence under Section 66F
+C. A form of physical theft
+D. A CA function
+**Answer: A**
+
+### 177.
+
+Phishing may involve:
+A. Sections 43, 66, 66C and 66D
+B. Only Section 17
+C. Only Section 72
+D. Only Section 85
+**Answer: A**
+
+### 178.
+
+NASSCOM v. Ajay Sood was decided by:
+A. Delhi High Court
+B. Supreme Court
+C. Allahabad High Court
+D. TDSAT
+**Answer: A**
+
+### 179.
+
+The NASSCOM/Ajay Sood case is associated with:
+A. Phishing
+B. Cyber terrorism
+C. CA licensing
+D. Data localisation
+**Answer: A**
+
+### 180.
+
+Cyber stalking involves:
+A. Persistent online harassment or monitoring
+B. Only physical stalking
+C. CA activities
+D. Data encryption
+**Answer: A**
+
+### 181.
+
+Cyber stalking may involve:
+A. Harassment
+B. Threats
+C. Monitoring online activity
+D. All of the above
+**Answer: D**
+
+### 182.
+
+Section 66E specifically deals with:
+A. Violation of privacy
+B. Identity theft
+C. Cyber terrorism
+D. Cyber fraud
+**Answer: A**
+
+### 183.
+
+Section 66E concerns unauthorised capture/publication/transmission of:
+A. Images of private areas
+B. Public advertisements
+C. Court judgments
+D. CA certificates
+**Answer: A**
+
+### 184.
+
+The Ritu Kohli case is associated with:
+A. Cyber stalking
+B. Digital signatures
+C. Phishing
+D. Data protection
+**Answer: A**
+
+### 185.
+
+The Ritu Kohli case occurred in:
+A. 2001
+B. 2008
+C. 2015
+D. 2023
+**Answer: A**
+
+### 186.
+
+Cyber terrorism is addressed under:
+A. Section 66F
+B. Section 66C
+C. Section 72
+D. Section 43A
+**Answer: A**
+
+### 187.
+
+Cyber terrorism may involve threats to:
+A. Sovereignty
+B. Integrity
+C. Security of India
+D. All of the above
+**Answer: D**
+
+### 188.
+
+Cyber terrorism can involve:
+A. Unauthorised access to computer resources
+B. Introducing computer contaminants
+C. Disruption of critical infrastructure
+D. All of the above
+**Answer: D**
+
+### 189.
+
+Cyber terrorism carries:
+A. The harshest punishment under the IT Act
+B. No punishment
+C. Only civil compensation
+D. Only a warning
+**Answer: A**
+
+### 190.
+
+The punishment for cyber terrorism may extend to:
+A. Imprisonment for life
+B. Six months only
+C. One year only
+D. Fine only
+**Answer: A**
+
+### 191.
+
+Which is a computer-related offence?
+A. Tampering with computer source documents
+B. Identity theft
+C. Cyber terrorism
+D. All of the above
+**Answer: D**
+
+### 192.
+
+Cybercrime investigation is difficult because digital evidence is:
+A. Intangible and easily altered
+B. Always physical
+C. Impossible to copy
+D. Never transferable
+**Answer: A**
+
+### 193.
+
+Section 78 deals with:
+A. Investigation of offences under the IT Act
+B. Digital signatures
+C. Privacy
+D. CA licensing
+**Answer: A**
+
+### 194.
+
+Under the notes, offences under the IT Act can be investigated by a police officer not below the rank of:
+A. Inspector
+B. Constable
+C. Sub-Inspector
+D. Head Constable
+**Answer: A**
+
+### 195.
+
+Forensic imaging involves creating:
+A. A bit-for-bit copy of storage media
+B. A handwritten copy
+C. A screenshot only
+D. A printed report only
+**Answer: A**
+
+### 196.
+
+Investigators calculate hash values for:
+A. Original and forensic copy
+B. Only the suspect
+C. Only the police report
+D. Only the computer screen
+**Answer: A**
+
+### 197.
+
+Identical hash values demonstrate that:
+A. The copy is a faithful, unaltered replica
+B. The suspect is guilty
+C. The computer is infected
+D. The file is encrypted
+**Answer: A**
+
+### 198.
+
+Section 65B concerns:
+A. Electronic evidence certification
+B. Cyber terrorism
+C. Identity theft
+D. CA licensing
+**Answer: A**
+
+### 199.
+
+A Section 65B certificate generally identifies:
+A. The electronic record
+B. How it was produced
+C. Proper functioning of the device
+D. All of the above
+**Answer: D**
+
+### 200.
+
+Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal concerned:
+A. Electronic evidence certification
+B. Cyber terrorism
+C. Digital signatures
+D. Privacy
+**Answer: A**
+
+### 201.
+
+The Arjun Panditrao case was decided by:
+A. Supreme Court of India
+B. Delhi High Court
+C. TDSAT
+D. Allahabad High Court
+**Answer: A**
+
+### 202.
+
+A major principle from Arjun Panditrao is the importance of:
+A. Section 65B certification
+B. Section 66F
+C. Section 43A
+D. Section 79
+**Answer: A**
+
+### 203.
+
+Chain of custody means:
+A. Documented record of who collected, transferred and analysed evidence
+B. Password management
+C. Internet routing
+D. CA licensing
+**Answer: A**
+
+### 204.
+
+A gap in chain of custody may:
+A. Be used to challenge authenticity of evidence
+B. Automatically prove guilt
+C. Increase the evidence's value
+D. Have no significance
+**Answer: A**
+
+### 205.
+
+Cyber forensics involves:
+A. Identification
+B. Preservation/acquisition
+C. Examination/analysis
+D. All of the above
+**Answer: D**
+
+### 206.
+
+Forensic examination should generally be conducted on:
+A. A verified forensic copy
+B. The original media
+C. A random computer
+D. A screenshot
+**Answer: A**
+
+### 207.
+
+Forensic analysis should be:
+A. Repeatable and verifiable
+B. Secret and undocumented
+C. Irreproducible
+D. Informal
+**Answer: A**
+
+### 208.
+
+Which is a forensic tool mentioned in the notes?
+A. EnCase
+B. FTK
+C. Autopsy
+D. All of the above
+**Answer: D**
+
+### 209.
+
+The Indian Cyber Crime Coordination Centre is abbreviated:
+A. I4C
+B. ICC
+C. IC3
+D. CCA
+**Answer: A**
+
+### 210.
+
+I4C operates under:
+A. Ministry of Home Affairs
+B. Ministry of Finance
+C. Ministry of Education
+D. Ministry of Law only
+**Answer: A**
+
+### 211.
+
+CERT-In primarily deals with:
+A. Computer security incidents
+B. Criminal trials
+C. CA licensing
+D. Civil compensation
+**Answer: A**
+
+### 212.
+
+CERT-In functions under:
+A. Ministry of Electronics and Information Technology
+B. Ministry of Home Affairs
+C. Ministry of Finance
+D. Ministry of Defence
+**Answer: A**
+
+### 213.
+
+NCIIPC primarily protects:
+A. Critical information infrastructure
+B. School computers
+C. Individual passwords only
+D. Paper records
+**Answer: A**
+
+### 214.
+
+CBI Cyber Crime Division may investigate:
+A. Interstate/international cybercrime
+B. Only local password theft
+C. Only civil cases
+D. Only CA licensing
+**Answer: A**
+
+### 215.
+
+NIA may handle:
+A. Cyber-terrorism cases
+B. Only e-commerce disputes
+C. CA licence applications
+D. Digital certificates
+**Answer: A**
+
+---
+
+# UNIT IV — Damages, Penalties & Adjudication
+
+### 216.
+
+Chapter IX creates a:
+A. Civil compensation framework
+B. Digital signature framework only
+C. Privacy framework only
+D. PKI framework
+**Answer: A**
+
+### 217.
+
+Section 43 creates:
+A. Civil liability
+B. Only criminal liability
+C. Constitutional liability
+D. No liability
+**Answer: A**
+
+### 218.
+
+Section 66 creates:
+A. Criminal liability for certain Section 43 acts done dishonestly/fraudulently
+B. Only civil compensation
+C. CA licensing
+D. Privacy rights
+**Answer: A**
+
+### 219.
+
+Civil liability under Section 43 does not require proof of:
+A. Dishonest or fraudulent intent
+B. Access
+C. Damage
+D. Loss
+**Answer: A**
+
+### 220.
+
+The standard mentioned for adjudicating civil compensation is:
+A. Balance of probabilities
+B. Beyond reasonable doubt
+C. Absolute certainty
+D. No evidence
+**Answer: A**
+
+### 221.
+
+Criminal prosecution generally requires proof:
+A. Beyond reasonable doubt
+B. Balance of probabilities
+C. Mere suspicion
+D. No evidence
+**Answer: A**
+
+### 222.
+
+Section 43 covers:
+A. Unauthorised access
+B. Damage
+C. Disruption
+D. All of the above
+**Answer: D**
+
+### 223.
+
+A computer contaminant is defined as instructions designed to:
+A. Modify, destroy, record, transmit data or usurp normal operation
+B. Only print documents
+C. Only create passwords
+D. Only browse websites
+**Answer: A**
+
+### 224.
+
+Examples of computer contaminants mentioned include:
+A. Viruses
+B. Worms
+C. Trojans
+D. All of the above
+**Answer: D**
+
+### 225.
+
+Section 46 deals with:
+A. Power to adjudicate
+B. Cyber terrorism
+C. Privacy
+D. Digital signatures
+**Answer: A**
+
+### 226.
+
+An Adjudicating Officer is appointed by:
+A. Central Government
+B. Supreme Court
+C. CA
+D. Police station
+**Answer: A**
+
+### 227.
+
+The Adjudicating Officer must be not below the rank of:
+A. Director to the Government of India or equivalent State officer
+B. Inspector
+C. Constable
+D. Clerk
+**Answer: A**
+
+### 228.
+
+The pecuniary jurisdiction of the Adjudicating Officer mentioned in the notes is up to:
+A. ₹5 crore
+B. ₹50 lakh
+C. ₹1 crore
+D. ₹10 crore
+**Answer: A**
+
+### 229.
+
+Claims exceeding the AO's pecuniary jurisdiction go to:
+A. Competent court
+B. Police station
+C. CA
+D. CCA
+**Answer: A**
+
+### 230.
+
+The Adjudicating Officer possesses powers of:
+A. A civil court
+B. Parliament
+C. Police inspector
+D. CA
+**Answer: A**
+
+### 231.
+
+Section 47 specifies factors for determining:
+A. Compensation or penalty
+B. Digital signature validity
+C. Cyber terrorism
+D. CA licensing
+**Answer: A**
+
+### 232.
+
+One Section 47 factor is:
+A. Unfair advantage gained by the offender
+B. Victim's age only
+C. Offender's education
+D. Internet speed
+**Answer: A**
+
+### 233.
+
+Another Section 47 factor is:
+A. Loss caused to a person
+B. Computer brand
+C. Location of the server only
+D. Type of operating system
+**Answer: A**
+
+### 234.
+
+A third Section 47 factor is:
+A. Repetitive nature of the default
+B. Political status
+C. Age of computer
+D. Internet provider
+**Answer: A**
+
+### 235.
+
+Section 44 concerns:
+A. Failure to furnish documents, returns or reports
+B. Cyber terrorism
+C. Identity theft
+D. Digital signatures
+**Answer: A**
+
+### 236.
+
+Section 45 provides:
+A. Residuary penalty
+B. Cyber terrorism punishment
+C. Privacy rights
+D. CA licensing
+**Answer: A**
+
+### 237.
+
+Sections 43–45 are primarily:
+A. Civil/contravention provisions
+B. Criminal offences only
+C. Constitutional provisions
+D. International treaties
+**Answer: A**
+
+### 238.
+
+Chapter XI offences are:
+A. Criminal in nature
+B. Purely civil
+C. Administrative only
+D. Ethical only
+**Answer: A**
+
+### 239.
+
+Section 43A concerns:
+A. Compensation for failure to protect sensitive personal data
+B. Cyber terrorism
+C. Digital signatures
+D. Appellate jurisdiction
+**Answer: A**
+
+### 240.
+
+Section 43A was inserted by:
+A. IT Amendment Act 2008
+B. IT Act 2000 original text
+C. DPDP Act 2023
+D. GDPR
+**Answer: A**
+
+### 241.
+
+Section 43A applies to:
+A. Body corporates
+B. Only courts
+C. Only police
+D. Only individual hackers
+**Answer: A**
+
+### 242.
+
+A body corporate may be liable under Section 43A when it is negligent in:
+A. Implementing reasonable security practices
+B. Issuing passports
+C. Conducting elections
+D. Issuing CA licences
+**Answer: A**
+
+### 243.
+
+Section 43A applies to:
+A. Sensitive personal data or information
+B. Only public information
+C. Only paper documents
+D. Only government secrets
+**Answer: A**
+
+### 244.
+
+Examples of sensitive personal data include:
+A. Passwords
+B. Financial information
+C. Health information
+D. All of the above
+**Answer: D**
+
+### 245.
+
+Sensitive personal data may include:
+A. Biometric information
+B. Medical records
+C. Sexual orientation
+D. All of the above
+**Answer: D**
+
+### 246.
+
+Reasonable security practices are intended to protect against:
+A. Unauthorised access
+B. Damage
+C. Disclosure
+D. All of the above
+**Answer: D**
+
+### 247.
+
+The notes identify ISO/IEC:
+A. 27001
+B. 9001
+C. 14001
+D. 31000
+**Answer: A**
+
+### 248.
+
+An organisation may demonstrate reasonable security practices through:
+A. A documented information security programme and policy
+B. No policy
+C. Verbal assurances only
+D. A newspaper advertisement
+**Answer: A**
+
+### 249.
+
+An Adjudicating Officer may:
+A. Hear parties
+B. Receive evidence
+C. Pass a reasoned order
+D. All of the above
+**Answer: D**
+
+### 250.
+
+Section 61 limits the jurisdiction of:
+A. Ordinary civil courts in matters assigned to the AO/Appellate Tribunal
+B. Criminal courts generally
+C. Supreme Court
+D. Parliament
+**Answer: A**
+
+### 251.
+
+The Cyber Appellate Tribunal was established under:
+A. Chapter X
+B. Chapter I
+C. Chapter V
+D. Chapter XI
+**Answer: A**
+
+### 252.
+
+The Cyber Appellate Tribunal was merged with:
+A. TDSAT
+B. CBI
+C. NIA
+D. CERT-In
+**Answer: A**
+
+### 253.
+
+The merger occurred through:
+A. Finance Act, 2017
+B. IT Act, 2000
+C. IT Amendment Act, 2008
+D. DPDP Act
+**Answer: A**
+
+### 254.
+
+TDSAT stands for:
+A. Telecom Disputes Settlement and Appellate Tribunal
+B. Technology Data Security Appellate Tribunal
+C. Telecom Data Security Authority Tribunal
+D. Technical Dispute Settlement Authority Tribunal
+**Answer: A**
+
+### 255.
+
+After the merger, appeals previously handled by the Cyber Appellate Tribunal go to:
+A. TDSAT
+B. CCA
+C. AO only
+D. CERT-In
+**Answer: A**
+
+### 256.
+
+An appeal from TDSAT under Section 62 may go to:
+A. Jurisdictional High Court
+B. Police station
+C. CA
+D. Adjudicating Officer
+**Answer: A**
+
+### 257.
+
+The time mentioned for appeal to the High Court is:
+A. 60 days
+B. 30 days
+C. 15 days
+D. 90 days
+**Answer: A**
+
+### 258.
+
+An appeal under Section 62 may involve:
+A. Question of fact or law
+B. Only criminal guilt
+C. Only tax matters
+D. Only CA licensing
+**Answer: A**
+
+### 259.
+
+The notes identify a concern regarding the merger because:
+A. Telecom and IT require somewhat distinct technical expertise
+B. Cyber law disappeared
+C. IT Act was repealed
+D. TDSAT became a police agency
+**Answer: A**
+
+### 260.
+
+A proposed solution to the expertise concern is:
+A. Dedicated bench or members with cyber-law/technology background
+B. Abolishing TDSAT
+C. Abolishing cyber law
+D. Removing appeals
+**Answer: A**
+
+---
+
+# UNIT V — Confidentiality, Privacy & Data Protection
+
+### 261.
+
+The Supreme Court recognised privacy as a fundamental right in:
+A. Justice K.S. Puttaswamy v. Union of India
+B. Shreya Singhal
+C. Trimex
+D. NASSCOM
+**Answer: A**
+
+### 262.
+
+The Puttaswamy judgment was delivered in:
+A. 2017
+B. 2008
+C. 2000
+D. 2023
+**Answer: A**
+
+### 263.
+
+The right to privacy was linked to:
+A. Article 21
+B. Article 14 only
+C. Article 32 only
+D. Article 19 only
+**Answer: A**
+
+### 264.
+
+Puttaswamy recognised:
+A. Informational privacy
+B. Only physical privacy
+C. Only property rights
+D. Only commercial privacy
+**Answer: A**
+
+### 265.
+
+The proportionality test mentioned in the notes requires:
+A. Legal basis
+B. Legitimate State aim
+C. Proportionality
+D. All of the above
+**Answer: D**
+
+### 266.
+
+The IT Act provisions particularly relevant to confidentiality/privacy include:
+A. Sections 72 and 72A
+B. Sections 3 and 4 only
+C. Sections 17 and 18 only
+D. Sections 61 and 62 only
+**Answer: A**
+
+### 267.
+
+Section 72 concerns:
+A. Breach of confidentiality and privacy
+B. Cyber terrorism
+C. Identity theft
+D. Data theft
+**Answer: A**
+
+### 268.
+
+Section 72 primarily applies to persons who obtained access through:
+A. Powers conferred under the IT Act
+B. Ordinary employment only
+C. Private friendship
+D. Social media
+**Answer: A**
+
+### 269.
+
+Section 72 penalises:
+A. Unauthorised disclosure of information obtained under statutory powers
+B. Phishing
+C. Identity theft
+D. Cyber terrorism
+**Answer: A**
+
+### 270.
+
+The maximum imprisonment mentioned for Section 72 is:
+A. Two years
+B. Three years
+C. Five years
+D. Life imprisonment
+**Answer: A**
+
+### 271.
+
+Section 72A was inserted by:
+A. IT Amendment Act 2008
+B. IT Act 2000
+C. DPDP Act 2023
+D. Finance Act 2017
+**Answer: A**
+
+### 272.
+
+Section 72A primarily addresses disclosure by:
+A. Service providers acting under a lawful contract
+B. Only judges
+C. Only police officers
+D. Only CAs
+**Answer: A**
+
+### 273.
+
+Section 72A requires disclosure to be:
+A. Without consent and in breach of lawful contract, with wrongful gain/loss intent or knowledge
+B. Always authorised
+C. Required by a CA
+D. Accidental only
+**Answer: A**
+
+### 274.
+
+The maximum imprisonment under Section 72A mentioned in the notes is:
+A. Three years
+B. Two years
+C. Five years
+D. Ten years
+**Answer: A**
+
+### 275.
+
+Section 72 and Section 72A differ primarily in:
+A. How the person obtained access to information
+B. Whether computers exist
+C. Whether data is digital
+D. Whether a password exists
+**Answer: A**
+
+### 276.
+
+A bank employee leaking data through ordinary employment access would primarily raise issues under:
+A. Section 72A/other applicable laws rather than Section 72
+B. Section 66F only
+C. Section 17
+D. Section 21
+**Answer: A**
+
+### 277.
+
+The DPDP Act is:
+A. India's comprehensive dedicated digital personal data protection statute
+B. A criminal procedure statute
+C. A CA licensing statute
+D. A cybercrime investigation manual
+**Answer: A**
+
+### 278.
+
+The DPDP Act was enacted in:
+A. 2023
+B. 2000
+C. 2008
+D. 2017
+**Answer: A**
+
+### 279.
+
+The DPDP Act received Presidential assent on:
+A. 11 August 2023
+B. 9 May 2000
+C. 17 October 2000
+D. 25 May 2018
+**Answer: A**
+
+### 280.
+
+The person/entity determining the purpose and means of processing is called:
+A. Data Fiduciary
+B. Data Principal
+C. Consent Manager
+D. Data Processor only
+**Answer: A**
+
+### 281.
+
+The individual to whom personal data relates is:
+A. Data Principal
+B. Data Fiduciary
+C. Controller
+D. Adjudicating Officer
+**Answer: A**
+
+### 282.
+
+The DPDP Act grants Data Principals:
+A. Rights relating to their data
+B. CA licences
+C. Criminal immunity
+D. Police powers
+**Answer: A**
+
+### 283.
+
+One Data Principal right mentioned is:
+A. Access to information about their data
+B. Appointment as CCA
+C. Issuing DSCs
+D. Conducting cyber investigations
+**Answer: A**
+
+### 284.
+
+The DPDP Act provides a right to:
+A. Correction and erasure
+B. CA licensing
+C. Cybercrime investigation
+D. Source-code ownership
+**Answer: A**
+
+### 285.
+
+Another right of Data Principals is:
+A. Grievance redressal
+B. Criminal prosecution
+C. TDSAT membership
+D. CA certification
+**Answer: A**
+
+### 286.
+
+The DPDP Act allows a person to nominate a representative:
+A. To exercise rights after their death
+B. To issue DSCs
+C. To conduct criminal investigations
+D. To become CCA
+**Answer: A**
+
+### 287.
+
+The regulatory body under the DPDP Act is:
+A. Data Protection Board of India
+B. Cyber Appellate Tribunal
+C. CCA
+D. CERT-In
+**Answer: A**
+
+### 288.
+
+The DPDP Act introduces:
+A. Consent Managers
+B. CA licences
+C. Cyber courts
+D. Police cells
+**Answer: A**
+
+### 289.
+
+Consent Managers help individuals:
+A. Give, manage, review and withdraw consent
+B. Investigate hackers
+C. Issue certificates
+D. Conduct trials
+**Answer: A**
+
+### 290.
+
+The DPDP Act applies to:
+A. Processing digital personal data within India
+B. Certain processing outside India connected with offering goods/services to individuals in India
+C. Both A and B
+D. Neither
+**Answer: C**
+
+### 291.
+
+A core data protection principle is:
+A. Consent
+B. Purpose limitation
+C. Data minimisation
+D. All of the above
+**Answer: D**
+
+### 292.
+
+Purpose limitation means data should be collected:
+A. For specified, clear and lawful purposes
+B. For unlimited future purposes
+C. Without purpose
+D. Only for advertising
+**Answer: A**
+
+### 293.
+
+Data minimisation means:
+A. Collect only data reasonably necessary for the purpose
+B. Collect everything available
+C. Delete all data immediately
+D. Avoid security
+**Answer: A**
+
+### 294.
+
+Storage limitation means:
+A. Data should not be retained longer than necessary
+B. Data must be retained forever
+C. Data cannot be stored
+D. Data must be printed
+**Answer: A**
+
+### 295.
+
+Accuracy requires:
+A. Reasonable steps to keep personal data accurate and up to date
+B. Data to remain unchanged forever
+C. Data to be anonymous
+D. Data to be deleted immediately
+**Answer: A**
+
+### 296.
+
+Security safeguards are intended to protect data against:
+A. Unauthorised access
+B. Loss
+C. Breach
+D. All of the above
+**Answer: D**
+
+### 297.
+
+Accountability means the entity determining processing purposes and means:
+A. Is responsible for and able to demonstrate compliance
+B. Has no responsibility
+C. Transfers all responsibility to users
+D. Cannot be audited
+**Answer: A**
+
+### 298.
+
+Under the SPDI Rules, sensitive personal data includes:
+A. Passwords
+B. Financial information
+C. Health information
+D. All of the above
+**Answer: D**
+
+### 299.
+
+Which is NOT listed as sensitive personal data under the SPDI Rules?
+A. Biometric information
+B. Medical records
+C. Sexual orientation
+D. Ordinary publicly available information
+**Answer: D**
+
+### 300.
+
+The GDPR is the:
+A. European Union's comprehensive data protection regulation
+B. Indian cybercrime statute
+C. Indian CA licensing law
+D. Indian criminal code
+**Answer: A**
+
+---
+
+## High-priority revision list 📌
+
+For your MCQ exam, these are particularly worth memorising from this material:
+
+| Area                | Must-know                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Cyber Law           | Definition, need, cyberspace characteristics                                                                         |
+| IT Act              | **2000**, assent **9 May 2000**, effective **17 Oct 2000**                                                           |
+| International basis | **UNCITRAL Model Law 1996**                                                                                          |
+| Section 4           | Electronic records                                                                                                   |
+| Section 5           | Digital/electronic signatures                                                                                        |
+| Section 43          | Civil liability/compensation                                                                                         |
+| Section 43A         | Sensitive personal data + corporate negligence                                                                       |
+| Section 46          | Adjudicating Officer                                                                                                 |
+| Section 47          | Factors for compensation                                                                                             |
+| Section 61          | Civil-court jurisdiction bar                                                                                         |
+| Section 62          | Appeal to High Court                                                                                                 |
+| Section 66          | Computer-related criminal offences                                                                                   |
+| Section 66C         | Identity theft                                                                                                       |
+| Section 66D         | Cheating by personation                                                                                              |
+| Section 66E         | Violation of privacy                                                                                                 |
+| Section 66F         | Cyber terrorism                                                                                                      |
+| Section 72          | Statutory confidentiality/privacy                                                                                    |
+| Section 72A         | Contractual/service-provider disclosure                                                                              |
+| Section 75          | Extraterritorial application                                                                                         |
+| Section 78          | Investigation                                                                                                        |
+| Section 79          | Intermediary safe harbour                                                                                            |
+| Section 85          | Corporate liability                                                                                                  |
+| Digital signature   | Private key → hash/signature; public key → verification                                                              |
+| PKI                 | CA, RA, DSC, CRL, repository, subscriber                                                                             |
+| CCA                 | Apex PKI authority                                                                                                   |
+| Section 65B         | Electronic evidence certificate                                                                                      |
+| Cyber forensics     | Imaging, hashing, chain of custody                                                                                   |
+| Cases               | **Shreya Singhal, PR Transport Agency, Trimex, NASSCOM v Ajay Sood, Ritu Kohli, Arjun Panditrao, Puttaswamy**        |
+| Unit IV             | Civil vs criminal liability                                                                                          |
+| TDSAT               | Cyber Appellate Tribunal merged into TDSAT in **2017**                                                               |
+| Privacy             | **Puttaswamy — 2017, Article 21**                                                                                    |
+| DPDP                | Data Fiduciary, Data Principal, Consent Manager, DPB                                                                 |
+| SPDI                | Passwords, financial data, health, sexual orientation, medical records, biometrics                                   |
+| GDPR                | EU regulation, effective **25 May 2018**                                                                             |
+| Ethics              | Surveillance, consent fatigue/dark patterns, data monetisation, responsible disclosure, encryption, algorithmic bias |
+
+This gives you **300 questions** across the entire uploaded Cyber Law material. The file itself is the sole basis for the bank.

@@ -1,0 +1,3462 @@
+# 📗 Indian Health Science (IHS) — Exhaustive MCQ Question Bank
+
+I’ve used **only your uploaded IHS study material**. Because the PDF’s machine-readable text is partially garbled, I’m avoiding inventing unclear statistics or correcting source terminology with outside information. The bank follows the **four units and concepts actually present in your notes**. 
+
+---
+
+# UNIT I — OVERVIEW OF INDIAN HEALTH SYSTEMS
+
+## A. Historical Evolution of Healthcare in India
+
+### Q1. Indian healthcare development is broadly divided into how many eras in the notes?
+
+A. Two
+B. Three
+C. Four
+D. Five
+
+**Answer: C**
+
+### Q2. The ancient period of Indian healthcare is described as extending from the Vedic period to approximately:
+
+A. 200 CE
+B. 600 CE
+C. 1000 CE
+D. 1700 CE
+
+**Answer: B**
+
+### Q3. Ayurveda developed from:
+
+A. Greek philosophy
+B. The Vedas
+C. Modern medicine
+D. Unani medicine
+
+**Answer: B**
+
+### Q4. Ayurveda is described as being developed from:
+
+A. Atharvaveda
+B. Rigveda only
+C. Samaveda only
+D. Arthashastra
+
+**Answer: A**
+
+### Q5. Charaka is associated primarily with:
+
+A. Internal medicine
+B. Surgery
+C. Ophthalmology only
+D. Public administration
+
+**Answer: A**
+
+### Q6. The work associated with Charaka is:
+
+A. Charaka Samhita
+B. Sushruta Samhita
+C. Ashtanga Hridaya
+D. Madhava Nidana
+
+**Answer: A**
+
+### Q7. Charaka's work included discussion of:
+
+A. Medical ethics, hygiene and physical conditions
+B. Railway medicine
+C. Modern genetics
+D. Health insurance
+
+**Answer: A**
+
+### Q8. Sushruta is described as the father of ancient:
+
+A. Surgery
+B. Epidemiology
+C. Public health
+D. Psychology
+
+**Answer: A**
+
+### Q9. The work associated with Sushruta is:
+
+A. Sushruta Samhita
+B. Charaka Samhita
+C. Madhava Nidana
+D. Ashtanga Sangraha
+
+**Answer: A**
+
+### Q10. Sushruta Samhita describes:
+
+A. Surgical instruments and complex operations
+B. Only herbal medicines
+C. Only mental health
+D. Health insurance schemes
+
+**Answer: A**
+
+### Q11. Rhinoplasty is described in the notes as:
+
+A. Plastic surgery of the nose
+B. Eye surgery
+C. Heart surgery
+D. Brain surgery
+
+**Answer: A**
+
+### Q12. Sushruta's school was located at:
+
+A. Kashi
+B. Hyderabad
+C. Calcutta
+D. Delhi
+
+**Answer: A**
+
+### Q13. Vagbhata wrote:
+
+A. Ashtanga Hridaya and Ashtanga Sangraha
+B. Charaka Samhita and Madhava Nidana
+C. Sushruta Samhita only
+D. National Health Policy
+
+**Answer: A**
+
+### Q14. Vagbhata's works condensed the knowledge of:
+
+A. Charaka and Sushruta
+B. Only Sushruta
+C. Only Charaka
+D. Unani physicians
+
+**Answer: A**
+
+### Q15. Takshashila was famous as a centre for:
+
+A. Medicine
+B. Insurance
+C. Modern surgery only
+D. Pharmaceutical manufacturing
+
+**Answer: A**
+
+### Q16. Nalanda was another ancient centre of:
+
+A. Learning
+B. Insurance
+C. Corporate healthcare
+D. Medical regulation
+
+**Answer: A**
+
+### Q17. Unani medicine came to India during the:
+
+A. Medieval period
+B. Ancient Vedic period
+C. Post-independence period
+D. Modern digital period
+
+**Answer: A**
+
+### Q18. Unani medicine was brought to India by:
+
+A. Arabs and Persian physicians
+B. British physicians
+C. Portuguese traders only
+D. American doctors
+
+**Answer: A**
+
+### Q19. Unani medicine was patronised by:
+
+A. Delhi Sultans, Mughals and later the Nizams of Hyderabad
+B. Only the British
+C. Only Buddhist institutions
+D. Only private hospitals
+
+**Answer: A**
+
+### Q20. Madhava Nidana is associated with:
+
+A. Madhavakara
+B. Charaka
+C. Sushruta
+D. Vagbhata
+
+**Answer: A**
+
+### Q21. Madhava Nidana is described as a medieval:
+
+A. Compilation on diagnosis
+B. Surgical textbook
+C. Health policy
+D. Insurance manual
+
+**Answer: A**
+
+### Q22. The Siddha system flourished particularly in:
+
+A. South India
+B. North India
+C. Western India
+D. Eastern India
+
+**Answer: A**
+
+### Q23. The colonial period in the notes refers to the:
+
+A. British period
+B. Mughal period
+C. Vedic period
+D. Post-independence period
+
+**Answer: A**
+
+### Q24. The Indian Medical Service originated in:
+
+A. 1768
+B. 1855
+C. 1947
+D. 1950
+
+**Answer: A**
+
+### Q25. The Indian Medical Service was organised primarily to:
+
+A. Serve the army
+B. Manage health insurance
+C. Run Ayurveda hospitals
+D. Train nurses only
+
+**Answer: A**
+
+### Q26. The first modern Western medical college in India was established at:
+
+A. Calcutta
+B. Mumbai
+C. Delhi
+D. Chennai
+
+**Answer: A**
+
+### Q27. The establishment of the first Western medical college marked the beginning of:
+
+A. Institutional medical research in India
+B. AYUSH
+C. Health insurance
+D. Panchayati Raj
+
+**Answer: A**
+
+### Q28. The Indian Research Fund Association is abbreviated as:
+
+A. IRFA
+B. IRDA
+C. ICMR
+D. NMC
+
+**Answer: A**
+
+### Q29. Indigenous systems of medicine received state support after:
+
+A. Independence
+B. The Mughal period
+C. The Vedic period
+D. The colonial period
+
+**Answer: A**
+
+### Q30. Rajkumari Amrit Kaur became India's first:
+
+A. Health Minister
+B. Medical Council Chairperson
+C. Surgeon General
+D. Director of NCDC
+
+**Answer: A**
+
+### Q31. Rajkumari Amrit Kaur became Health Minister in:
+
+A. 1947
+B. 1950
+C. 1952
+D. 1960
+
+**Answer: A**
+
+### Q32. After independence, health planning occurred through:
+
+A. Five-Year Plans
+B. Only private hospitals
+C. Only AYUSH programmes
+D. Insurance companies
+
+**Answer: A**
+
+---
+
+# B. Traditional Systems of Medicine — AYUSH
+
+### Q33. India recognises several traditional systems alongside:
+
+A. Modern allopathic medicine
+B. Only Unani medicine
+C. Only Ayurveda
+D. Only homeopathy
+
+**Answer: A**
+
+### Q34. AYUSH includes:
+
+A. Ayurveda, Yoga & Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy
+B. Ayurveda and surgery only
+C. Yoga and surgery only
+D. Unani and allopathy only
+
+**Answer: A**
+
+### Q35. The “A” in AYUSH stands for:
+
+A. Ayurveda
+B. Allopathy
+C. Anatomy
+D. Administration
+
+**Answer: A**
+
+### Q36. The “Y” in AYUSH stands for:
+
+A. Yoga & Naturopathy
+B. Youth Health
+C. Yoga only
+D. Yajurveda
+
+**Answer: A**
+
+### Q37. The “U” in AYUSH represents:
+
+A. Unani
+B. Universal medicine
+C. Urban health
+D. Urology
+
+**Answer: A**
+
+### Q38. The “S” in AYUSH includes:
+
+A. Siddha and Sowa-Rigpa
+B. Surgery only
+C. Science only
+D. Sanitation only
+
+**Answer: A**
+
+### Q39. The “H” in AYUSH represents:
+
+A. Homoeopathy
+B. Hygiene
+C. Healthcare
+D. Hospital medicine
+
+**Answer: A**
+
+### Q40. Ayurveda is traditionally associated with:
+
+A. India
+B. Greece
+C. Germany
+D. China
+
+**Answer: A**
+
+### Q41. Unani has roots associated with:
+
+A. Greek philosophy
+B. Vedic philosophy only
+C. Modern chemistry
+D. British medicine
+
+**Answer: A**
+
+### Q42. Homoeopathy is associated in the notes with:
+
+A. Germany and Hahnemann
+B. Greece and Hippocrates
+C. India and Charaka
+D. Britain and Sushruta
+
+**Answer: A**
+
+### Q43. Siddha is associated particularly with:
+
+A. Tamil Nadu/South India
+B. Germany
+C. Greece
+D. Hyderabad only
+
+**Answer: A**
+
+---
+
+# C. Health Committees and Policies
+
+### Q44. Health committees helped build:
+
+A. The present health system
+B. Only private healthcare
+C. Only AYUSH
+D. Only insurance systems
+
+**Answer: A**
+
+### Q45. The Bhore Committee was established in:
+
+A. 1946
+B. 1952
+C. 1961
+D. 1975
+
+**Answer: A**
+
+### Q46. The Bhore Committee is associated with:
+
+A. Foundations of public health planning
+B. Family planning only
+C. Medical education only
+D. Insurance regulation
+
+**Answer: A**
+
+### Q47. The Bhore Committee recommended:
+
+A. Integration of preventive and curative services
+B. Separation of all healthcare services
+C. Private healthcare only
+D. Elimination of primary care
+
+**Answer: A**
+
+### Q48. The Mudaliar Committee was established in:
+
+A. 1962
+B. 1946
+C. 1975
+D. 1983
+
+**Answer: A**
+
+### Q49. The Mudaliar Committee focused on:
+
+A. Strengthening existing PHCs and hospital services
+B. Only insurance
+C. Only medical colleges
+D. Only Ayurveda
+
+**Answer: A**
+
+### Q50. The Mukherjee Committee was associated with:
+
+A. Strengthening family planning administration
+B. Tertiary hospitals
+C. Medical education
+D. Health insurance
+
+**Answer: A**
+
+### Q51. The Chadha Committee was established in:
+
+A. 1963
+B. 1946
+C. 1975
+D. 1983
+
+**Answer: A**
+
+### Q52. The Chadha Committee recommended:
+
+A. Multipurpose workers
+B. Organ transplantation
+C. Private insurance
+D. Medical colleges
+
+**Answer: A**
+
+### Q53. The Mukherjee Committee was followed by the:
+
+A. Chadha Committee
+B. Bhore Committee
+C. Sarkaria Committee
+D. Mudaliar Committee
+
+**Answer: A**
+
+### Q54. The Jungalwalla Committee was established in:
+
+A. 1967
+B. 1946
+C. 1975
+D. 2005
+
+**Answer: A**
+
+### Q55. The Jungalwalla Committee focused on:
+
+A. Integration of health services
+B. Medical insurance
+C. Tertiary surgery
+D. Digital health
+
+**Answer: A**
+
+### Q56. The Kartar Singh Committee was established in:
+
+A. 1973
+B. 1963
+C. 1946
+D. 1983
+
+**Answer: A**
+
+### Q57. The Kartar Singh Committee is associated with:
+
+A. Multipurpose health workers
+B. Health insurance
+C. Organ transplantation
+D. Private hospitals
+
+**Answer: A**
+
+### Q58. The Shrivastava Committee was established in:
+
+A. 1975
+B. 1967
+C. 1952
+D. 2005
+
+**Answer: A**
+
+### Q59. The Shrivastava Committee recommended:
+
+A. Community health workers and paraprofessionals
+B. Only specialist hospitals
+C. Only insurance schemes
+D. Only medical colleges
+
+**Answer: A**
+
+### Q60. National Health Policy 1983 set:
+
+A. Goals for health for all
+B. Goals for private insurance
+C. Goals for medical tourism
+D. Goals for digital hospitals
+
+**Answer: A**
+
+### Q61. National Health Policy 2017 is associated with:
+
+A. Strengthening comprehensive healthcare
+B. Replacing all public healthcare
+C. Eliminating primary care
+D. Only tertiary care
+
+**Answer: A**
+
+### Q62. The National Health Mission was formed by merging:
+
+A. NRHM and NUHM
+B. NMC and NCDC
+C. AIIMS and PHCs
+D. NHM and NACP
+
+**Answer: A**
+
+---
+
+# D. Public Healthcare Delivery System
+
+### Q63. India's public healthcare delivery system is described as:
+
+A. A three-tier pyramid
+B. A two-tier system
+C. A single-level system
+D. A completely private system
+
+**Answer: A**
+
+### Q64. The base of the healthcare pyramid is:
+
+A. Primary care
+B. Secondary care
+C. Tertiary care
+D. Super-specialty care
+
+**Answer: A**
+
+### Q65. Primary care mainly focuses on:
+
+A. Prevention and promotion
+B. Organ transplantation
+C. Super-specialty surgery
+D. Advanced imaging only
+
+**Answer: A**
+
+### Q66. Immunisation is primarily associated with:
+
+A. Primary care
+B. Tertiary care
+C. Corporate care
+D. Super-specialty care
+
+**Answer: A**
+
+### Q67. Maternal and child health is an important component of:
+
+A. Primary care
+B. Tertiary care
+C. Corporate insurance
+D. Medical education
+
+**Answer: A**
+
+### Q68. Control of local endemic diseases is associated with:
+
+A. Primary care
+B. Tertiary care only
+C. Medical colleges
+D. Insurance companies
+
+**Answer: A**
+
+### Q69. A Primary Health Centre is abbreviated:
+
+A. PHC
+B. PHS
+C. PCH
+D. HCP
+
+**Answer: A**
+
+### Q70. Secondary care provides:
+
+A. More specialised outpatient and inpatient services
+B. Only health education
+C. Only immunisation
+D. Only sanitation
+
+**Answer: A**
+
+### Q71. Community Health Centres belong primarily to:
+
+A. Secondary care
+B. Primary care only
+C. Tertiary care
+D. Private insurance
+
+**Answer: A**
+
+### Q72. Tertiary care provides:
+
+A. Highly specialised services
+B. Only immunisation
+C. Only sanitation
+D. Only basic health education
+
+**Answer: A**
+
+### Q73. Organ transplantation is an example of:
+
+A. Tertiary care
+B. Primary care
+C. Preventive care only
+D. Community health work
+
+**Answer: A**
+
+### Q74. Advanced imaging is associated with:
+
+A. Tertiary care
+B. Primary care only
+C. Community health workers
+D. Health education
+
+**Answer: A**
+
+### Q75. Administration of public health occurs at:
+
+A. State and district levels
+B. Only village level
+C. Only central level
+D. Only hospital level
+
+**Answer: A**
+
+### Q76. The State Directorate of Health Services operates under the:
+
+A. State Health Department
+B. Ministry of Railways
+C. NMC
+D. NCDC
+
+**Answer: A**
+
+### Q77. At district level, the head of health administration is the:
+
+A. Chief Medical Officer/Chief Health Officer
+B. Health Minister
+C. NMC Chairperson
+D. PHC pharmacist
+
+**Answer: A**
+
+### Q78. The 73rd Constitutional Amendment brought:
+
+A. Panchayati Raj into health planning
+B. Private insurance into hospitals
+C. AYUSH into universities
+D. NMC into districts
+
+**Answer: A**
+
+### Q79. Panchayati Raj contributes to:
+
+A. Local health committees and community monitoring
+B. Tertiary surgery
+C. Medical education
+D. Insurance regulation
+
+**Answer: A**
+
+### Q80. The National Rural Health Mission was launched in:
+
+A. 2005
+B. 1983
+C. 1992
+D. 2017
+
+**Answer: A**
+
+### Q81. NRHM strengthened:
+
+A. Rural health
+B. Only urban hospitals
+C. Private insurance
+D. Medical education
+
+**Answer: A**
+
+### Q82. The National Rural Health Mission later became part of:
+
+A. National Health Mission
+B. National Medical Commission
+C. National Disease Control Programme
+D. NACO
+
+**Answer: A**
+
+### Q83. NUHM stands for:
+
+A. National Urban Health Mission
+B. National Universal Health Mission
+C. National Urban Hospital Mission
+D. National Unified Health Management
+
+**Answer: A**
+
+### Q84. Janani Suraksha Karyakram provides services including:
+
+A. Maternal health and transport/support for institutional delivery
+B. Cancer chemotherapy only
+C. Organ transplantation
+D. Medical education
+
+**Answer: A**
+
+### Q85. NTEP is associated with:
+
+A. Tuberculosis
+B. HIV/AIDS
+C. Maternal health
+D. Diabetes
+
+**Answer: A**
+
+### Q86. NACP is associated with:
+
+A. HIV/AIDS
+B. Tuberculosis
+C. Malaria
+D. Hypertension
+
+**Answer: A**
+
+---
+
+# E. Private, Corporate, Voluntary and Insurance Sectors
+
+### Q87. The private sector includes:
+
+A. Private hospitals and individual practitioners
+B. Only government hospitals
+C. Only PHCs
+D. Only Panchayats
+
+**Answer: A**
+
+### Q88. Corporate healthcare includes:
+
+A. Large private healthcare organisations
+B. Only village clinics
+C. Only government hospitals
+D. Only NGOs
+
+**Answer: A**
+
+### Q89. Voluntary organisations can contribute through:
+
+A. Community and healthcare services
+B. Only medical education
+C. Only insurance
+D. Only tertiary surgery
+
+**Answer: A**
+
+### Q90. The Clinical Establishments Act relates to:
+
+A. Regulation of clinical establishments
+B. Medical education only
+C. Insurance only
+D. Ayurveda only
+
+**Answer: A**
+
+### Q91. The Clinical Establishments Act was enacted in:
+
+A. 2010
+B. 1983
+C. 2005
+D. 2017
+
+**Answer: A**
+
+### Q92. The Drugs and Cosmetics Act is associated with regulation of:
+
+A. Drugs and cosmetics
+B. Panchayati Raj
+C. Hospital architecture
+D. Medical education only
+
+**Answer: A**
+
+### Q93. Medical education regulation is associated with:
+
+A. National Medical Commission
+B. NACP
+C. NTEP
+D. NCDC only
+
+**Answer: A**
+
+### Q94. The NMC replaced the:
+
+A. Medical Council of India
+B. Indian Medical Service
+C. National Health Mission
+D. NCDC
+
+**Answer: A**
+
+### Q95. Nursing Councils are:
+
+A. Separate professional regulators
+B. Insurance companies
+C. Primary health centres
+D. Voluntary organisations
+
+**Answer: A**
+
+---
+
+# UNIT II — EPIDEMIOLOGY AND PUBLIC HEALTH
+
+## A. Epidemiology
+
+### Q96. Epidemiology is the study of:
+
+A. Distribution and determinants of health-related states/events in populations
+B. Surgery only
+C. Genetic mutations only
+D. Drug structures only
+
+**Answer: A**
+
+### Q97. Distribution asks:
+
+A. Who, where and when
+B. Why and how only
+C. What drug to use
+D. Which surgery is needed
+
+**Answer: A**
+
+### Q98. Determinants ask:
+
+A. Why and how
+B. Who, where and when only
+C. Where only
+D. When only
+
+**Answer: A**
+
+### Q99. Epidemiology applies its findings to:
+
+A. Control health problems
+B. Manufacture drugs
+C. Perform surgery
+D. Study anatomy only
+
+**Answer: A**
+
+### Q100. Epidemiology studies:
+
+A. Populations
+B. Only individual patients
+C. Only laboratory samples
+D. Only hospitals
+
+**Answer: A**
+
+### Q101. A major aim of epidemiology is to:
+
+A. Describe disease patterns
+B. Design buildings
+C. Manufacture equipment
+D. Train surgeons
+
+**Answer: A**
+
+### Q102. Epidemiology helps identify:
+
+A. Causes and risk factors
+B. Only symptoms
+C. Only treatments
+D. Only medicines
+
+**Answer: A**
+
+### Q103. Epidemiology measures:
+
+A. Disease burden
+B. Hospital architecture
+C. Drug colour
+D. Surgical instruments
+
+**Answer: A**
+
+---
+
+## B. Epidemiological Triad
+
+### Q104. The epidemiological triad consists of:
+
+A. Agent, host and environment
+B. Patient, doctor and nurse
+C. Drug, dose and route
+D. Hospital, clinic and laboratory
+
+**Answer: A**
+
+### Q105. The agent is:
+
+A. The factor that causes the infection/disease
+B. The affected person
+C. The environment only
+D. The healthcare worker
+
+**Answer: A**
+
+### Q106. The host is:
+
+A. The human who may be susceptible to infection
+B. The microorganism
+C. The vector
+D. The environment
+
+**Answer: A**
+
+### Q107. Environment refers to:
+
+A. External conditions affecting transmission
+B. Only genes
+C. Only immunity
+D. Only pathogens
+
+**Answer: A**
+
+### Q108. A mosquito transmitting infection is an example of:
+
+A. A vector
+B. A host
+C. An environment
+D. A dose
+
+**Answer: A**
+
+### Q109. Genes are listed as examples of:
+
+A. Internal host factors
+B. Environmental factors
+C. Vectors
+D. Agents
+
+**Answer: A**
+
+### Q110. Water supply and sanitation are:
+
+A. Environmental factors
+B. Genetic factors
+C. Host genes
+D. Pathogens
+
+**Answer: A**
+
+---
+
+## C. Types of Epidemiology
+
+### Q111. Descriptive epidemiology describes disease by:
+
+A. Time, place and person
+B. Age only
+C. Treatment only
+D. Hospital only
+
+**Answer: A**
+
+### Q112. Analytical epidemiology tests:
+
+A. Hypotheses about risk factors and outcomes
+B. Surgical techniques
+C. Drug structures
+D. Hospital architecture
+
+**Answer: A**
+
+### Q113. Case-control and cohort studies are examples of:
+
+A. Analytical epidemiology
+B. Descriptive epidemiology only
+C. Environmental sanitation
+D. Tertiary care
+
+**Answer: A**
+
+### Q114. Experimental epidemiology involves:
+
+A. Introducing an intervention
+B. Only observing disease
+C. Only describing cases
+D. Only collecting historical data
+
+**Answer: A**
+
+### Q115. Environmental epidemiology studies effects of:
+
+A. Environmental exposures
+B. Hereditary genes only
+C. Drug structures only
+D. Surgery
+
+**Answer: A**
+
+### Q116. Water, chemicals and radiation are examples of:
+
+A. Environmental exposures
+B. Host factors
+C. Genetic mutations
+D. Social values
+
+**Answer: A**
+
+---
+
+# D. Disease Occurrence
+
+### Q117. Endemic means:
+
+A. Constant presence of a disease in a population/area
+B. Worldwide spread
+C. Sudden local outbreak only
+D. Complete disappearance
+
+**Answer: A**
+
+### Q118. An epidemic means:
+
+A. Occurrence of disease cases in excess of what is normally expected
+B. Constant low-level presence
+C. Worldwide disease only
+D. No disease
+
+**Answer: A**
+
+### Q119. A pandemic is:
+
+A. An epidemic spreading across countries/continents
+B. A local endemic disease
+C. A single case
+D. A hospital infection only
+
+**Answer: A**
+
+### Q120. Sporadic disease occurrence means:
+
+A. Irregular/infrequent cases
+B. Constant occurrence
+C. Worldwide occurrence
+D. Seasonal occurrence only
+
+**Answer: A**
+
+### Q121. Zoonotic disease is transmitted:
+
+A. From animals to humans
+B. From humans to plants
+C. From water to soil
+D. From humans to computers
+
+**Answer: A**
+
+### Q122. Rabies is an example of:
+
+A. A zoonotic disease
+B. A non-communicable disease
+C. A genetic disease
+D. A nutritional deficiency
+
+**Answer: A**
+
+### Q123. A pandemic can be described as:
+
+A. An epidemic affecting multiple countries/regions
+B. A local cluster only
+C. A single case
+D. A chronic disease
+
+**Answer: A**
+
+---
+
+# E. Incidence and Prevalence
+
+### Q124. Incidence measures:
+
+A. New cases during a specified period
+B. All existing cases at one point
+C. Deaths only
+D. Hospital admissions only
+
+**Answer: A**
+
+### Q125. Incidence measures the risk of:
+
+A. Becoming ill
+B. Being cured
+C. Dying only
+D. Being vaccinated
+
+**Answer: A**
+
+### Q126. Prevalence includes:
+
+A. Existing cases, both old and new
+B. New cases only
+C. Deaths only
+D. Recovered cases only
+
+**Answer: A**
+
+### Q127. Point prevalence measures disease:
+
+A. At a particular point in time
+B. Over an entire lifetime
+C. Only among new cases
+D. Only after treatment
+
+**Answer: A**
+
+### Q128. Period prevalence measures disease:
+
+A. Over a specified period
+B. At only one instant
+C. Only among new cases
+D. Only among deaths
+
+**Answer: A**
+
+### Q129. Prevalence indicates:
+
+A. Disease burden
+B. Risk of becoming ill only
+C. Mortality only
+D. Treatment success only
+
+**Answer: A**
+
+### Q130. Which measure counts NEW cases?
+
+A. Incidence
+B. Prevalence
+C. Mortality
+D. Case fatality
+
+**Answer: A**
+
+---
+
+# F. Infectivity, Pathogenicity and Virulence
+
+### Q131. Infectivity refers to the ability of an agent to:
+
+A. Infect and multiply in a host
+B. Cause severe disease only
+C. Kill the host only
+D. Spread geographically
+
+**Answer: A**
+
+### Q132. Pathogenicity refers to the ability of an agent to:
+
+A. Cause disease in an infected host
+B. Infect without causing disease
+C. Cause only death
+D. Survive outside the host
+
+**Answer: A**
+
+### Q133. Virulence refers to:
+
+A. Severity of disease produced by an agent
+B. Ability to infect only
+C. Number of cases
+D. Duration of immunity
+
+**Answer: A**
+
+### Q134. Infectivity is primarily about:
+
+A. Infection
+B. Disease severity
+C. Mortality
+D. Treatment
+
+**Answer: A**
+
+### Q135. Pathogenicity is primarily about:
+
+A. Ability to cause disease
+B. Ability to spread internationally
+C. Ability to survive on surfaces
+D. Ability to mutate
+
+**Answer: A**
+
+### Q136. Virulence is primarily about:
+
+A. Severity
+B. Incidence
+C. Prevalence
+D. Exposure
+
+**Answer: A**
+
+---
+
+# G. Types of Epidemics
+
+### Q137. A point-source epidemic results from:
+
+A. A single/localised source of exposure
+B. Continuous person-to-person transmission only
+C. Seasonal variation only
+D. Genetic inheritance
+
+**Answer: A**
+
+### Q138. Food contaminated at a festival causing many cases is an example of:
+
+A. Point-source epidemic
+B. Propagated epidemic
+C. Seasonal epidemic
+D. Sporadic disease
+
+**Answer: A**
+
+### Q139. A propagated epidemic spreads through:
+
+A. Successive person-to-person transmission
+B. One contaminated meal only
+C. Genetic inheritance
+D. Seasonal temperature only
+
+**Answer: A**
+
+### Q140. A seasonal epidemic shows:
+
+A. Variation according to seasons
+B. Only one source
+C. No change over time
+D. Genetic transmission
+
+**Answer: A**
+
+---
+
+# H. Transmission and Control
+
+### Q141. Direct transmission includes:
+
+A. Person-to-person contact
+B. Contaminated food only
+C. Mosquitoes only
+D. Fomites only
+
+**Answer: A**
+
+### Q142. Droplet spread is a form of:
+
+A. Direct transmission
+B. Indirect transmission only
+C. Genetic transmission
+D. Environmental inheritance
+
+**Answer: A**
+
+### Q143. Vertical transmission occurs from:
+
+A. Mother to infant
+B. Mosquito to human
+C. Food to human
+D. Water to human
+
+**Answer: A**
+
+### Q144. Indirect transmission can occur through:
+
+A. Vehicles, food, water, fomites or vectors
+B. Only direct contact
+C. Only inheritance
+D. Only droplets
+
+**Answer: A**
+
+### Q145. A mosquito-borne disease represents transmission through:
+
+A. A vector
+B. A fomite
+C. A host gene
+D. Direct contact
+
+**Answer: A**
+
+### Q146. Herd immunity is resistance of a community due to:
+
+A. A high proportion of immune individuals
+B. A high proportion of infected individuals
+C. Complete isolation
+D. Antibiotic use
+
+**Answer: A**
+
+### Q147. Herd immunity protects:
+
+A. Even some unimmunised individuals
+B. Only vaccinated people
+C. Only healthcare workers
+D. Only children
+
+**Answer: A**
+
+### Q148. Quarantine restricts movement of:
+
+A. Healthy persons exposed to infection
+B. Only infected persons
+C. Healthcare workers
+D. Vaccinated persons
+
+**Answer: A**
+
+### Q149. Contact tracing involves:
+
+A. Identifying, testing and monitoring contacts
+B. Treating only the index case
+C. Closing all hospitals
+D. Vaccinating everyone immediately
+
+**Answer: A**
+
+### Q150. Contact tracing aims to:
+
+A. Break the chain of transmission
+B. Increase transmission
+C. Identify genetic mutations
+D. Increase prevalence
+
+**Answer: A**
+
+### Q151. Airport health screening is:
+
+A. An administrative control measure
+B. A surgical procedure
+C. A genetic test
+D. A treatment method
+
+**Answer: A**
+
+---
+
+# I. Epidemiological Study Designs
+
+### Q152. A case-control study starts with:
+
+A. People who already have the outcome/disease
+B. Healthy people only
+C. An intervention
+D. A population census
+
+**Answer: A**
+
+### Q153. Case-control studies generally look:
+
+A. Backward for exposure
+B. Only forward
+C. Only at treatment
+D. Only at mortality
+
+**Answer: A**
+
+### Q154. Case-control studies commonly use:
+
+A. Odds ratio
+B. Relative risk
+C. Years of potential life lost
+D. Prevalence only
+
+**Answer: A**
+
+### Q155. A cohort study begins by considering:
+
+A. Exposure status
+B. Disease severity only
+C. Treatment only
+D. Mortality only
+
+**Answer: A**
+
+### Q156. A prospective cohort follows participants:
+
+A. Into the future
+B. Only backward
+C. Only after death
+D. Without observing outcomes
+
+**Answer: A**
+
+### Q157. A retrospective cohort uses:
+
+A. Past records to determine exposure and outcomes
+B. Future interventions only
+C. Randomisation
+D. Blinding only
+
+**Answer: A**
+
+### Q158. Cohort studies are:
+
+A. Observational studies
+B. Always experimental
+C. Always randomised
+D. Always blinded
+
+**Answer: A**
+
+### Q159. An experimental study involves:
+
+A. An intervention introduced by the investigator
+B. Observation only
+C. Historical records only
+D. No comparison group
+
+**Answer: A**
+
+### Q160. Randomised controlled trials involve:
+
+A. Random allocation to groups
+B. Only historical records
+C. No intervention
+D. No comparison
+
+**Answer: A**
+
+### Q161. Blinding helps minimise:
+
+A. Performance and assessment bias
+B. Disease incidence
+C. Prevalence
+D. Mortality
+
+**Answer: A**
+
+### Q162. In double blinding:
+
+A. Participants and investigators do not know who receives the intervention
+B. Everyone knows the allocation
+C. Only the investigator knows
+D. Only the patient knows
+
+**Answer: A**
+
+### Q163. A confounding variable is associated with:
+
+A. Both exposure and outcome
+B. Only exposure
+C. Only outcome
+D. Neither
+
+**Answer: A**
+
+### Q164. Confounding can create:
+
+A. An apparent association
+B. Complete absence of association
+C. Randomisation
+D. Blinding
+
+**Answer: A**
+
+### Q165. Confounding can be controlled by:
+
+A. Randomisation, matching and stratification
+B. Ignoring exposure
+C. Increasing bias
+D. Removing the outcome
+
+**Answer: A**
+
+### Q166. Case reports, ecological studies and cross-sectional studies are generally:
+
+A. Lower in the evidence hierarchy than cohort studies and RCTs
+B. Higher than RCTs
+C. Experimental trials
+D. Always randomised
+
+**Answer: A**
+
+---
+
+# J. Relative Risk and Odds Ratio
+
+### Q167. Relative risk compares:
+
+A. Risk between exposed and unexposed groups
+B. Only prevalence
+C. Only mortality
+D. Only incidence in one group
+
+**Answer: A**
+
+### Q168. A relative risk of 1 indicates:
+
+A. No association between exposure and outcome
+B. Strong positive association
+C. Strong negative association
+D. Complete protection
+
+**Answer: A**
+
+### Q169. If incidence among smokers is 20/1000 and among non-smokers is 5/1000, RR is:
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+**Answer: C**
+
+### Q170. Relative risk is particularly used in:
+
+A. Cohort studies
+B. Case-control studies only
+C. Case reports only
+D. Ecological studies only
+
+**Answer: A**
+
+### Q171. Odds ratio is commonly used in:
+
+A. Case-control studies
+B. Cohort studies only
+C. Randomised trials only
+D. Cross-sectional studies only
+
+**Answer: A**
+
+---
+
+# K. Mortality and Disease Burden
+
+### Q172. Infant mortality rate concerns deaths of:
+
+A. Infants under one year
+B. Children under five only
+C. Adults
+D. Pregnant women
+
+**Answer: A**
+
+### Q173. Neonatal mortality concerns deaths during:
+
+A. The neonatal period
+B. Childhood
+C. Adolescence
+D. Adulthood
+
+**Answer: A**
+
+### Q174. Post-neonatal mortality refers to:
+
+A. Deaths after the neonatal period but before one year
+B. Maternal deaths
+C. Adult deaths
+D. Stillbirths
+
+**Answer: A**
+
+### Q175. Maternal mortality concerns:
+
+A. Maternal deaths
+B. Infant deaths
+C. Neonatal deaths
+D. Elderly deaths
+
+**Answer: A**
+
+### Q176. YPLL stands for:
+
+A. Years of Potential Life Lost
+B. Years of Public Life Lost
+C. Years of Population Life Level
+D. Years of Preventive Life Loss
+
+**Answer: A**
+
+### Q177. YPLL measures the impact of:
+
+A. Premature mortality
+B. Disease incidence only
+C. Prevalence only
+D. Vaccination
+
+**Answer: A**
+
+---
+
+# L. Demographic Transition and NCDs
+
+### Q178. Demographic transition refers to a shift from:
+
+A. High birth and death rates to low birth and death rates
+B. Low birth and death rates to high rates
+C. High prevalence to low prevalence only
+D. Rural to urban hospitals only
+
+**Answer: A**
+
+### Q179. Improved sanitation contributes to:
+
+A. Declining death rates
+B. Increasing mortality
+C. Increasing disease burden only
+D. Increasing infection
+
+**Answer: A**
+
+### Q180. During demographic transition, life expectancy:
+
+A. Increases
+B. Always decreases
+C. Remains fixed
+D. Becomes zero
+
+**Answer: A**
+
+### Q181. The disease burden shifts toward:
+
+A. Non-communicable diseases
+B. Only infectious diseases
+C. Only nutritional diseases
+D. Only injuries
+
+**Answer: A**
+
+### Q182. Which is an NCD listed in the notes?
+
+A. Hypertension
+B. Cholera
+C. Malaria
+D. Tuberculosis
+
+**Answer: A**
+
+### Q183. Diabetes is classified as:
+
+A. A non-communicable disease
+B. A communicable disease
+C. A vector-borne disease
+D. A zoonotic disease
+
+**Answer: A**
+
+### Q184. Cancer is classified as:
+
+A. A non-communicable disease
+B. A vector-borne disease
+C. A zoonosis
+D. A communicable disease
+
+**Answer: A**
+
+---
+
+# M. Levels of Prevention
+
+### Q185. Primary prevention occurs:
+
+A. Before disease occurs
+B. After disability
+C. Only after diagnosis
+D. During rehabilitation
+
+**Answer: A**
+
+### Q186. Health promotion is part of:
+
+A. Primary prevention
+B. Secondary prevention
+C. Tertiary prevention
+D. Rehabilitation only
+
+**Answer: A**
+
+### Q187. Immunisation is an example of:
+
+A. Primary prevention
+B. Secondary prevention
+C. Tertiary prevention
+D. Rehabilitation
+
+**Answer: A**
+
+### Q188. Secondary prevention focuses on:
+
+A. Early detection and prompt treatment
+B. Rehabilitation only
+C. Preventing exposure only
+D. Disability limitation only
+
+**Answer: A**
+
+### Q189. Screening is primarily:
+
+A. Secondary prevention
+B. Primary prevention
+C. Tertiary prevention
+D. Palliative care
+
+**Answer: A**
+
+### Q190. Screening for hypertension is:
+
+A. Secondary prevention
+B. Primary prevention
+C. Tertiary prevention
+D. Rehabilitation
+
+**Answer: A**
+
+### Q191. Tertiary prevention focuses on:
+
+A. Limiting disability and rehabilitation
+B. Early exposure
+C. Immunisation
+D. Health promotion only
+
+**Answer: A**
+
+### Q192. Physiotherapy after stroke is an example of:
+
+A. Tertiary prevention
+B. Primary prevention
+C. Secondary prevention
+D. Screening
+
+**Answer: A**
+
+### Q193. Mass screening is used to detect:
+
+A. Unrecognised disease in apparently healthy people
+B. Only known disease
+C. Only severe disease
+D. Only genetic conditions
+
+**Answer: A**
+
+---
+
+# N. Surveillance and Outbreak Investigation
+
+### Q194. Surveillance is:
+
+A. Continuous, systematic collection, analysis and interpretation of health data for action
+B. A one-time survey
+C. Treatment of patients
+D. Hospital admission
+
+**Answer: A**
+
+### Q195. Passive surveillance involves:
+
+A. Routine reports submitted by health facilities/providers
+B. Active searching by health authorities
+C. Randomised treatment
+D. Laboratory experiments
+
+**Answer: A**
+
+### Q196. A disadvantage of passive surveillance is:
+
+A. Underreporting
+B. Excessive cost
+C. Randomisation
+D. Blinding
+
+**Answer: A**
+
+### Q197. Active surveillance involves:
+
+A. Health authorities actively searching for cases
+B. Waiting for routine reports
+C. No data collection
+D. Only hospital records
+
+**Answer: A**
+
+### Q198. Sentinel surveillance uses:
+
+A. Selected reporting sites
+B. Every person in the population
+C. Only international airports
+D. Only private hospitals
+
+**Answer: A**
+
+### Q199. Syndromic surveillance is based on:
+
+A. Symptoms before diagnosis
+B. Genetic testing only
+C. Treatment outcome only
+D. Mortality only
+
+**Answer: A**
+
+### Q200. IDSP stands for:
+
+A. Integrated Disease Surveillance Programme
+B. Indian Disease Safety Programme
+C. Integrated Diagnostic Service Programme
+D. Indian Digital Surveillance Programme
+
+**Answer: A**
+
+### Q201. IDSP operates under:
+
+A. Ministry of Health and Family Welfare
+B. Ministry of Finance
+C. Ministry of Education
+D. Ministry of Railways
+
+**Answer: A**
+
+### Q202. NCDC stands for:
+
+A. National Centre for Disease Control
+B. National Council for Disease Care
+C. National Centre for Diagnostic Care
+D. National Committee for Disease Control
+
+**Answer: A**
+
+### Q203. NCDC provides:
+
+A. Technical support during major outbreaks
+B. Only insurance
+C. Only medical education
+D. Only tertiary surgery
+
+**Answer: A**
+
+### Q204. The first step in outbreak investigation is to:
+
+A. Prepare and confirm the existence of an outbreak
+B. Start treatment immediately
+C. Draw the epidemic curve
+D. Publish the findings
+
+**Answer: A**
+
+### Q205. Before taking action, investigators should:
+
+A. Verify the diagnosis
+B. Ignore diagnosis
+C. Start vaccination regardless
+D. Close all hospitals
+
+**Answer: A**
+
+### Q206. Cases should be described by:
+
+A. Time, place and person
+B. Age only
+C. Treatment only
+D. Hospital only
+
+**Answer: A**
+
+### Q207. An epidemic curve helps describe cases according to:
+
+A. Time
+B. Genetics
+C. Treatment
+D. Cost
+
+**Answer: A**
+
+### Q208. Investigators should develop and test:
+
+A. Hypotheses about source and mode of spread
+B. Only treatment plans
+C. Insurance policies
+D. Hospital architecture
+
+**Answer: A**
+
+### Q209. Control measures may include:
+
+A. Sanitation, vaccination and contact tracing
+B. Only surgery
+C. Only antibiotics
+D. Only hospitalisation
+
+**Answer: A**
+
+### Q210. The final outbreak investigation step includes:
+
+A. Communicating findings and establishing surveillance
+B. Ignoring the results
+C. Destroying records
+D. Ending monitoring
+
+**Answer: A**
+
+---
+
+# O. Public Health Programmes and Digital Tools
+
+### Q211. The National Health Mission provides:
+
+A. Comprehensive primary care
+B. Only tertiary surgery
+C. Only insurance
+D. Only medical education
+
+**Answer: A**
+
+### Q212. Ayushman Bharat is associated with:
+
+A. Health coverage and healthcare access
+B. Only disease surveillance
+C. Only medical education
+D. Only sanitation
+
+**Answer: A**
+
+### Q213. Health programmes use digital tools for:
+
+A. Reporting, monitoring and tracking cases
+B. Only surgery
+C. Only pharmacy sales
+D. Only medical education
+
+**Answer: A**
+
+### Q214. NCD programmes focus on diseases such as:
+
+A. Hypertension and diabetes
+B. Cholera only
+C. Malaria only
+D. Tuberculosis only
+
+**Answer: A**
+
+---
+
+# UNIT III — TRADITIONAL AND COMPLEMENTARY MEDICINE
+
+## A. Ayurveda
+
+### Q215. Ayurveda literally combines:
+
+A. Ayu and Veda
+B. Yoga and Veda
+C. Ayu and Yoga
+D. Veda and Siddha
+
+**Answer: A**
+
+### Q216. Ayurveda means:
+
+A. Science/knowledge of life
+B. Science of surgery
+C. Science of drugs
+D. Science of anatomy
+
+**Answer: A**
+
+### Q217. The primary goal of Ayurveda is to:
+
+A. Maintain health and treat disease
+B. Perform surgery only
+C. Manufacture drugs
+D. Replace all modern medicine
+
+**Answer: A**
+
+### Q218. Ayurveda emphasises balance of:
+
+A. Body, mind, senses and spirit
+B. Only body
+C. Only mind
+D. Only diet
+
+**Answer: A**
+
+### Q219. The foundational theory of Ayurveda is based on:
+
+A. Three doshas
+B. Germ theory
+C. Gene theory
+D. Cell theory
+
+**Answer: A**
+
+### Q220. The three doshas are:
+
+A. Vata, Pitta and Kapha
+B. Vata, Agni and Ama
+C. Ojas, Prana and Agni
+D. Pitta, Prana and Ama
+
+**Answer: A**
+
+### Q221. Ayurveda treats the person as:
+
+A. A whole involving body, mind and environment
+B. Only a collection of organs
+C. Only a physical body
+D. Only a mental system
+
+**Answer: A**
+
+### Q222. Ayurveda's current relevance includes:
+
+A. Integrative care
+B. Replacing all biomedical emergency care
+C. Replacing surgery
+D. Replacing all diagnostic systems
+
+**Answer: A**
+
+---
+
+# B. Tridosha
+
+### Q223. Vata is associated with:
+
+A. Movement and nervous system functions
+B. Digestion only
+C. Structure only
+D. Immunity only
+
+**Answer: A**
+
+### Q224. Pitta is associated with:
+
+A. Digestion and metabolism
+B. Movement only
+C. Structural stability only
+D. Sleep only
+
+**Answer: A**
+
+### Q225. Kapha is associated with:
+
+A. Stability and structural functions
+B. Movement only
+C. Metabolism only
+D. Respiration only
+
+**Answer: A**
+
+### Q226. Vata is associated with the elements:
+
+A. Air and space
+B. Fire and water
+C. Earth and water
+D. Fire and earth
+
+**Answer: A**
+
+### Q227. Pitta is associated with:
+
+A. Fire and water
+B. Air and space
+C. Earth and water
+D. Space and earth
+
+**Answer: A**
+
+### Q228. Kapha is associated with:
+
+A. Water and earth
+B. Fire and air
+C. Air and space
+D. Fire and space
+
+**Answer: A**
+
+### Q229. A predominantly stable, heavy and soft constitution is associated with:
+
+A. Kapha
+B. Vata
+C. Pitta
+D. Prana
+
+**Answer: A**
+
+### Q230. A thin constitution with dry skin and quick/restless characteristics is associated with:
+
+A. Vata
+B. Kapha
+C. Pitta
+D. Ojas
+
+**Answer: A**
+
+### Q231. Blood, lymph and plasma are classified in the notes as:
+
+A. Dhatus, not doshas
+B. Doshas
+C. Agni
+D. Ama
+
+**Answer: A**
+
+---
+
+# C. Panchamahabhuta
+
+### Q232. Panchamahabhuta means:
+
+A. Five great elements
+B. Three doshas
+C. Seven tissues
+D. Five therapies
+
+**Answer: A**
+
+### Q233. The five great elements include:
+
+A. Earth, water, fire, air and space
+B. Earth, blood, fire, air and mind
+C. Water, blood, lymph, air and fire
+D. Earth, tissue, water, fire and mind
+
+**Answer: A**
+
+### Q234. The element associated with space is:
+
+A. Akasha
+B. Vayu
+C. Agni
+D. Prithvi
+
+**Answer: A**
+
+### Q235. The element associated with movement is:
+
+A. Vayu
+B. Agni
+C. Jala
+D. Prithvi
+
+**Answer: A**
+
+### Q236. The element associated with transformation/metabolism is:
+
+A. Agni
+B. Vayu
+C. Akasha
+D. Prithvi
+
+**Answer: A**
+
+### Q237. Water is associated with:
+
+A. Kapha
+B. Vata only
+C. Pitta only
+D. Prana
+
+**Answer: A**
+
+### Q238. The notes state that the five elements are also used conceptually in:
+
+A. Naturopathic practices
+B. Modern surgery
+C. Epidemiological trials
+D. Health insurance
+
+**Answer: A**
+
+---
+
+# D. Prakriti, Vikriti, Samadosha, Agni, Ama, Ojas and Prana
+
+### Q239. Prakriti refers to:
+
+A. Natural constitution established at conception
+B. Current disease state
+C. Digestive fire
+D. Toxin
+
+**Answer: A**
+
+### Q240. Vikriti refers to:
+
+A. Present imbalance
+B. Natural constitution
+C. Healthy balance
+D. Vital energy
+
+**Answer: A**
+
+### Q241. Samadosha refers to:
+
+A. Balanced state of doshas
+B. Disease
+C. Toxin
+D. Constitution
+
+**Answer: A**
+
+### Q242. Agni refers to:
+
+A. Digestive/metabolic fire
+B. Constitution
+C. Toxin
+D. Vital essence
+
+**Answer: A**
+
+### Q243. Ama is described as:
+
+A. Toxin/undigested metabolic residue
+B. Healthy constitution
+C. Vital energy
+D. Balanced dosha
+
+**Answer: A**
+
+### Q244. Ojas is described as:
+
+A. Essence/vital strength
+B. Toxin
+C. Digestive fire
+D. Disease state
+
+**Answer: A**
+
+### Q245. Prana refers to:
+
+A. Vital life energy
+B. Toxin
+C. Constitution
+D. Waste product
+
+**Answer: A**
+
+### Q246. Which term represents natural constitution?
+
+A. Prakriti
+B. Vikriti
+C. Ama
+D. Agni
+
+**Answer: A**
+
+### Q247. Which term represents present imbalance?
+
+A. Vikriti
+B. Prakriti
+C. Ojas
+D. Prana
+
+**Answer: A**
+
+### Q248. Which term represents balanced doshas?
+
+A. Samadosha
+B. Ama
+C. Vikriti
+D. Agni
+
+**Answer: A**
+
+---
+
+# E. Dinacharya, Ritucharya and Panchakarma
+
+### Q249. Dinacharya means:
+
+A. Daily regimen
+B. Seasonal regimen
+C. Five purification procedures
+D. Meditation
+
+**Answer: A**
+
+### Q250. Which is part of Dinacharya?
+
+A. Waking early
+B. Organ transplantation
+C. Chemotherapy
+D. Genetic testing
+
+**Answer: A**
+
+### Q251. Tongue scraping is included in:
+
+A. Dinacharya
+B. Panchakarma only
+C. Ritucharya only
+D. Yoga Ashtanga
+
+**Answer: A**
+
+### Q252. Abhyanga refers to:
+
+A. Massage
+B. Emesis
+C. Purging
+D. Nasal administration
+
+**Answer: A**
+
+### Q253. Dinacharya is primarily:
+
+A. Preventive wellness
+B. Emergency surgery
+C. Cancer therapy
+D. Genetic treatment
+
+**Answer: A**
+
+### Q254. Ritucharya means:
+
+A. Seasonal regimen
+B. Daily regimen
+C. Five-element theory
+D. Meditation
+
+**Answer: A**
+
+### Q255. Ritucharya adapts:
+
+A. Diet and lifestyle according to seasons
+B. Surgery according to age
+C. Insurance according to income
+D. Hospitalisation according to disease
+
+**Answer: A**
+
+### Q256. Panchakarma refers to:
+
+A. Five purification procedures
+B. Five elements
+C. Five doshas
+D. Five exercises
+
+**Answer: A**
+
+### Q257. Vamana means:
+
+A. Therapeutic emesis
+B. Purging
+C. Enema
+D. Nasal administration
+
+**Answer: A**
+
+### Q258. Virechana means:
+
+A. Purging
+B. Emesis
+C. Massage
+D. Meditation
+
+**Answer: A**
+
+### Q259. Basti refers to:
+
+A. Medicated enema
+B. Therapeutic vomiting
+C. Nasal administration
+D. Massage
+
+**Answer: A**
+
+### Q260. Nasya involves:
+
+A. Nasal administration
+B. Enema
+C. Purging
+D. Massage
+
+**Answer: A**
+
+### Q261. Raktamokshana refers to:
+
+A. Bloodletting
+B. Meditation
+C. Massage
+D. Nasal therapy
+
+**Answer: A**
+
+### Q262. Panchakarma is traditionally used to:
+
+A. Remove excess doshas
+B. Treat genetic deletions
+C. Perform emergency surgery
+D. Replace modern diagnostics
+
+**Answer: A**
+
+---
+
+# F. Yoga
+
+### Q263. Yoga combines:
+
+A. Physical, mental and spiritual practices
+B. Only physical exercises
+C. Only breathing
+D. Only meditation
+
+**Answer: A**
+
+### Q264. Yoga is a component of:
+
+A. AYUSH
+B. NMC
+C. NTEP
+D. NACP
+
+**Answer: A**
+
+### Q265. Patanjali's Ashtanga Yoga has:
+
+A. Eight limbs
+B. Five limbs
+C. Three limbs
+D. Ten limbs
+
+**Answer: A**
+
+### Q266. Which is one limb of Ashtanga Yoga?
+
+A. Yama
+B. Panchakarma
+C. Agni
+D. Ama
+
+**Answer: A**
+
+### Q267. Which is NOT an Ashtanga Yoga limb?
+
+A. Basti
+B. Asana
+C. Pranayama
+D. Dhyana
+
+**Answer: A**
+
+### Q268. Asana refers to:
+
+A. Physical postures
+B. Breath regulation
+C. Meditation
+D. Ethical restraint
+
+**Answer: A**
+
+### Q269. Asana improves:
+
+A. Flexibility, strength and balance
+B. Only memory
+C. Only digestion
+D. Only hearing
+
+**Answer: A**
+
+### Q270. Pranayama refers to:
+
+A. Breath regulation
+B. Physical postures
+C. Meditation only
+D. Massage
+
+**Answer: A**
+
+### Q271. An example of pranayama mentioned is:
+
+A. Anulom Vilom
+B. Vamana
+C. Basti
+D. Abhyanga
+
+**Answer: A**
+
+### Q272. Kapalabhati is associated with:
+
+A. Pranayama
+B. Panchakarma
+C. Dinacharya
+D. Epidemiology
+
+**Answer: A**
+
+### Q273. Dhyana refers to:
+
+A. Meditation
+B. Physical exercise
+C. Massage
+D. Purging
+
+**Answer: A**
+
+### Q274. The primary therapeutic outcome of yoga noted is:
+
+A. Stress reduction and improved wellbeing
+B. Emergency surgery
+C. Antibiotic treatment
+D. Genetic modification
+
+**Answer: A**
+
+### Q275. Yoga may contribute to:
+
+A. Better sleep, concentration and quality of life
+B. Only increased muscle size
+C. Only weight loss
+D. Only disease diagnosis
+
+**Answer: A**
+
+---
+
+# G. Naturopathy
+
+### Q276. Naturopathy is based on:
+
+A. The healing power of nature
+B. Synthetic drugs
+C. Surgery
+D. Radiation
+
+**Answer: A**
+
+### Q277. The healing power of nature is called:
+
+A. Vis Medicatrix Naturae
+B. Prakriti
+C. Samadosha
+D. Panchakarma
+
+**Answer: A**
+
+### Q278. Naturopathy generally avoids:
+
+A. Synthetic drugs
+B. Natural therapies
+C. Exercise
+D. Massage
+
+**Answer: A**
+
+### Q279. Naturopathy uses:
+
+A. Natural elements and therapies
+B. Only surgery
+C. Only synthetic drugs
+D. Only radiation
+
+**Answer: A**
+
+### Q280. Naturopathy has a community-health role in:
+
+A. Health promotion and preventive health
+B. Organ transplantation
+C. Emergency surgery
+D. Genetic engineering
+
+**Answer: A**
+
+### Q281. Yoga and naturopathy are components of:
+
+A. Complementary/integrative medicine
+B. Emergency medicine
+C. Medical education
+D. Epidemiological surveillance
+
+**Answer: A**
+
+---
+
+# H. Evaluating Traditional Remedies and Integrative Care
+
+### Q282. Traditional herbal remedies should be evaluated through:
+
+A. Experimental testing and clinical studies
+B. Tradition alone
+C. Cost alone
+D. Popularity alone
+
+**Answer: A**
+
+### Q283. Treatment efficacy is assessed using:
+
+A. Scientific/clinical evidence
+B. Popular belief only
+C. Patent value only
+D. Cost only
+
+**Answer: A**
+
+### Q284. When comparing Ayurveda with modern allopathic treatment, evaluation should consider:
+
+A. Clinical evidence and standardisation
+B. Popularity only
+C. Cost only
+D. Cultural preference only
+
+**Answer: A**
+
+### Q285. Integrative care combines:
+
+A. Preventive strengths of traditional systems with diagnostic/emergency strengths of biomedicine
+B. Only traditional medicine
+C. Only surgery
+D. Only naturopathy
+
+**Answer: A**
+
+---
+
+# UNIT IV — HEALTHCARE DELIVERY SYSTEMS AND ADMINISTRATION
+
+## A. Healthcare Structure
+
+### Q286. India's healthcare delivery system is organised as:
+
+A. A three-tier pyramidal structure
+B. A two-tier structure
+C. A single-tier structure
+D. A flat structure
+
+**Answer: A**
+
+### Q287. The three levels are:
+
+A. Primary, secondary and tertiary
+B. Local, district and national
+C. Rural, urban and private
+D. Basic, intermediate and corporate
+
+**Answer: A**
+
+### Q288. The majority of health needs should ideally be addressed:
+
+A. Close to the community
+B. Only at tertiary hospitals
+C. Only at medical colleges
+D. Only in private hospitals
+
+**Answer: A**
+
+### Q289. Patients requiring progressively specialised care are:
+
+A. Referred upward
+B. Referred downward
+C. Discharged immediately
+D. Sent to pharmacies
+
+**Answer: A**
+
+---
+
+## B. Primary Care
+
+### Q290. Primary care is:
+
+A. The first point of contact with the health system
+B. The highest level of specialised care
+C. Only surgical care
+D. Only hospital care
+
+**Answer: A**
+
+### Q291. Primary care focuses on:
+
+A. Prevention, promotion and basic curative care
+B. Organ transplantation
+C. Cancer surgery only
+D. Super-specialty procedures
+
+**Answer: A**
+
+### Q292. Sub-Centres/Health and Wellness Centres are part of:
+
+A. Primary care
+B. Tertiary care
+C. Corporate care
+D. Super-specialty care
+
+**Answer: A**
+
+### Q293. Primary Health Centres are abbreviated:
+
+A. PHCs
+B. PCHs
+C. HCPs
+D. CHPs
+
+**Answer: A**
+
+### Q294. Immunisation is an important service at:
+
+A. Primary care level
+B. Tertiary level only
+C. Corporate level only
+D. Medical college level only
+
+**Answer: A**
+
+---
+
+## C. Secondary Care
+
+### Q295. Secondary care provides:
+
+A. More specialised outpatient and inpatient services
+B. Only health promotion
+C. Only immunisation
+D. Only community education
+
+**Answer: A**
+
+### Q296. Secondary care receives:
+
+A. Referrals from primary care
+B. Referrals only from tertiary care
+C. No referrals
+D. Only international patients
+
+**Answer: A**
+
+### Q297. Community Health Centres are associated with:
+
+A. Secondary care
+B. Tertiary care only
+C. Primary prevention only
+D. Insurance administration
+
+**Answer: A**
+
+### Q298. District hospitals are part of:
+
+A. Secondary care
+B. Primary care only
+C. Tertiary care only
+D. Community outreach only
+
+**Answer: A**
+
+---
+
+## D. Tertiary Care
+
+### Q299. Tertiary care is:
+
+A. Highly specialised and technology-intensive
+B. Basic community care
+C. Health education only
+D. Immunisation only
+
+**Answer: A**
+
+### Q300. Tertiary hospitals typically act as:
+
+A. Referral centres for complex cases
+B. First contact for every basic service
+C. Village health centres
+D. Insurance offices
+
+**Answer: A**
+
+### Q301. Examples of tertiary institutions include:
+
+A. AIIMS, government medical colleges and super-specialty hospitals
+B. Sub-Centres only
+C. Anganwadi centres only
+D. Pharmacies only
+
+**Answer: A**
+
+### Q302. Cardiac surgery is an example of:
+
+A. Tertiary care
+B. Primary care
+C. Community health promotion
+D. Basic preventive care
+
+**Answer: A**
+
+### Q303. Oncology services are generally associated with:
+
+A. Tertiary care
+B. Primary care only
+C. Sub-Centres
+D. Health education
+
+**Answer: A**
+
+### Q304. Organ transplantation is:
+
+A. Highly specialised tertiary care
+B. Primary care
+C. Secondary outpatient care
+D. Community screening
+
+**Answer: A**
+
+---
+
+# E. Administrative and Regulatory Framework
+
+### Q305. Healthcare administration in India operates through:
+
+A. A federal structure
+B. A completely centralised structure
+C. A completely private structure
+D. A single local authority
+
+**Answer: A**
+
+### Q306. Responsibilities are shared between:
+
+A. Centre and States
+B. Hospitals and patients only
+C. Doctors and nurses only
+D. Private companies only
+
+**Answer: A**
+
+### Q307. The Ministry of Health & Family Welfare is abbreviated:
+
+A. MoHFW
+B. MHRD
+C. NMC
+D. NCDC
+
+**Answer: A**
+
+### Q308. MoHFW is responsible for:
+
+A. Policy formulation and national programmes
+B. Only village-level administration
+C. Only private hospitals
+D. Only nursing education
+
+**Answer: A**
+
+### Q309. State Health Departments are responsible for:
+
+A. State-level planning and management
+B. International health policy only
+C. Medical research only
+D. Insurance only
+
+**Answer: A**
+
+### Q310. District Health Officers are involved in:
+
+A. District-level planning, monitoring and coordination
+B. National policy formulation
+C. Medical college admission
+D. Insurance underwriting
+
+**Answer: A**
+
+### Q311. National Medical Commission is abbreviated:
+
+A. NMC
+B. NHM
+C. NCDC
+D. NTEP
+
+**Answer: A**
+
+### Q312. NMC is associated with:
+
+A. Professional standards and medical education
+B. Disease surveillance only
+C. Primary care delivery only
+D. Health insurance only
+
+**Answer: A**
+
+### Q313. State Medical Councils provide:
+
+A. Professional oversight
+B. Primary immunisation
+C. Disease surveillance only
+D. Hospital construction
+
+**Answer: A**
+
+### Q314. Health is primarily a:
+
+A. State subject
+B. Central subject only
+C. Private subject
+D. District-only subject
+
+**Answer: A**
+
+### Q315. States have the main responsibility for:
+
+A. Healthcare delivery
+B. International health policy
+C. Global disease surveillance
+D. Medical research only
+
+**Answer: A**
+
+### Q316. The Centre plays a:
+
+A. Coordinating and funding role
+B. Completely independent hospital role
+C. Private insurance role
+D. Village administration role
+
+**Answer: A**
+
+### Q317. Centrally sponsored schemes include:
+
+A. National Health Mission and Ayushman Bharat
+B. Only NTEP
+C. Only NACP
+D. Only private insurance
+
+**Answer: A**
+
+---
+
+# 🔥 MIXED HIGH-PRIORITY REVISION
+
+### Q318. Which ancient physician is associated with internal medicine?
+
+A. Charaka
+B. Sushruta
+C. Vagbhata
+D. Madhavakara
+
+**Answer: A**
+
+### Q319. Who is known as the father of ancient Indian surgery in the notes?
+
+A. Sushruta
+B. Charaka
+C. Vagbhata
+D. Madhavakara
+
+**Answer: A**
+
+### Q320. Which work is associated with Sushruta?
+
+A. Sushruta Samhita
+B. Charaka Samhita
+C. Madhava Nidana
+D. Ashtanga Hridaya
+
+**Answer: A**
+
+### Q321. Which system came to India with Arab and Persian physicians?
+
+A. Unani
+B. Siddha
+C. Ayurveda
+D. Yoga
+
+**Answer: A**
+
+### Q322. Which system flourished in South India?
+
+A. Siddha
+B. Unani
+C. Homoeopathy
+D. Ayurveda only
+
+**Answer: A**
+
+### Q323. Which committee recommended integration of preventive and curative services?
+
+A. Bhore Committee
+B. Chadha Committee
+C. Kartar Singh Committee
+D. Shrivastava Committee
+
+**Answer: A**
+
+### Q324. Which committee is associated with multipurpose health workers?
+
+A. Kartar Singh Committee
+B. Bhore Committee
+C. Mudaliar Committee
+D. Jungalwalla Committee
+
+**Answer: A**
+
+### Q325. Which organisation provides technical support during major outbreaks?
+
+A. NCDC
+B. NMC
+C. NACP
+D. PHC
+
+**Answer: A**
+
+### Q326. Which programme is related to disease surveillance?
+
+A. IDSP
+B. NTEP
+C. NACP
+D. NUHM
+
+**Answer: A**
+
+### Q327. Which measure counts existing cases?
+
+A. Prevalence
+B. Incidence
+C. Relative risk
+D. YPLL
+
+**Answer: A**
+
+### Q328. Which measure counts new cases?
+
+A. Incidence
+B. Prevalence
+C. Mortality
+D. YPLL
+
+**Answer: A**
+
+### Q329. Which study commonly uses odds ratio?
+
+A. Case-control
+B. Cohort
+C. RCT
+D. Ecological only
+
+**Answer: A**
+
+### Q330. Which study commonly uses relative risk?
+
+A. Cohort
+B. Case-control
+C. Case report
+D. Ecological study
+
+**Answer: A**
+
+### Q331. Which prevention level uses screening?
+
+A. Secondary
+B. Primary
+C. Tertiary
+D. Primordial only
+
+**Answer: A**
+
+### Q332. Which prevention level includes rehabilitation?
+
+A. Tertiary
+B. Primary
+C. Secondary
+D. Screening
+
+**Answer: A**
+
+### Q333. Which surveillance system involves routine reporting without active searching?
+
+A. Passive surveillance
+B. Active surveillance
+C. Sentinel surveillance
+D. Syndromic surveillance
+
+**Answer: A**
+
+### Q334. Which surveillance involves active searching for cases?
+
+A. Active surveillance
+B. Passive surveillance
+C. Sentinel surveillance
+D. Syndromic surveillance
+
+**Answer: A**
+
+### Q335. Which epidemic results from a single common source?
+
+A. Point-source epidemic
+B. Propagated epidemic
+C. Seasonal epidemic
+D. Sporadic disease
+
+**Answer: A**
+
+### Q336. Which epidemic spreads through successive generations?
+
+A. Propagated epidemic
+B. Point-source epidemic
+C. Seasonal epidemic
+D. Endemic disease
+
+**Answer: A**
+
+### Q337. Which Ayurvedic concept means natural constitution?
+
+A. Prakriti
+B. Vikriti
+C. Ama
+D. Agni
+
+**Answer: A**
+
+### Q338. Which Ayurvedic concept means present imbalance?
+
+A. Vikriti
+B. Prakriti
+C. Ojas
+D. Prana
+
+**Answer: A**
+
+### Q339. Which Ayurvedic concept represents digestive/metabolic fire?
+
+A. Agni
+B. Ama
+C. Ojas
+D. Prakriti
+
+**Answer: A**
+
+### Q340. Which Ayurvedic concept represents toxins/undigested residue?
+
+A. Ama
+B. Agni
+C. Ojas
+D. Prana
+
+**Answer: A**
+
+### Q341. Which dosha is primarily associated with movement?
+
+A. Vata
+B. Pitta
+C. Kapha
+D. Ojas
+
+**Answer: A**
+
+### Q342. Which dosha is primarily associated with metabolism?
+
+A. Pitta
+B. Vata
+C. Kapha
+D. Prana
+
+**Answer: A**
+
+### Q343. Which dosha is associated with stability and structure?
+
+A. Kapha
+B. Vata
+C. Pitta
+D. Agni
+
+**Answer: A**
+
+### Q344. Which Panchakarma procedure means therapeutic emesis?
+
+A. Vamana
+B. Virechana
+C. Basti
+D. Nasya
+
+**Answer: A**
+
+### Q345. Which Panchakarma procedure means purging?
+
+A. Virechana
+B. Vamana
+C. Basti
+D. Raktamokshana
+
+**Answer: A**
+
+### Q346. Which Panchakarma procedure is a medicated enema?
+
+A. Basti
+B. Nasya
+C. Vamana
+D. Virechana
+
+**Answer: A**
+
+### Q347. Which Panchakarma procedure involves nasal administration?
+
+A. Nasya
+B. Basti
+C. Vamana
+D. Raktamokshana
+
+**Answer: A**
+
+### Q348. Which Yoga limb involves physical postures?
+
+A. Asana
+B. Pranayama
+C. Dhyana
+D. Samadhi
+
+**Answer: A**
+
+### Q349. Which Yoga limb involves breath regulation?
+
+A. Pranayama
+B. Asana
+C. Dhyana
+D. Yama
+
+**Answer: A**
+
+### Q350. Which Yoga practice involves mental focus and meditation?
+
+A. Dhyana
+B. Asana
+C. Basti
+D. Vamana
+
+**Answer: A**
+
+### Q351. Which system is based on the healing power of nature?
+
+A. Naturopathy
+B. Unani
+C. Allopathy
+D. Epidemiology
+
+**Answer: A**
+
+### Q352. Which level of healthcare is the first point of contact?
+
+A. Primary
+B. Secondary
+C. Tertiary
+D. Super-specialty
+
+**Answer: A**
+
+### Q353. Which level provides specialised outpatient and inpatient services?
+
+A. Secondary
+B. Primary
+C. Tertiary only
+D. Community level only
+
+**Answer: A**
+
+### Q354. Which level provides highly specialised, technology-intensive care?
+
+A. Tertiary
+B. Primary
+C. Secondary
+D. Community
+
+**Answer: A**
+
+### Q355. Which institution is associated with tertiary care?
+
+A. AIIMS
+B. Sub-Centre
+C. PHC only
+D. Health and Wellness Centre only
+
+**Answer: A**
+
+### Q356. Which body regulates medical education and professional standards nationally?
+
+A. NMC
+B. NCDC
+C. IDSP
+D. NHM
+
+**Answer: A**
+
+### Q357. Which body provides technical outbreak support?
+
+A. NCDC
+B. NMC
+C. State Medical Council
+D. PHC
+
+**Answer: A**
+
+### Q358. Which ministry formulates national health policies and programmes?
+
+A. Ministry of Health & Family Welfare
+B. Ministry of Finance
+C. Ministry of Education
+D. Ministry of Railways
+
+**Answer: A**
+
+### Q359. India's healthcare system follows:
+
+A. A pyramidal primary-secondary-tertiary structure
+B. A tertiary-primary-secondary structure
+C. A private-only structure
+D. A single-level structure
+
+**Answer: A**
+
+### Q360. The central idea of the Indian healthcare delivery structure is:
+
+A. Address common needs close to the community and refer complex cases upward
+B. Send all patients directly to tertiary hospitals
+C. Eliminate primary care
+D. Provide only private healthcare
+
+**Answer: A**
+
+---
+
+## 🧠 Final IHS Rapid-Recall Sheet
+
+| Topic                  | Key fact                                 |
+| ---------------------- | ---------------------------------------- |
+| Charaka                | Internal medicine                        |
+| Sushruta               | Ancient surgery                          |
+| Vagbhata               | Ashtanga Hridaya & Ashtanga Sangraha     |
+| Unani                  | Arab/Persian influence                   |
+| Siddha                 | South India                              |
+| Bhore Committee        | Preventive + curative integration        |
+| Mudaliar Committee     | Strengthening existing PHCs/hospitals    |
+| Chadha Committee       | Multipurpose workers                     |
+| Kartar Singh Committee | Multipurpose health workers              |
+| Shrivastava Committee  | Community health workers                 |
+| NHM                    | NRHM + NUHM                              |
+| PHC                    | Primary care                             |
+| CHC                    | Secondary care                           |
+| AIIMS                  | Tertiary care                            |
+| Epidemiology           | Distribution + determinants + control    |
+| Triad                  | Agent + host + environment               |
+| Incidence              | New cases                                |
+| Prevalence             | Existing cases                           |
+| Infectivity            | Ability to infect                        |
+| Pathogenicity          | Ability to cause disease                 |
+| Virulence              | Severity                                 |
+| Point-source epidemic  | Common single source                     |
+| Propagated epidemic    | Person-to-person generations             |
+| Herd immunity          | Community protection from high immunity  |
+| Quarantine             | Restricts exposed healthy persons        |
+| Case-control           | Odds ratio                               |
+| Cohort                 | Relative risk                            |
+| RCT                    | Randomised intervention                  |
+| Confounding            | Related to exposure + outcome            |
+| Primary prevention     | Before disease                           |
+| Secondary prevention   | Early detection/screening                |
+| Tertiary prevention    | Rehabilitation/disability limitation     |
+| Passive surveillance   | Routine reporting                        |
+| Active surveillance    | Active case search                       |
+| IDSP                   | Disease surveillance                     |
+| NCDC                   | Outbreak technical support               |
+| Ayurveda               | Science/knowledge of life                |
+| Tridosha               | Vata + Pitta + Kapha                     |
+| Vata                   | Movement                                 |
+| Pitta                  | Metabolism                               |
+| Kapha                  | Stability                                |
+| Prakriti               | Natural constitution                     |
+| Vikriti                | Present imbalance                        |
+| Samadosha              | Balanced doshas                          |
+| Agni                   | Digestive/metabolic fire                 |
+| Ama                    | Toxin/undigested residue                 |
+| Ojas                   | Vital essence/strength                   |
+| Prana                  | Vital life energy                        |
+| Dinacharya             | Daily regimen                            |
+| Ritucharya             | Seasonal regimen                         |
+| Panchakarma            | Five purification procedures             |
+| Vamana                 | Therapeutic emesis                       |
+| Virechana              | Purging                                  |
+| Basti                  | Medicated enema                          |
+| Nasya                  | Nasal administration                     |
+| Asana                  | Physical postures                        |
+| Pranayama              | Breath regulation                        |
+| Dhyana                 | Meditation                               |
+| Naturopathy            | Healing power of nature                  |
+| Primary care           | First contact                            |
+| Secondary care         | Specialised OPD/IPD                      |
+| Tertiary care          | Highly specialised care                  |
+| MoHFW                  | National health policy/programmes        |
+| NMC                    | Medical education/professional standards |
+| State                  | Main responsibility for health delivery  |
+| Centre                 | Coordination + funding                   |
+
+**This gives you 360 MCQs for IHS**, with the questions distributed across **all four units in your uploaded material** rather than importing an external IHS syllabus. 
